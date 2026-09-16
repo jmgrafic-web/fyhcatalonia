@@ -19,7 +19,7 @@ permalink: /es/blog/
         <p>El proceso paso a paso, los 5 errores más caros y una primera foto de las 5 zonas donde trabajamos. En PDF, al instante.</p>
       </div>
       <form action="https://formspree.io/f/TU_ID_FORMSPREE" method="POST">
-        <input type="hidden" name="_next" value="/es/gracias-guia/">
+        <input type="hidden" name="_next" value="{{ '/es/gracias-guia/' | absolute_url }}">
         <input type="hidden" name="_subject" value="Descarga: Guía Costa Brava 2026">
         <input type="email" name="Email" placeholder="Tu email" required>
         <button class="btn btn--solid" type="submit">Descargar guía →</button>
@@ -28,7 +28,7 @@ permalink: /es/blog/
 
     <div class="article-grid mt-lg">
       {% for a in items %}
-      <a class="card" href="{{ a.url }}">
+      <a class="card" href="{{ a.url | relative_url }}">
         {% if a.image %}<div class="card-img"><img src="{{ a.image }}" alt="" loading="lazy"></div>{% endif %}
         <div class="card-body">
           <span class="eyebrow">{{ a.topic }}</span>

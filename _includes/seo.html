@@ -1,7 +1,7 @@
 {% assign pg_lang = page.lang | default: "en" %}
 {% assign pg_title = page.title %}
 {% assign pg_desc = page.description | default: site.description %}
-{% assign pg_url = site.url | append: page.url %}
+{% assign pg_url = page.url | absolute_url %}
 
 <title>{{ pg_title }} · Find Your Haven</title>
 <meta name="description" content="{{ pg_desc }}">
@@ -12,7 +12,7 @@
      en el front matter como "translations" (ver ARTICLES-GUIA.md) -->
 {% if page.translations %}
   {% for t in page.translations %}
-  <link rel="alternate" hreflang="{{ t[0] }}" href="{{ site.url }}{{ t[1] }}">
+  <link rel="alternate" hreflang="{{ t[0] }}" href="{{ t[1] | absolute_url }}">
   {% endfor %}
   <link rel="alternate" hreflang="x-default" href="{{ pg_url }}">
 {% endif %}
@@ -23,5 +23,5 @@
 <meta property="og:url" content="{{ pg_url }}">
 <meta property="og:site_name" content="Find Your Haven">
 <meta property="og:locale" content="{{ pg_lang }}">
-<meta property="og:image" content="{{ site.url }}/assets/img/og-cover.jpg">
+<meta property="og:image" content="{{ '/assets/img/og-cover.jpg' | absolute_url }}">
 <meta name="twitter:card" content="summary_large_image">

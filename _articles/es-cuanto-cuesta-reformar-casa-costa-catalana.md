@@ -48,4 +48,4 @@ La forma más eficaz de que un presupuesto se mantenga es que exista, desde el p
 
 ## Nuestro enfoque
 
-En Find Your Haven, la estimación de reforma en tres niveles forma parte de la due diligence técnica, antes de que tomes ninguna decisión de compra. Si finalmente reformas con nosotros, presentamos 2-3 propuestas comparables de constructoras de confianza y mantenemos supervisión activa hasta la entrega. Puedes ver el detalle en [arquitectura y reforma](/es/#servicios).
+En Find Your Haven, la estimación de reforma en tres niveles forma parte de la due diligence técnica, antes de que tomes ninguna decisión de compra. Si finalmente reformas con nosotros, presentamos 2-3 propuestas comparables de constructoras de confianza y mantenemos supervisión activa hasta la entrega. Puedes ver el detalle en [arquitectura y reforma]({{ site.baseurl }}/es/#servicios).

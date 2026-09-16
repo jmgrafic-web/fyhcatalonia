@@ -9,14 +9,14 @@
     <div class="footer-cols">
       <div>
         <h4>{{ t.nav_home | default: "Menu" }}</h4>
-        <a href="/{{ lang }}/#servicios">{{ t.nav_services }}</a>
-        <a href="/{{ lang }}/#proceso">{{ t.nav_process }}</a>
-        <a href="/{{ lang }}/blog/">{{ t.nav_blog }}</a>
+        <a href="{{ site.baseurl }}/{{ lang }}/#servicios">{{ t.nav_services }}</a>
+        <a href="{{ site.baseurl }}/{{ lang }}/#proceso">{{ t.nav_process }}</a>
+        <a href="{{ site.baseurl }}/{{ lang }}/blog/">{{ t.nav_blog }}</a>
       </div>
       <div>
         <h4>Contact</h4>
         <a href="mailto:hello@findyourhaven.com">hello@findyourhaven.com</a>
-        <a href="/{{ lang }}/#contacto">{{ t.cta_contact }}</a>
+        <a href="{{ site.baseurl }}/{{ lang }}/#contacto">{{ t.cta_contact }}</a>
       </div>
     </div>
   </div>

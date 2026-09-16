@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://findyourhaven.com/sitemap.xml
+Sitemap: https://jmgrafic-web.github.io/fyhcatalonia/sitemap.xml

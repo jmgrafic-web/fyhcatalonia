@@ -50,4 +50,4 @@ Cualquier intervención relevante en una masía requiere proyecto arquitectónic
 
 ## Nuestro enfoque en el Empordà
 
-El Empordà interior es una de nuestras zonas de mayor actividad, precisamente porque combina lo que mejor sabemos hacer: acceso a propiedades off-market a través de nuestra red local, valoración técnica seria antes de comprometerse, y gestión completa de la reforma con el mismo criterio arquitectónico que evaluó el inmueble. Puedes ver el resto de zonas donde trabajamos en [territorio](/es/#territorio).
+El Empordà interior es una de nuestras zonas de mayor actividad, precisamente porque combina lo que mejor sabemos hacer: acceso a propiedades off-market a través de nuestra red local, valoración técnica seria antes de comprometerse, y gestión completa de la reforma con el mismo criterio arquitectónico que evaluó el inmueble. Puedes ver el resto de zonas donde trabajamos en [territorio]({{ site.baseurl }}/es/#territorio).

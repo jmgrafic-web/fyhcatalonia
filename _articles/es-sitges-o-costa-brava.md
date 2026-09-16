@@ -36,10 +36,10 @@ No es casualidad que veamos patrones distintos según la zona. En Sitges, el com
 
 ## Una tercera opción: el Empordà interior
 
-Si ninguna de las dos encaja del todo —si lo que buscas no es ni la vida costera de Sitges ni la primera línea de mar de la Costa Brava, sino algo más rural y con más carácter propio— vale la pena mirar el Empordà interior: masías, casas de pueblo y fincas alejadas de la costa, con presupuestos en general más accesibles. Hablamos de ello en detalle en nuestra guía sobre [comprar una masía en el Empordà](/es/blog/comprar-masia-emporda-reformar/).
+Si ninguna de las dos encaja del todo —si lo que buscas no es ni la vida costera de Sitges ni la primera línea de mar de la Costa Brava, sino algo más rural y con más carácter propio— vale la pena mirar el Empordà interior: masías, casas de pueblo y fincas alejadas de la costa, con presupuestos en general más accesibles. Hablamos de ello en detalle en nuestra guía sobre [comprar una masía en el Empordà]({{ site.baseurl }}/es/blog/comprar-masia-emporda-reformar/).
 
 ## Cómo decidir sin dejarse llevar solo por la primera impresión
 
 La forma más fiable de decidir no es elegir una zona antes de tiempo, sino visitar con criterio: entender qué se puede comprar realmente con tu presupuesto en cada zona, qué estado de conservación es habitual, y qué tipo de vida ofrece cada lugar fuera de las dos semanas de vacaciones de verano.
 
-En Find Your Haven empezamos cada proyecto con una conversación real sobre estilo de vida, no con un listado de inmuebles al azar. A partir de ahí, preparamos un informe con propiedades curadas de la zona —o zonas— que mejor encajan con lo que buscas. Puedes ver cómo funciona en [nuestro proceso](/es/#proceso).
+En Find Your Haven empezamos cada proyecto con una conversación real sobre estilo de vida, no con un listado de inmuebles al azar. A partir de ahí, preparamos un informe con propiedades curadas de la zona —o zonas— que mejor encajan con lo que buscas. Puedes ver cómo funciona en [nuestro proceso]({{ site.baseurl }}/es/#proceso).

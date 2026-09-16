@@ -26,7 +26,7 @@ Como referencia orientativa, es habitual que estos gastos adicionales sumen entr
 
 ## El NIE, paso previo a casi todo
 
-Ya lo mencionábamos en nuestra guía sobre [comprar vivienda en la Costa Brava](/es/blog/comprar-vivienda-costa-brava-extranjero/): el Número de Identificación de Extranjero es necesario para firmar la compra, abrir cuenta bancaria, dar de alta suministros y presentar cualquier declaración fiscal posterior. No es un trámite fiscal en sí mismo, pero es la puerta de entrada a todos los que vienen después.
+Ya lo mencionábamos en nuestra guía sobre [comprar vivienda en la Costa Brava]({{ site.baseurl }}/es/blog/comprar-vivienda-costa-brava-extranjero/): el Número de Identificación de Extranjero es necesario para firmar la compra, abrir cuenta bancaria, dar de alta suministros y presentar cualquier declaración fiscal posterior. No es un trámite fiscal en sí mismo, pero es la puerta de entrada a todos los que vienen después.
 
 ## Impuestos que continúan después de la compra
 
@@ -50,6 +50,6 @@ Para compradores fuera de la Unión Europea, la inversión inmobiliaria ha sido 
 
 Ninguno de estos trámites es, por separado, especialmente complejo. Lo que genera fricción real es gestionarlos todos a la vez, desde otro país, sin un interlocutor que hable tu idioma y conozca el proceso de principio a fin.
 
-En Find Your Haven coordinamos a tu gestor y a tu asesor fiscal como parte natural del proceso de compra —no como un trámite aparte que tengas que buscar por tu cuenta—. Puedes ver cómo se integra este acompañamiento en el conjunto del proceso en [representación del comprador](/es/#servicios).
+En Find Your Haven coordinamos a tu gestor y a tu asesor fiscal como parte natural del proceso de compra —no como un trámite aparte que tengas que buscar por tu cuenta—. Puedes ver cómo se integra este acompañamiento en el conjunto del proceso en [representación del comprador]({{ site.baseurl }}/es/#servicios).
 
 *Este artículo tiene un propósito informativo general y no constituye asesoramiento fiscal ni legal. Los tipos impositivos y requisitos vigentes deben confirmarse con un asesor fiscal o gestor antes de tomar cualquier decisión.*

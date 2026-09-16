@@ -30,7 +30,7 @@ Si el plan incluye reformar, conviene tener una horquilla de coste desde el prim
 
 Esta es, con diferencia, la fase donde más dinero se pierde. Un anuncio bonito no dice nada sobre el estado real de la cubierta, la humedad de los muros, la antigüedad de la instalación eléctrica o si la última reforma tenía licencia. En construcciones antiguas —muy habituales en los pueblos con encanto de la Costa Brava— estos detalles marcan la diferencia entre una inversión acertada y un problema que aparece a los seis meses.
 
-Una inspección técnica antes de firmar arras no es un lujo: es la única forma de negociar el precio con datos reales, o de descartar un inmueble a tiempo. Si quieres entender en qué consiste exactamente este paso, tenemos un artículo dedicado a la [due diligence técnica inmobiliaria](/es/blog/due-diligence-tecnica-inmobiliaria/).
+Una inspección técnica antes de firmar arras no es un lujo: es la única forma de negociar el precio con datos reales, o de descartar un inmueble a tiempo. Si quieres entender en qué consiste exactamente este paso, tenemos un artículo dedicado a la [due diligence técnica inmobiliaria]({{ site.baseurl }}/es/blog/due-diligence-tecnica-inmobiliaria/).
 
 ## 4. Entiende quién trabaja para quién
 
@@ -58,4 +58,4 @@ La compra se formaliza ante notario, con la escritura pública como documento de
 
 La Costa Brava sigue siendo una de las zonas más demandadas de la costa mediterránea para compradores internacionales, y con razón: pocos lugares combinan de esta forma el paisaje, el patrimonio y la calidad de vida. Pero comprar bien aquí, desde fuera, requiere alguien que conozca el terreno tanto en sentido literal como legal y técnico.
 
-En Find Your Haven acompañamos cada uno de estos pasos —desde la primera conversación hasta la entrega de llaves— con un único punto de contacto y una mirada de arquitecto detrás de cada recomendación. Puedes ver el detalle completo en [nuestros servicios](/es/#servicios) o en [cómo trabajamos](/es/#proceso).
+En Find Your Haven acompañamos cada uno de estos pasos —desde la primera conversación hasta la entrega de llaves— con un único punto de contacto y una mirada de arquitecto detrás de cada recomendación. Puedes ver el detalle completo en [nuestros servicios]({{ site.baseurl }}/es/#servicios) o en [cómo trabajamos]({{ site.baseurl }}/es/#proceso).

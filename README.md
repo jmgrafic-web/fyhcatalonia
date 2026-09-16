@@ -19,6 +19,20 @@ index.html            página raíz: selector de idioma + redirección automáti
 ARTICLES-GUIA.md      cómo añadir un artículo nuevo — léelo antes de publicar el primero
 ```
 
+## Nota sobre la URL actual
+
+Este paquete está configurado para publicarse en `https://jmgrafic-web.github.io/fyhcatalonia/`
+(repo de proyecto llamado `fyhcatalonia`). Todo el sitio usa `site.baseurl` internamente para
+que los enlaces, el CSS y el JS funcionen correctamente bajo esa subcarpeta — no hace falta
+tocar nada más para que funcione tal cual.
+
+Si en el futuro **renombras el repo** o **conectas un dominio propio**, solo tienes que editar
+dos líneas en `_config.yml`:
+- `url:` → tu nuevo dominio (o `https://jmgrafic-web.github.io` si usas un dominio propio con este mismo repo)
+- `baseurl:` → `""` (vacío) si el sitio pasa a vivir en la raíz del dominio, o `"/nuevo-nombre-repo"` si sigue siendo un repo de proyecto con otro nombre
+
+Después de cambiar esas dos líneas, haz commit — GitHub reconstruye el sitio solo.
+
 ## Desplegar en GitHub Pages (la primera vez)
 
 1. Crea un repositorio nuevo en GitHub y sube todo el contenido de esta carpeta

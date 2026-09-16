@@ -56,4 +56,4 @@ Una inspección seria responde con claridad a las cinco preguntas. Si alguna gen
 
 ## Nuestro enfoque
 
-En Find Your Haven, la due diligence técnica es un paso obligado antes de recomendar avanzar con cualquier inmueble: inspección presencial completa, informe escrito en tu idioma en 5-7 días hábiles, y estimación de reforma en tres niveles —básica, media y premium— para que la decisión de compra se tome con información real, no con esperanza. Puedes ver el resto del proceso en [cómo trabajamos](/es/#proceso).
+En Find Your Haven, la due diligence técnica es un paso obligado antes de recomendar avanzar con cualquier inmueble: inspección presencial completa, informe escrito en tu idioma en 5-7 días hábiles, y estimación de reforma en tres niveles —básica, media y premium— para que la decisión de compra se tome con información real, no con esperanza. Puedes ver el resto del proceso en [cómo trabajamos]({{ site.baseurl }}/es/#proceso).

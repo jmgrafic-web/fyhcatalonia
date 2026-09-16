@@ -21,10 +21,10 @@ layout: default
       <div class="article-cta">
         <h3>{{ page.cta_title | default: t.cta_contact }}</h3>
         <p>{{ page.cta_body }}</p>
-        <a class="btn btn--on-dark" href="/{{ lang }}/#contacto">{{ t.cta_contact }} →</a>
+        <a class="btn btn--on-dark" href="{{ site.baseurl }}/{{ lang }}/#contacto">{{ t.cta_contact }} →</a>
       </div>
 
-      <p class="mt-lg"><a href="/{{ lang }}/blog/">← {{ t.blog_back }}</a></p>
+      <p class="mt-lg"><a href="{{ site.baseurl }}/{{ lang }}/blog/">← {{ t.blog_back }}</a></p>
     </div>
   </div>
 </article>

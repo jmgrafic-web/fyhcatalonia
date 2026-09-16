@@ -14,11 +14,11 @@ permalink: /fr/blog/
     <p class="lede">Des guides pratiques, sans remplissage, écrits par l'équipe qui accompagne ces projets chaque jour.</p>
 
     {% if items.size == 0 %}
-      <p class="mt-lg" style="color:var(--ink-soft);">De nouveaux articles arrivent bientôt. En attendant, découvrez <a href="/es/blog/" style="text-decoration:underline;">l'édition espagnole du Journal</a>.</p>
+      <p class="mt-lg" style="color:var(--ink-soft);">De nouveaux articles arrivent bientôt. En attendant, découvrez <a href="{{ '/es/blog/' | relative_url }}" style="text-decoration:underline;">l'édition espagnole du Journal</a>.</p>
     {% else %}
     <div class="article-grid mt-lg">
       {% for a in items %}
-      <a class="card" href="{{ a.url }}">
+      <a class="card" href="{{ a.url | relative_url }}">
         {% if a.image %}<div class="card-img"><img src="{{ a.image }}" alt="" loading="lazy"></div>{% endif %}
         <div class="card-body">
           <span class="eyebrow">{{ a.topic }}</span>

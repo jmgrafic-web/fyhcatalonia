@@ -1,7 +1,7 @@
 title: Find Your Haven
 description: "Mediterranean Coast · Catalonia · 360° Property Partner"
-url: "https://findyourhaven.com"     # cámbialo por tu dominio/URL de GitHub Pages cuando lo tengas
-baseurl: ""
+url: "https://jmgrafic-web.github.io"     # cámbialo si más adelante conectas tu propio dominio
+baseurl: "/fyhcatalonia"                  # nombre de tu repo. Ponlo a "" si algún día usas un dominio propio o un repo user.github.io
 
 # ---------------------------------------------------------------------------
 # Plugins permitidos de forma nativa por GitHub Pages (no requieren GitHub
