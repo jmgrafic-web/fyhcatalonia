@@ -1,0 +1,30 @@
+---
+layout: default
+---
+{% assign lang = page.lang | default: "en" %}
+{% assign t = site.data.strings[lang] %}
+<article>
+  <div class="article-hero">
+    {% if page.image %}
+    <div class="hero-bg"><img src="{{ page.image }}" alt="" loading="eager"></div>
+    {% endif %}
+    <div class="wrap">
+      <p class="meta">{{ page.date | date: "%-d %B %Y" }} · {{ page.topic }}</p>
+      <h1>{{ page.title }}</h1>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="wrap article-body">
+      {{ content }}
+
+      <div class="article-cta">
+        <h3>{{ page.cta_title | default: t.cta_contact }}</h3>
+        <p>{{ page.cta_body }}</p>
+        <a class="btn btn--on-dark" href="/{{ lang }}/#contacto">{{ t.cta_contact }} →</a>
+      </div>
+
+      <p class="mt-lg"><a href="/{{ lang }}/blog/">← {{ t.blog_back }}</a></p>
+    </div>
+  </div>
+</article>

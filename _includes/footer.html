@@ -1,0 +1,27 @@
+{% assign lang = page.lang | default: "en" %}
+{% assign t = site.data.strings[lang] %}
+<footer class="site-footer">
+  <div class="wrap">
+    <div>
+      <h4>Find Your Haven</h4>
+      <p class="footer-tagline">{{ t.footer_tagline }}</p>
+    </div>
+    <div class="footer-cols">
+      <div>
+        <h4>{{ t.nav_home | default: "Menu" }}</h4>
+        <a href="/{{ lang }}/#servicios">{{ t.nav_services }}</a>
+        <a href="/{{ lang }}/#proceso">{{ t.nav_process }}</a>
+        <a href="/{{ lang }}/blog/">{{ t.nav_blog }}</a>
+      </div>
+      <div>
+        <h4>Contact</h4>
+        <a href="mailto:hello@findyourhaven.com">hello@findyourhaven.com</a>
+        <a href="/{{ lang }}/#contacto">{{ t.cta_contact }}</a>
+      </div>
+    </div>
+  </div>
+  <div class="wrap footer-bottom">
+    <span>© {{ site.time | date: "%Y" }} Find Your Haven. {{ t.footer_rights }}</span>
+    <span>Mediterranean Coast · Catalonia · 360° Property Partner</span>
+  </div>
+</footer>

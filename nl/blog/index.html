@@ -1,0 +1,34 @@
+---
+layout: default
+lang: nl
+title: "Het FYH Journal — Gidsen over kopen en renoveren aan de Catalaanse kust"
+description: "Praktische artikelen over kopen, renoveren en leven aan de Costa Brava, Sitges, de Empordà en de rest van de Catalaanse kust."
+permalink: /nl/blog/
+---
+{% assign items = site.articles | where: "lang", "nl" | sort: "date" | reverse %}
+
+<section class="section" style="padding-top: clamp(90px, 14vw, 130px);">
+  <div class="wrap">
+    <p class="eyebrow">Het FYH Journal</p>
+    <h1>Verhalen over kopen, renoveren en leven aan de Catalaanse kust</h1>
+    <p class="lede">Praktische gidsen zonder opsmuk, geschreven door het team dat deze processen dagelijks begeleidt.</p>
+
+    {% if items.size == 0 %}
+      <p class="mt-lg" style="color:var(--ink-soft);">Nieuwe artikelen zijn onderweg. Bekijk in de tussentijd <a href="/es/blog/" style="text-decoration:underline;">de Spaanse editie van het Journal</a>.</p>
+    {% else %}
+    <div class="article-grid mt-lg">
+      {% for a in items %}
+      <a class="card" href="{{ a.url }}">
+        {% if a.image %}<div class="card-img"><img src="{{ a.image }}" alt="" loading="lazy"></div>{% endif %}
+        <div class="card-body">
+          <span class="eyebrow">{{ a.topic }}</span>
+          <h3>{{ a.title }}</h3>
+          <p>{{ a.description }}</p>
+          <span class="read">Lees het artikel →</span>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+    {% endif %}
+  </div>
+</section>

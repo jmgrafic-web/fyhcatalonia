@@ -1,0 +1,43 @@
+---
+layout: default
+lang: es
+title: "La Revista FYH — Guías sobre comprar y reformar en la Costa Catalana"
+description: "Artículos y guías prácticas sobre comprar, reformar y vivir en la Costa Brava, Sitges, el Empordà y el resto de la costa catalana."
+permalink: /es/blog/
+---
+{% assign items = site.articles | where: "lang", "es" | sort: "date" | reverse %}
+
+<section class="section" style="padding-top: clamp(90px, 14vw, 130px);">
+  <div class="wrap">
+    <p class="eyebrow">Revista FYH</p>
+    <h1>Notas sobre comprar, reformar y vivir en la costa catalana</h1>
+    <p class="lede">Guías prácticas, sin relleno, escritas por el equipo que acompaña estos procesos cada día.</p>
+
+    <div class="leadbox">
+      <div class="leadbox-copy">
+        <h3>Guía gratuita: comprar en la Costa Brava — Edición 2026</h3>
+        <p>El proceso paso a paso, los 5 errores más caros y una primera foto de las 5 zonas donde trabajamos. En PDF, al instante.</p>
+      </div>
+      <form action="https://formspree.io/f/TU_ID_FORMSPREE" method="POST">
+        <input type="hidden" name="_next" value="/es/gracias-guia/">
+        <input type="hidden" name="_subject" value="Descarga: Guía Costa Brava 2026">
+        <input type="email" name="Email" placeholder="Tu email" required>
+        <button class="btn btn--solid" type="submit">Descargar guía →</button>
+      </form>
+    </div>
+
+    <div class="article-grid mt-lg">
+      {% for a in items %}
+      <a class="card" href="{{ a.url }}">
+        {% if a.image %}<div class="card-img"><img src="{{ a.image }}" alt="" loading="lazy"></div>{% endif %}
+        <div class="card-body">
+          <span class="eyebrow">{{ a.topic }}</span>
+          <h3>{{ a.title }}</h3>
+          <p>{{ a.description }}</p>
+          <span class="read">Leer el artículo →</span>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>

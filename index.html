@@ -1,0 +1,46 @@
+---
+layout: null
+title: "Find Your Haven"
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Find Your Haven · Mediterranean Coast · Catalonia</title>
+<meta name="description" content="Find Your Haven — your 360° property partner on the Catalan coast. Available in English, Español, Nederlands and Français.">
+<link rel="canonical" href="{{ site.url }}/">
+<link rel="alternate" hreflang="en" href="{{ site.url }}/en/">
+<link rel="alternate" hreflang="es" href="{{ site.url }}/es/">
+<link rel="alternate" hreflang="nl" href="{{ site.url }}/nl/">
+<link rel="alternate" hreflang="fr" href="{{ site.url }}/fr/">
+<link rel="alternate" hreflang="x-default" href="{{ site.url }}/en/">
+<link href="https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  body{margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;background:#1C3640;color:#F4EFE3;font-family:'Jost',sans-serif;text-align:center;}
+  .box{padding:2em;}
+  h1{font-weight:400;letter-spacing:.06em;font-size:1.6rem;margin-bottom:1.6em;}
+  .langs{display:flex;gap:1.2em;justify-content:center;flex-wrap:wrap;}
+  a{color:#F4EFE3;border:1px solid rgba(244,239,227,.4);padding:.7em 1.6em;text-decoration:none;letter-spacing:.05em;}
+  a:hover{background:#C17F45;border-color:#C17F45;}
+</style>
+<script>
+  var supported = ["en","es","nl","fr"];
+  var browserLang = (navigator.language || "en").slice(0,2).toLowerCase();
+  if (supported.indexOf(browserLang) > -1) {
+    window.location.replace("/" + browserLang + "/");
+  }
+</script>
+</head>
+<body>
+  <div class="box">
+    <h1>FIND YOUR HAVEN</h1>
+    <div class="langs">
+      <a href="/en/">English</a>
+      <a href="/es/">Español</a>
+      <a href="/nl/">Nederlands</a>
+      <a href="/fr/">Français</a>
+    </div>
+  </div>
+</body>
+</html>

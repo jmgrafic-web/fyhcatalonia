@@ -1,0 +1,34 @@
+---
+layout: default
+lang: fr
+title: "Le Journal FYH — Guides pour acheter et rénover sur la Côte Catalane"
+description: "Articles pratiques sur l'achat, la rénovation et la vie sur la Costa Brava, Sitges, l'Empordà et le reste de la côte catalane."
+permalink: /fr/blog/
+---
+{% assign items = site.articles | where: "lang", "fr" | sort: "date" | reverse %}
+
+<section class="section" style="padding-top: clamp(90px, 14vw, 130px);">
+  <div class="wrap">
+    <p class="eyebrow">Le Journal FYH</p>
+    <h1>Réflexions sur l'achat, la rénovation et la vie sur la côte catalane</h1>
+    <p class="lede">Des guides pratiques, sans remplissage, écrits par l'équipe qui accompagne ces projets chaque jour.</p>
+
+    {% if items.size == 0 %}
+      <p class="mt-lg" style="color:var(--ink-soft);">De nouveaux articles arrivent bientôt. En attendant, découvrez <a href="/es/blog/" style="text-decoration:underline;">l'édition espagnole du Journal</a>.</p>
+    {% else %}
+    <div class="article-grid mt-lg">
+      {% for a in items %}
+      <a class="card" href="{{ a.url }}">
+        {% if a.image %}<div class="card-img"><img src="{{ a.image }}" alt="" loading="lazy"></div>{% endif %}
+        <div class="card-body">
+          <span class="eyebrow">{{ a.topic }}</span>
+          <h3>{{ a.title }}</h3>
+          <p>{{ a.description }}</p>
+          <span class="read">Lire l'article →</span>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+    {% endif %}
+  </div>
+</section>

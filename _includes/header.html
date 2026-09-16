@@ -1,0 +1,41 @@
+{% assign lang = page.lang | default: "en" %}
+{% assign t = site.data.strings[lang] %}
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/{{ lang }}/">
+      <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <path d="M10 44V20C10 11.16 16.16 5 24 5C31.84 5 38 11.16 38 20V44" stroke="#1C3640" stroke-width="2"/>
+        <circle cx="24" cy="14" r="2.6" stroke="#C17F45" stroke-width="2"/>
+        <path d="M10 33C13 31 16 35 19 33C22 31 25 35 28 33C31 31 34 35 38 33" stroke="#48707C" stroke-width="2" stroke-linecap="round"/>
+      </svg>
+      <span class="brand-name">Find Your <b>Haven</b></span>
+    </a>
+
+    <button class="nav-toggle" id="navToggle" aria-label="Menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+
+    <nav class="main-nav" id="mainNav">
+      <a href="/{{ lang }}/#quienes-somos">{{ t.nav_home }}</a>
+      <a href="/{{ lang }}/#servicios">{{ t.nav_services }}</a>
+      <a href="/{{ lang }}/#proceso">{{ t.nav_process }}</a>
+      <a href="/{{ lang }}/blog/" {% if page.url contains '/blog/' %}class="is-active"{% endif %}>{{ t.nav_blog }}</a>
+      <a class="btn btn--solid" href="/{{ lang }}/#contacto">{{ t.nav_contact }}</a>
+      <span class="lang-switch">
+        {% for l in site.languages %}
+          <a href="/{{ l.code }}/" class="{% if l.code == lang %}is-current{% endif %}">{{ l.code | upcase }}</a>
+        {% endfor %}
+      </span>
+    </nav>
+  </div>
+</header>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var btn = document.getElementById('navToggle');
+    var nav = document.getElementById('mainNav');
+    btn.addEventListener('click', function () {
+      var open = nav.classList.toggle('is-open');
+      btn.setAttribute('aria-expanded', open);
+    });
+  });
+</script>
