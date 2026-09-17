@@ -2,18 +2,18 @@
 {% assign t = site.data.strings[lang] %}
 <footer class="site-footer">
   <div class="wrap">
-    <div>
-      <h4>Find Your Haven</h4>
-      <p class="footer-tagline">{{ t.footer_tagline }}</p>
-    </div>
-    <div class="footer-cols">
+    <div class="footer-main">
       <div>
-        <h4>{{ t.nav_home | default: "Menu" }}</h4>
+        <div class="footer-brand-name">Find Your Haven</div>
+        <p class="footer-brand-desc">{{ t.footer_tagline }}</p>
+      </div>
+      <div class="footer-col">
+        <h4>{{ t.nav_home }}</h4>
         <a href="{{ site.baseurl }}/{{ lang }}/#servicios">{{ t.nav_services }}</a>
         <a href="{{ site.baseurl }}/{{ lang }}/#proceso">{{ t.nav_process }}</a>
         <a href="{{ site.baseurl }}/{{ lang }}/blog/">{{ t.nav_blog }}</a>
       </div>
-      <div>
+      <div class="footer-col">
         <h4>Contact</h4>
         <a href="mailto:hello@findyourhaven.com">hello@findyourhaven.com</a>
         <a href="{{ site.baseurl }}/{{ lang }}/#contacto">{{ t.cta_contact }}</a>
@@ -22,6 +22,6 @@
   </div>
   <div class="wrap footer-bottom">
     <span>© {{ site.time | date: "%Y" }} Find Your Haven. {{ t.footer_rights }}</span>
-    <span>Mediterranean Coast · Catalonia · 360° Property Partner</span>
+    <span>Mediterranean Coast · Catalonia</span>
   </div>
 </footer>

@@ -1,5 +1,16 @@
 document.addEventListener('DOMContentLoaded', function () {
 
+  /* ---------- Cabecera: fondo al hacer scroll ---------- */
+  var header = document.getElementById('siteHeader');
+  if (header) {
+    function updateHeader() {
+      if (window.scrollY > 40) header.classList.add('is-scrolled');
+      else header.classList.remove('is-scrolled');
+    }
+    window.addEventListener('scroll', updateHeader, { passive: true });
+    updateHeader();
+  }
+
   /* ---------- Menú móvil ---------- */
   var btn = document.getElementById('navToggle');
   var nav = document.getElementById('mainNav');
