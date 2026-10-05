@@ -3,9 +3,19 @@ layout: article
 lang: es
 topic: Comparativas de zona
 title: "Sitges o Costa Brava: qué zona elegir según tu estilo de vida"
-description: "Comparativa honesta entre Sitges y la Costa Brava para comprar una segunda residencia: distancias, tipo de vivienda, precios y perfil de vida."
+seo_title: "Sitges o Costa Brava: qué zona elegir para tu casa"
+description: "Sitges o Costa Brava para tu segunda residencia: comparativa honesta de distancias, tipo de vivienda, precios y estilo de vida."
 date: 2026-02-02
 permalink: /es/blog/sitges-o-costa-brava/
+translations:
+  es: /es/blog/sitges-o-costa-brava/
+  en: /en/blog/sitges-or-costa-brava-comparison/
+  nl: /nl/blog/sitges-of-costa-brava-vergelijking/
+  fr: /fr/blog/sitges-ou-costa-brava-comparaison/
+related:
+  - /es/blog/sitges-guia-comprar-zona-cosmopolita/
+  - /es/blog/cadaques-begur-llafranc-diferencias/
+  - /es/blog/maresme-alternativa-costa-brava/
 image: "https://images.pexels.com/photos/30051052/pexels-photo-30051052/free-photo-of-charming-sitges-beachfront-on-a-summer-day.jpeg?auto=compress&cs=tinysrgb&w=1800"
 cta_body: "Cuéntanos qué buscas y te ayudamos a decidir entre zonas con una selección de inmuebles real, no solo con opiniones."
 ---
@@ -14,9 +24,9 @@ Es una de las preguntas que más recibimos de compradores internacionales que to
 
 ## La diferencia de fondo
 
-Sitges es, ante todo, cercanía con estilo de vida urbano. A menos de cuarenta minutos de Barcelona y a veinte del aeropuerto, combina playa, vida cultural, gastronomía y una comunidad internacional muy consolidada —histórica, de hecho, entre compradores británicos y estadounidenses. Es la opción natural para quien quiere una segunda residencia sin renunciar a la ciudad, o para quien busca vivir allí de forma permanente sin aislarse.
+[Sitges]({{ site.baseurl }}/es/blog/sitges-guia-comprar-zona-cosmopolita/) es, ante todo, cercanía con estilo de vida urbano. A menos de cuarenta minutos de Barcelona y a veinte del aeropuerto, combina playa, vida cultural, gastronomía y una comunidad internacional muy consolidada —histórica, de hecho, entre compradores británicos y estadounidenses. Es la opción natural para quien quiere una segunda residencia sin renunciar a la ciudad, o para quien busca vivir allí de forma permanente sin aislarse.
 
-La Costa Brava, en cambio, es distancia y carácter. Sus municipios de referencia —Begur, Pals, Llafranc, Cadaqués, Tamariu— están a una hora y media o dos de Barcelona, y ofrecen algo que Sitges ya no puede: calas todavía poco masificadas, patrimonio arquitectónico mediterráneo intacto y un ritmo de vida notablemente más tranquilo, especialmente fuera de los meses de verano.
+La Costa Brava, en cambio, es distancia y carácter. Sus municipios de referencia —Begur, Pals, Llafranc, [Cadaqués]({{ site.baseurl }}/es/blog/cadaques-begur-llafranc-diferencias/), Tamariu— están a una hora y media o dos de Barcelona, y ofrecen algo que Sitges ya no puede: calas todavía poco masificadas, patrimonio arquitectónico mediterráneo intacto y un ritmo de vida notablemente más tranquilo, especialmente fuera de los meses de verano.
 
 ## Tipo de vivienda
 

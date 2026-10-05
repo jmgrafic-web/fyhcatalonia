@@ -3,9 +3,22 @@ layout: article
 lang: es
 topic: Due diligence técnica
 title: "Due diligence técnica inmobiliaria: qué es y por qué puede ahorrarte decenas de miles de euros"
-description: "En qué consiste una inspección técnica antes de comprar una vivienda, qué revela que un anuncio nunca cuenta y cómo protege tu inversión."
+seo_title: "Due diligence técnica al comprar vivienda en España"
+description: "Qué es la due diligence técnica al comprar vivienda en España, qué revela que un anuncio nunca cuenta y cómo puede ahorrarte miles de euros."
 date: 2026-01-19
 permalink: /es/blog/due-diligence-tecnica-inmobiliaria/
+translations:
+  es: /es/blog/due-diligence-tecnica-inmobiliaria/
+  en: /en/blog/technical-due-diligence-property-explained/
+  nl: /nl/blog/technische-due-diligence-vastgoed-uitgelegd/
+  fr: /fr/blog/due-diligence-technique-immobiliere-explication/
+related:
+  - /es/blog/errores-legales-comprar-sin-abogado/
+  - /es/blog/cuanto-cuesta-reformar-casa-costa-catalana/
+  - /es/blog/comprar-masia-emporda-reformar/
+pillar: true
+pillar_order: 2
+footer_label: "Due diligence técnica"
 image: "https://images.unsplash.com/photo-1721244653627-90b840127a7a?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Antes de firmar arras por cualquier inmueble, hablemos de lo que una inspección técnica puede revelar sobre él."
 ---
@@ -28,7 +41,7 @@ El resultado es un informe escrito, no una impresión verbal en la propia visita
 
 Las fotos de un anuncio muestran lo que el vendedor quiere que veas. Es comprensible —y legítimo—, pero significa que la información que realmente decide si una compra es buena o mala casi nunca está en el portal inmobiliario: está detrás de la pared, debajo del suelo o en el expediente urbanístico del ayuntamiento.
 
-En zonas con mucha vivienda antigua —masías del Empordà, casas de pueblo en la Costa Brava, viviendas modernistas en Sitges— esto es todavía más relevante. Una reforma "aparentemente reciente" puede convivir con una instalación eléctrica de los años setenta, o con una ampliación que nunca se legalizó y que puede acabar suponiendo una sanción o la obligación de derribar.
+En zonas con mucha vivienda antigua —[masías]({{ site.baseurl }}/es/blog/comprar-masia-emporda-reformar/) del Empordà, casas de pueblo en la Costa Brava, viviendas modernistas en Sitges— esto es todavía más relevante. Una reforma "aparentemente reciente" puede convivir con una instalación eléctrica de los años setenta, o con una ampliación que nunca se legalizó y que puede acabar suponiendo una sanción o la obligación de derribar.
 
 ## Un ejemplo habitual
 
@@ -47,7 +60,7 @@ En Find Your Haven, además, ese coste se descuenta íntegramente si finalmente 
 Si vas a encargar una due diligence técnica —con nosotros o con cualquier otro profesional— conviene aclarar de antemano:
 
 1. ¿El informe se entrega por escrito y en tu idioma?
-2. ¿Incluye una estimación de reforma en distintos niveles, o solo un diagnóstico del estado actual?
+2. ¿Incluye una [estimación de reforma]({{ site.baseurl }}/es/blog/cuanto-cuesta-reformar-casa-costa-catalana/) en distintos niveles, o solo un diagnóstico del estado actual?
 3. ¿El técnico visita el inmueble en persona, o trabaja solo con fotografías y documentación?
 4. ¿Se revisa también la situación urbanística y de licencias, o únicamente el estado físico?
 5. ¿En cuántos días hábiles se entrega el informe?

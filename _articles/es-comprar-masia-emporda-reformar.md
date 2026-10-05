@@ -3,9 +3,19 @@ layout: article
 lang: es
 topic: Empordà
 title: "Comprar una masía en el Empordà para reformar: guía completa"
-description: "Precios, permisos, off-market y errores habituales al comprar una masía o casa de pueblo en el Empordà para restaurar."
+seo_title: "Comprar una masía en el Empordà para reformar"
+description: "Comprar una masía en el Empordà para reformar: precios, permisos, propiedades off-market y errores habituales antes de comprometerte."
 date: 2026-01-26
 permalink: /es/blog/comprar-masia-emporda-reformar/
+translations:
+  es: /es/blog/comprar-masia-emporda-reformar/
+  en: /en/blog/buying-farmhouse-emporda-renovate-guide/
+  nl: /nl/blog/boerderij-kopen-emporda-renoveren-gids/
+  fr: /fr/blog/acheter-masia-emporda-renover-guide/
+related:
+  - /es/blog/masia-o-villa-obra-nueva/
+  - /es/blog/cuanto-cuesta-reformar-casa-costa-catalana/
+  - /es/blog/due-diligence-tecnica-inmobiliaria/
 image: "https://images.unsplash.com/photo-1557393120-d3ee552f3736?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Si estás buscando una masía con potencial en el Empordà, contamos con propiedades off-market que no llegan a los portales."
 ---
@@ -18,7 +28,7 @@ Pero comprar una masía para reformar es un tipo de operación distinto a compra
 
 El perfil habitual es alguien —a menudo británico o francés— con presupuesto y, sobre todo, paciencia. No busca la operación más rápida, sino el proyecto más auténtico: una construcción con historia, terreno propio, y la posibilidad de dar forma a un hogar que no existe en el mercado ya terminado.
 
-Los municipios de referencia son Peralada, Ullastret, Monells, La Bisbal d'Empordà, Pals interior, Cruïlles y Vulpellac. El presupuesto habitual para el inmueble más la reforma integral suele moverse entre los 200.000 € y los 500.000 €, según el estado de partida y la superficie.
+Los municipios de referencia son Peralada, Ullastret, Monells, La Bisbal d'Empordà, Pals interior, Cruïlles y Vulpellac. El presupuesto habitual para el inmueble más la [reforma integral]({{ site.baseurl }}/es/blog/cuanto-cuesta-reformar-casa-costa-catalana/) suele moverse entre los 200.000 € y los 500.000 €, según el estado de partida y la superficie.
 
 ## Por qué muchas masías nunca llegan a los portales
 
@@ -47,6 +57,8 @@ Tener una estimación de reforma en distintos niveles —básica, media, premium
 ## Permisos y licencias: cuenta con el plazo
 
 Cualquier intervención relevante en una masía requiere proyecto arquitectónico y licencia municipal, y en función del municipio y del tipo de suelo, los plazos de tramitación pueden ser más largos que en una zona urbana consolidada. Es recomendable contar con un arquitecto que conozca el ayuntamiento y el tipo de expediente concreto, no solo la normativa general.
+
+Antes de decidirte entre restaurar o construir, lee [masía para reformar o villa de obra nueva]({{ site.baseurl }}/es/blog/masia-o-villa-obra-nueva/), y recuerda que cualquier compra de este tipo debería pasar por una [due diligence técnica]({{ site.baseurl }}/es/blog/due-diligence-tecnica-inmobiliaria/).
 
 ## Nuestro enfoque en el Empordà
 

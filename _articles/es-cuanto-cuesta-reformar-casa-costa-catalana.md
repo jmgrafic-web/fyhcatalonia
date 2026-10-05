@@ -3,9 +3,22 @@ layout: article
 lang: es
 topic: Reforma
 title: "Cuánto cuesta reformar una casa en la Costa Catalana: presupuestos por niveles"
-description: "Rangos de presupuesto orientativos para una reforma integral en la Costa Brava, el Empordà o Sitges, y qué determina que el coste suba o baje."
+seo_title: "Cuánto cuesta reformar una casa en la Costa Catalana"
+description: "Cuánto cuesta reformar una casa en la Costa Catalana: rangos de presupuesto por niveles, qué encarece la obra y plazos realistas."
 date: 2026-02-09
 permalink: /es/blog/cuanto-cuesta-reformar-casa-costa-catalana/
+translations:
+  es: /es/blog/cuanto-cuesta-reformar-casa-costa-catalana/
+  en: /en/blog/renovation-cost-catalan-coast-guide/
+  nl: /nl/blog/renovatiekosten-catalaanse-kust-gids/
+  fr: /fr/blog/cout-renovation-cote-catalane-guide/
+related:
+  - /es/blog/due-diligence-tecnica-inmobiliaria/
+  - /es/blog/masia-o-villa-obra-nueva/
+  - /es/blog/comprar-masia-emporda-reformar/
+pillar: true
+pillar_order: 4
+footer_label: "Cuánto cuesta reformar"
 image: "https://images.unsplash.com/photo-1768321902290-54497eeb9cf6?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Antes de comprar, podemos darte una estimación de reforma en tres niveles para el inmueble que estés valorando."
 ---
@@ -16,7 +29,7 @@ Es la pregunta que más veces se repite después de "¿en qué zona compro?": ¿
 
 El error más caro en una reforma no suele ser el sobrecoste durante la obra, sino comprar un inmueble sin haber calculado antes cuánto costaría llevarlo al estado que se busca. Una casa con un precio de compra atractivo puede dejar de serlo en cuanto se suma una reforma integral mal presupuestada desde el principio.
 
-Por eso, en cualquier valoración técnica seria, la estimación de reforma se presenta en tres niveles —básica, media y premium— y no como una cifra única. Esto permite comparar inmuebles de forma realista: uno con un precio de compra más alto pero en buen estado puede salir más barato en conjunto que otro más económico que necesite una intervención estructural completa.
+Por eso, en cualquier [valoración técnica]({{ site.baseurl }}/es/blog/due-diligence-tecnica-inmobiliaria/) seria, la estimación de reforma se presenta en tres niveles —básica, media y premium— y no como una cifra única. Esto permite comparar inmuebles de forma realista: uno con un precio de compra más alto pero en buen estado puede salir más barato en conjunto que otro más económico que necesite una intervención estructural completa.
 
 ## Los tres niveles de reforma
 
@@ -32,7 +45,7 @@ Algunos factores encarecen una reforma de forma significativa, independientement
 
 - **Intervención en cubierta o estructura.** Si hay que tocar la estructura de madera de la cubierta o reforzar muros de carga, el coste sube de forma notable —y es precisamente lo que una due diligence técnica detecta antes de comprar, no después.
 - **Antigüedad de las instalaciones.** Una vivienda con instalación eléctrica o de fontanería de más de treinta años casi siempre necesita sustitución completa, no solo actualización.
-- **Accesibilidad de la obra.** Masías o casas en cascos históricos con acceso complicado para maquinaria y materiales encarecen la logística de la obra.
+- **Accesibilidad de la obra.** [Masías]({{ site.baseurl }}/es/blog/comprar-masia-emporda-reformar/) o casas en cascos históricos con acceso complicado para maquinaria y materiales encarecen la logística de la obra.
 - **Legalización pendiente.** Si hay ampliaciones o cambios anteriores sin licencia, puede ser necesario legalizarlos antes de continuar, lo que añade tiempo y coste de gestoría o proyecto técnico.
 - **Nivel de acabado en cocina y baños.** Estas dos estancias concentran, casi siempre, la mayor parte de la diferencia de presupuesto entre un nivel medio y uno premium.
 

@@ -3,9 +3,22 @@ layout: article
 lang: es
 topic: Guías de compra
 title: "Comprar una vivienda en la Costa Brava siendo extranjero: guía paso a paso"
-description: "Qué necesitas saber antes de comprar una casa en la Costa Brava desde el extranjero: NIE, financiación, visitas a distancia y los errores más comunes."
+seo_title: "Comprar una casa en la Costa Brava siendo extranjero"
+description: "Guía paso a paso para comprar casa en la Costa Brava siendo extranjero: NIE, presupuesto real, visitas a distancia, notaría y errores a evitar."
 date: 2026-01-12
 permalink: /es/blog/comprar-vivienda-costa-brava-extranjero/
+translations:
+  es: /es/blog/comprar-vivienda-costa-brava-extranjero/
+  en: /en/blog/buying-property-costa-brava-foreigner-guide/
+  nl: /nl/blog/huis-kopen-costa-brava-buitenlander-gids/
+  fr: /fr/blog/acheter-maison-costa-brava-etranger-guide/
+related:
+  - /es/blog/due-diligence-tecnica-inmobiliaria/
+  - /es/blog/errores-legales-comprar-sin-abogado/
+  - /es/blog/notaria-espana-dia-de-la-firma/
+pillar: true
+pillar_order: 1
+footer_label: "Comprar en la Costa Brava"
 image: "https://images.unsplash.com/photo-1702655358646-12a7b5be0bbe?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Si estás valorando comprar en la Costa Brava, hablemos de tu proyecto antes de dar el primer paso. Sin compromiso."
 ---
@@ -22,7 +35,7 @@ El error más habitual es dejarlo para el final. Tramitarlo con antelación —a
 
 ## 2. Define tu presupuesto real, no solo el precio del inmueble
 
-El precio de compra es solo una parte del coste total. A la hora de calcular tu presupuesto, hay que sumar impuestos de transmisión, notaría, registro, gestoría y, si el inmueble lo necesita, una partida de reforma. En la Costa Brava, las operaciones más habituales rondan entre los 300.000 € y el 1,2 millones de euros, con Begur, Pals, Llafranc y Cadaqués como zonas de mayor demanda internacional.
+El precio de compra es solo una parte del coste total. A la hora de calcular tu presupuesto, hay que sumar [impuestos de transmisión]({{ site.baseurl }}/es/blog/impuestos-comprar-vivienda-espana-no-residente/), notaría, registro, gestoría y, si el inmueble lo necesita, una partida de reforma. En la Costa Brava, las operaciones más habituales rondan entre los 300.000 € y el 1,2 millones de euros, con Begur, Pals, Llafranc y Cadaqués como zonas de mayor demanda internacional.
 
 Si el plan incluye reformar, conviene tener una horquilla de coste desde el primer momento —aunque sea orientativa— para no comprometerte con un inmueble que después no encaja con tu presupuesto real.
 
@@ -40,11 +53,11 @@ Contar con alguien que trabaje exclusivamente para ti, sin cobrar del vendedor, 
 
 ## 5. Reserva tiempo para las arras y el contrato
 
-Una vez decidido el inmueble, lo habitual es firmar un contrato de arras que fija el precio y reserva la propiedad mientras se prepara la escritura. Este documento merece una revisión legal seria: cláusulas de penalización, plazos, estado de cargas y condición suspensiva si dependes de financiación. No es el momento de improvisar con una plantilla genérica traducida.
+Una vez decidido el inmueble, lo habitual es firmar un contrato de arras que fija el precio y reserva la propiedad mientras se prepara la escritura. Este documento merece una [revisión legal]({{ site.baseurl }}/es/blog/errores-legales-comprar-sin-abogado/) seria: cláusulas de penalización, plazos, estado de cargas y condición suspensiva si dependes de financiación. No es el momento de improvisar con una plantilla genérica traducida.
 
 ## 6. La firma ante notario y el papeleo posterior
 
-La compra se formaliza ante notario, con la escritura pública como documento definitivo. Después llegan los trámites que muchos compradores extranjeros no anticipan: inscripción en el Registro de la Propiedad, cambio de titularidad de suministros, alta en el IBI municipal y, si no vas a residir de forma permanente, la representación fiscal como no residente. Ninguno de estos pasos es complicado por separado, pero sí lo es gestionarlos todos a la vez desde otro país.
+La compra se formaliza [ante notario]({{ site.baseurl }}/es/blog/notaria-espana-dia-de-la-firma/), con la escritura pública como documento definitivo. Después llegan los trámites que muchos compradores extranjeros no anticipan: inscripción en el Registro de la Propiedad, cambio de titularidad de suministros, alta en el IBI municipal y, si no vas a residir de forma permanente, la representación fiscal como no residente. Ninguno de estos pasos es complicado por separado, pero sí lo es gestionarlos todos a la vez desde otro país.
 
 ## Los errores que vemos con más frecuencia
 

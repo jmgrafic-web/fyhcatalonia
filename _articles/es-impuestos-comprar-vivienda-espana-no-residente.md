@@ -3,9 +3,22 @@ layout: article
 lang: es
 topic: Fiscalidad
 title: "Impuestos y gastos al comprar una vivienda en España siendo no residente"
-description: "Qué impuestos y gastos debes prever al comprar una vivienda en Cataluña desde el extranjero: transmisión, notaría, registro, gestoría y obligaciones como no residente."
+seo_title: "Impuestos al comprar vivienda en España como no residente"
+description: "Impuestos y gastos al comprar vivienda en España como no residente: transmisión, notaría, registro, IRNR e IBI explicados."
 date: 2026-02-16
 permalink: /es/blog/impuestos-comprar-vivienda-espana-no-residente/
+translations:
+  es: /es/blog/impuestos-comprar-vivienda-espana-no-residente/
+  en: /en/blog/taxes-buying-property-spain-non-resident/
+  nl: /nl/blog/belastingen-huis-kopen-spanje-niet-ingezetene/
+  fr: /fr/blog/impots-achat-immobilier-espagne-non-resident/
+related:
+  - /es/blog/hipoteca-financiacion-extranjero-espana/
+  - /es/blog/golden-visa-espana-requisitos/
+  - /es/blog/notaria-espana-dia-de-la-firma/
+pillar: true
+pillar_order: 3
+footer_label: "Impuestos y gastos"
 image: "https://images.unsplash.com/photo-1747405415026-f74f7e075090?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Coordinamos a tu gestor y asesor fiscal como parte del proceso de compra, para que no tengas que gestionarlo por separado."
 ---
@@ -20,7 +33,7 @@ Además del precio del inmueble, una compra en España conlleva una serie de gas
 - **Notaría**, por la formalización de la escritura pública de compraventa.
 - **Registro de la Propiedad**, por la inscripción de la nueva titularidad.
 - **Gestoría**, si delegas la tramitación de impuestos y presentación de documentos.
-- **Honorarios de abogado**, si cuentas con revisión legal del contrato de arras y de la escritura — recomendable en cualquier operación, y especialmente si compras desde el extranjero.
+- **Honorarios de abogado**, si cuentas con [revisión legal]({{ site.baseurl }}/es/blog/errores-legales-comprar-sin-abogado/) del contrato de arras y de la escritura — recomendable en cualquier operación, y especialmente si compras desde el extranjero.
 
 Como referencia orientativa, es habitual que estos gastos adicionales sumen entre un 10% y un 13% sobre el precio de compra, aunque la cifra exacta depende de cada operación y debe confirmarse caso por caso.
 
@@ -40,11 +53,11 @@ Estas obligaciones son gestionables con normalidad, pero requieren un representa
 
 ## Si además vas a alquilar la vivienda
 
-Si planeas destinar la vivienda a alquiler vacacional en algún periodo del año, hay dos capas adicionales que conviene tener en cuenta desde el principio: la licencia turística municipal —cuya normativa en Cataluña ha ido variando y conviene verificar en el momento concreto de la operación— y la fiscalidad específica de los ingresos por alquiler, que se declara de forma distinta a la renta imputada por uso propio.
+Si planeas destinar la vivienda a alquiler vacacional en algún periodo del año, hay dos capas adicionales que conviene tener en cuenta desde el principio: la [licencia turística]({{ site.baseurl }}/es/blog/alquiler-vacacional-cataluna-licencia/) municipal —cuya normativa en Cataluña ha ido variando y conviene verificar en el momento concreto de la operación— y la fiscalidad específica de los ingresos por alquiler, que se declara de forma distinta a la renta imputada por uso propio.
 
 ## Golden Visa y otras vías de residencia
 
-Para compradores fuera de la Unión Europea, la inversión inmobiliaria ha sido históricamente una de las vías de acceso a la residencia en España a través del programa conocido como Golden Visa. El marco de estos programas cambia con cierta frecuencia a nivel normativo, por lo que si tu interés en comprar está vinculado a obtener la residencia, es imprescindible confirmar las condiciones vigentes con un abogado de extranjería antes de tomar cualquier decisión basada en ello.
+Para compradores fuera de la Unión Europea, la inversión inmobiliaria ha sido históricamente una de las vías de acceso a la residencia en España a través del programa conocido como [Golden Visa]({{ site.baseurl }}/es/blog/golden-visa-espana-requisitos/). El marco de estos programas cambia con cierta frecuencia a nivel normativo, por lo que si tu interés en comprar está vinculado a obtener la residencia, es imprescindible confirmar las condiciones vigentes con un abogado de extranjería antes de tomar cualquier decisión basada en ello.
 
 ## Nuestra recomendación
 
