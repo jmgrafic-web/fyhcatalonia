@@ -12,6 +12,18 @@ en:
   blog_read_more: "Read the article"
   blog_back: "Back to the Journal"
   lang_name: "English"
+  a_about: "about"
+  a_services: "services"
+  a_process: "process"
+  a_areas: "areas"
+  a_contact: "contact"
+  footer_guides: "Guides"
+  related_title: "Keep reading"
+  crumb_home: "Home"
+  explore: "Explore"
+  read_more_short: "Read more"
+  date_format: "{d} {m} {y}"
+  months: [January, February, March, April, May, June, July, August, September, October, November, December]
 
 es:
   nav_home: "Inicio"
@@ -27,6 +39,18 @@ es:
   blog_read_more: "Leer el artículo"
   blog_back: "Volver a la Revista"
   lang_name: "Español"
+  a_about: "quienes-somos"
+  a_services: "servicios"
+  a_process: "proceso"
+  a_areas: "territorio"
+  a_contact: "contacto"
+  footer_guides: "Guías"
+  related_title: "Sigue leyendo"
+  crumb_home: "Inicio"
+  explore: "Explorar"
+  read_more_short: "Leer más"
+  date_format: "{d} de {m} de {y}"
+  months: [enero, febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre]
 
 nl:
   nav_home: "Home"
@@ -42,6 +66,18 @@ nl:
   blog_read_more: "Lees het artikel"
   blog_back: "Terug naar het Journal"
   lang_name: "Nederlands"
+  a_about: "over-ons"
+  a_services: "diensten"
+  a_process: "proces"
+  a_areas: "gebieden"
+  a_contact: "contact"
+  footer_guides: "Gidsen"
+  related_title: "Lees verder"
+  crumb_home: "Home"
+  explore: "Ontdekken"
+  read_more_short: "Lees meer"
+  date_format: "{d} {m} {y}"
+  months: [januari, februari, maart, april, mei, juni, juli, augustus, september, oktober, november, december]
 
 fr:
   nav_home: "Accueil"
@@ -57,3 +93,16 @@ fr:
   blog_read_more: "Lire l'article"
   blog_back: "Retour au Journal"
   lang_name: "Français"
+  a_about: "qui-sommes-nous"
+  a_services: "services"
+  a_process: "processus"
+  a_areas: "territoire"
+  a_contact: "contact"
+  footer_guides: "Guides"
+  related_title: "À lire aussi"
+  crumb_home: "Accueil"
+  explore: "Explorer"
+  read_more_short: "En savoir plus"
+  date_format: "{d} {m} {y}"
+  months: [janvier, février, mars, avril, mai, juin, juillet, août, septembre, octobre, novembre, décembre]
+

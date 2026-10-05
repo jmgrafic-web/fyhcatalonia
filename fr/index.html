@@ -1,5 +1,6 @@
 ---
 layout: default
+hero_slider: true
 lang: fr
 title: "Find Your Haven — Votre Property Partner sur la Côte Catalane"
 description: "Des architectes qui aident les acheteurs internationaux à trouver, évaluer et transformer des propriétés d'exception sur la côte catalane."
@@ -10,8 +11,20 @@ translations:
   fr: /fr/
 ---
 
-<section class="hero">
-  <div class="hero-bg" data-parallax><img src="https://images.unsplash.com/photo-1702655358646-12a7b5be0bbe?auto=format&fit=crop&w=2400&q=75" alt="Une crique de la Costa Brava, Catalogne" loading="eager"></div>
+<section class="hero" data-hero-slider data-interval="10000" data-label-prev="Image précédente" data-label-next="Image suivante" data-label-slide="Image">
+  <div class="hero-bg" data-parallax>
+    <div class="hero-slide hero-slide--light is-active">
+      <picture>
+        <source media="(max-width: 640px) and (orientation: portrait)" srcset="{{ '/assets/img/hero/hero-sea-mobile.webp' | relative_url }}" type="image/webp">
+        <source media="(max-width: 1100px) and (orientation: portrait)" srcset="{{ '/assets/img/hero/hero-sea-tablet.webp' | relative_url }}" type="image/webp">
+        <source srcset="{{ '/assets/img/hero/hero-sea-desktop.webp' | relative_url }}" type="image/webp">
+        <img src="{{ '/assets/img/hero/hero-sea-desktop.jpg' | relative_url }}" alt="Vue sur la Méditerranée depuis une terrasse" width="1920" height="1080" fetchpriority="high" decoding="async">
+      </picture>
+    </div>
+    <div class="hero-slide" aria-hidden="true">
+      <img src="https://images.unsplash.com/photo-1702655358646-12a7b5be0bbe?auto=format&fit=crop&w=2400&q=75" alt="Une crique de la Costa Brava, Catalogne" loading="lazy" fetchpriority="low" decoding="async">
+    </div>
+  </div>
   <div class="wrap">
     <p class="eyebrow">Côte catalane, Espagne</p>
     <h1>Trouvez votre <em>maison</em> méditerranéenne</h1>
@@ -74,27 +87,32 @@ translations:
         <span class="service-kicker">Votre point de départ</span>
         <h3>Rapport Préliminaire</h3>
         <p>Dites-nous ce que vous cherchez. En 72 heures, nous vous livrons une sélection de 3 à 5 propriétés, évaluation technique et estimation de rénovation incluses.</p>
+        <a class="card-link" href="#contact">Le demander →</a>
       </div>
       <div class="service-card">
         <span class="service-kicker">Au-delà du marché ouvert</span>
         <h3>Recherche Immobilière</h3>
         <p>Nous cherchons là où d'autres ne peuvent pas. Notre réseau local donne accès à des biens off-market qui n'apparaissent jamais sur les portails.</p>
+        <a class="card-link" href="{{ '/fr/blog/acheter-maison-costa-brava-etranger-guide/' | relative_url }}">En savoir plus →</a>
       </div>
       <div class="service-card">
         <span class="service-kicker">Savoir avant de signer</span>
         <h3>Due Diligence Technique</h3>
         <p>Structure, installations, permis et statut juridique. Rapport écrit dans votre langue sous 5–7 jours.</p>
         <p class="note">La seule étape avec un coût direct — intégralement déduit si vous procédez à l'achat.</p>
+        <a class="card-link" href="{{ '/fr/blog/due-diligence-technique-immobiliere-explication/' | relative_url }}">En savoir plus →</a>
       </div>
       <div class="service-card">
         <span class="service-kicker">Toujours de votre côté</span>
         <h3>Représentation Acheteur</h3>
         <p>Nous négocions en votre nom et vous accompagnons à chaque étape du processus notarial. Sans frais supplémentaires.</p>
+        <a class="card-link" href="{{ '/fr/blog/erreurs-juridiques-achat-sans-avocat/' | relative_url }}">En savoir plus →</a>
       </div>
       <div class="service-card">
         <span class="service-kicker">Transformation complète</span>
         <h3>Architecture & Rénovation</h3>
         <p>Nous présentons 2 à 3 propositions d'entrepreneurs de confiance, gérons les permis et supervisons le chantier jusqu'à la livraison.</p>
+        <a class="card-link" href="{{ '/fr/blog/cout-renovation-cote-catalane-guide/' | relative_url }}">En savoir plus →</a>
       </div>
       <div class="service-card">
         <span class="service-kicker">Espaces réfléchis</span>
@@ -105,6 +123,7 @@ translations:
         <span class="service-kicker">Propriété sans effort</span>
         <h3>Gestion Immobilière</h3>
         <p>Gardiennage, entretien et gestion des urgences. En option : gestion locative et représentation fiscale.</p>
+        <a class="card-link" href="{{ '/fr/blog/location-vacances-catalogne-licence/' | relative_url }}">En savoir plus →</a>
       </div>
     </div>
   </div>
@@ -187,30 +206,33 @@ translations:
       <h2>Trois côtes. <em>Une expérience.</em></h2>
     </div>
     <div class="regions-grid reveal">
-      <div class="region-card">
+      <a class="region-card" href="{{ '/fr/blog/acheter-maison-costa-brava-etranger-guide/' | relative_url }}">
         <img src="https://images.unsplash.com/photo-1702655358646-12a7b5be0bbe?auto=format&fit=crop&w=900&q=75" alt="Costa Brava">
         <div class="region-content">
           <p class="eyebrow">Gérone</p>
           <h3>Costa Brava</h3>
           <p>Criques sauvages, villages médiévaux, architecture singulière. La côte la plus authentique de la Méditerranée.</p>
+          <span class="explore">Explorer →</span>
         </div>
-      </div>
-      <div class="region-card">
+      </a>
+      <a class="region-card" href="{{ '/fr/blog/maresme-alternative-costa-brava/' | relative_url }}">
         <img src="https://images.unsplash.com/photo-1734834442785-f2f10c0913f4?auto=format&fit=crop&w=900&q=75" alt="Maresme">
         <div class="region-content">
           <p class="eyebrow">Barcelone</p>
           <h3>Costa Barcelone–Maresme</h3>
-          <p>Aux portes de Barcelone, les villages du Maresme offrent l'équilibre parfait entre mer, montagne et culture.</p>
+          <p>Aux portes de Barcelone, le Maresme et Sitges offrent l'équilibre parfait entre mer, montagne et culture.</p>
+          <span class="explore">Explorer →</span>
         </div>
-      </div>
-      <div class="region-card">
+      </a>
+      <a class="region-card" href="{{ '/fr/blog/costa-daurada-guide-achat/' | relative_url }}">
         <img src="https://images.unsplash.com/photo-1630609977911-1e6c9d3c9147?auto=format&fit=crop&w=900&q=75" alt="Costa Daurada">
         <div class="region-content">
           <p class="eyebrow">Tarragone</p>
           <h3>Costa Daurada</h3>
-          <p>Plages dorées, Sitges cosmopolite, patrimoine romain. Le sud, à des prix encore raisonnables.</p>
+          <p>Plages dorées, Cambrils et le patrimoine romain de Tarragone. Le sud, à des prix encore raisonnables.</p>
+          <span class="explore">Explorer →</span>
         </div>
-      </div>
+      </a>
     </div>
   </div>
 </section>
@@ -254,8 +276,9 @@ translations:
     <p class="eyebrow" style="color:rgba(247,245,242,.65);">Restez informé</p>
     <h2>Recevez des biens exclusifs et des informations locales</h2>
     <p class="lede">Abonnez-vous et recevez notre guide gratuit.</p>
-    <div class="newsletter-badge"><b>↓ Gratuit</b>Le Guide Définitif pour Acheter une Résidence Secondaire sur la Côte Catalane</div>
+    <div class="newsletter-badge"><b>↓ Gratuit</b>Le guide d'achat Costa Brava · Édition 2026</div>
     <form class="newsletter-form" action="https://formspree.io/f/YOUR_FORMSPREE_ID" method="POST">
+      <input type="hidden" name="_next" value="{{ '/fr/merci-guide/' | absolute_url }}">
       <input type="hidden" name="_subject" value="Nouvel abonné — Guide Costa Brava 2026">
       <input type="email" name="Email" placeholder="Votre email" required>
       <button type="submit">S'abonner →</button>

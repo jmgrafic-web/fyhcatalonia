@@ -1,5 +1,6 @@
 ---
 layout: default
+hero_slider: true
 lang: nl
 title: "Find Your Haven — Jouw Property Partner aan de Catalaanse kust"
 description: "Architecten die internationale kopers helpen bij het vinden, beoordelen en transformeren van uitzonderlijke woningen aan de Catalaanse kust."
@@ -10,8 +11,20 @@ translations:
   fr: /fr/
 ---
 
-<section class="hero">
-  <div class="hero-bg" data-parallax><img src="https://images.unsplash.com/photo-1702655358646-12a7b5be0bbe?auto=format&fit=crop&w=2400&q=75" alt="Een baai aan de Costa Brava, Catalonië" loading="eager"></div>
+<section class="hero" data-hero-slider data-interval="10000" data-label-prev="Vorige afbeelding" data-label-next="Volgende afbeelding" data-label-slide="Afbeelding">
+  <div class="hero-bg" data-parallax>
+    <div class="hero-slide hero-slide--light is-active">
+      <picture>
+        <source media="(max-width: 640px) and (orientation: portrait)" srcset="{{ '/assets/img/hero/hero-sea-mobile.webp' | relative_url }}" type="image/webp">
+        <source media="(max-width: 1100px) and (orientation: portrait)" srcset="{{ '/assets/img/hero/hero-sea-tablet.webp' | relative_url }}" type="image/webp">
+        <source srcset="{{ '/assets/img/hero/hero-sea-desktop.webp' | relative_url }}" type="image/webp">
+        <img src="{{ '/assets/img/hero/hero-sea-desktop.jpg' | relative_url }}" alt="Uitzicht op de Middellandse Zee vanaf een terras" width="1920" height="1080" fetchpriority="high" decoding="async">
+      </picture>
+    </div>
+    <div class="hero-slide" aria-hidden="true">
+      <img src="https://images.unsplash.com/photo-1702655358646-12a7b5be0bbe?auto=format&fit=crop&w=2400&q=75" alt="Een baai aan de Costa Brava, Catalonië" loading="lazy" fetchpriority="low" decoding="async">
+    </div>
+  </div>
   <div class="wrap">
     <p class="eyebrow">Catalaanse kust, Spanje</p>
     <h1>Vind jouw <em>mediterrane</em> thuis</h1>
@@ -74,27 +87,32 @@ translations:
         <span class="service-kicker">Jouw startpunt</span>
         <h3>Voorlopig Rapport</h3>
         <p>Vertel ons wat je zoekt. Binnen 72 uur ontvang je een gecureerde selectie van 3 tot 5 woningen, technische beoordeling en renovatieraming inbegrepen.</p>
+        <a class="card-link" href="#contact">Vraag het aan →</a>
       </div>
       <div class="service-card">
         <span class="service-kicker">Voorbij de open markt</span>
         <h3>Woningzoekservice</h3>
         <p>Wij zoeken waar anderen dat niet kunnen. Ons lokale netwerk geeft toegang tot off-market woningen die nooit op portals verschijnen.</p>
+        <a class="card-link" href="{{ '/nl/blog/huis-kopen-costa-brava-buitenlander-gids/' | relative_url }}">Lees meer →</a>
       </div>
       <div class="service-card">
         <span class="service-kicker">Weet wat je koopt</span>
         <h3>Technische Due Diligence</h3>
         <p>Structuur, installaties, vergunningen en juridische status. Schriftelijk rapport in jouw taal binnen 5–7 dagen.</p>
         <p class="note">De enige stap met directe kost — volledig aftrekbaar als je doorgaat met de aankoop.</p>
+        <a class="card-link" href="{{ '/nl/blog/technische-due-diligence-vastgoed-uitgelegd/' | relative_url }}">Lees meer →</a>
       </div>
       <div class="service-card">
         <span class="service-kicker">Altijd aan jouw kant</span>
         <h3>Kopersvertegenwoordiging</h3>
         <p>Wij onderhandelen namens jou en begeleiden je door elke fase van het notarisproces. Zonder extra kosten.</p>
+        <a class="card-link" href="{{ '/nl/blog/juridische-fouten-kopen-zonder-advocaat/' | relative_url }}">Lees meer →</a>
       </div>
       <div class="service-card">
         <span class="service-kicker">Volledige transformatie</span>
         <h3>Architectuur & Renovatie</h3>
         <p>Wij presenteren 2 tot 3 voorstellen van vertrouwde aannemers, regelen vergunningen en houden toezicht tot de overdracht.</p>
+        <a class="card-link" href="{{ '/nl/blog/renovatiekosten-catalaanse-kust-gids/' | relative_url }}">Lees meer →</a>
       </div>
       <div class="service-card">
         <span class="service-kicker">Doordachte ruimtes</span>
@@ -105,6 +123,7 @@ translations:
         <span class="service-kicker">Zorgeloos eigenaarschap</span>
         <h3>Woningbeheer</h3>
         <p>Sleutelbeheer, onderhoud en calamiteitenrespons. Optioneel: vakantieverhuur en fiscale vertegenwoordiging.</p>
+        <a class="card-link" href="{{ '/nl/blog/vakantieverhuur-catalonie-vergunning/' | relative_url }}">Lees meer →</a>
       </div>
     </div>
   </div>
@@ -187,30 +206,33 @@ translations:
       <h2>Drie kusten. <em>Één ervaring.</em></h2>
     </div>
     <div class="regions-grid reveal">
-      <div class="region-card">
+      <a class="region-card" href="{{ '/nl/blog/huis-kopen-costa-brava-buitenlander-gids/' | relative_url }}">
         <img src="https://images.unsplash.com/photo-1702655358646-12a7b5be0bbe?auto=format&fit=crop&w=900&q=75" alt="Costa Brava">
         <div class="region-content">
           <p class="eyebrow">Girona</p>
           <h3>Costa Brava</h3>
           <p>Wilde baaien, middeleeuwse dorpen, unieke architectuur. De meest authentieke kust van de Middellandse Zee.</p>
+          <span class="explore">Ontdekken →</span>
         </div>
-      </div>
-      <div class="region-card">
+      </a>
+      <a class="region-card" href="{{ '/nl/blog/maresme-alternatief-costa-brava/' | relative_url }}">
         <img src="https://images.unsplash.com/photo-1734834442785-f2f10c0913f4?auto=format&fit=crop&w=900&q=75" alt="Maresme">
         <div class="region-content">
           <p class="eyebrow">Barcelona</p>
           <h3>Costa Barcelona–Maresme</h3>
-          <p>Vlak bij Barcelona bieden de dorpen van de Maresme de perfecte balans tussen zee, berg en cultuur.</p>
+          <p>Vlak bij Barcelona bieden de Maresme en Sitges de perfecte balans tussen zee, berg en cultuur.</p>
+          <span class="explore">Ontdekken →</span>
         </div>
-      </div>
-      <div class="region-card">
+      </a>
+      <a class="region-card" href="{{ '/nl/blog/costa-daurada-koopgids/' | relative_url }}">
         <img src="https://images.unsplash.com/photo-1630609977911-1e6c9d3c9147?auto=format&fit=crop&w=900&q=75" alt="Costa Daurada">
         <div class="region-content">
           <p class="eyebrow">Tarragona</p>
           <h3>Costa Daurada</h3>
-          <p>Gouden stranden, cosmopolitisch Sitges, Romeins erfgoed. Het zuiden, nog tegen redelijke prijzen.</p>
+          <p>Gouden stranden, Cambrils en het Romeinse erfgoed van Tarragona. Het zuiden, nog tegen redelijke prijzen.</p>
+          <span class="explore">Ontdekken →</span>
         </div>
-      </div>
+      </a>
     </div>
   </div>
 </section>
@@ -254,8 +276,9 @@ translations:
     <p class="eyebrow" style="color:rgba(247,245,242,.65);">Blijf op de hoogte</p>
     <h2>Ontvang exclusieve woningen en lokale inzichten</h2>
     <p class="lede">Schrijf je in en ontvang onze gratis gids.</p>
-    <div class="newsletter-badge"><b>↓ Gratis</b>De Definitieve Gids voor het Kopen van een Tweede Woning aan de Catalaanse Kust</div>
+    <div class="newsletter-badge"><b>↓ Gratis</b>De Costa Brava Koopgids · Editie 2026</div>
     <form class="newsletter-form" action="https://formspree.io/f/YOUR_FORMSPREE_ID" method="POST">
+      <input type="hidden" name="_next" value="{{ '/nl/bedankt-gids/' | absolute_url }}">
       <input type="hidden" name="_subject" value="Nieuwe abonnee — Costa Brava Gids 2026">
       <input type="email" name="Email" placeholder="Jouw email" required>
       <button type="submit">Inschrijven →</button>

@@ -9,14 +9,22 @@
       </div>
       <div class="footer-col">
         <h4>{{ t.nav_home }}</h4>
-        <a href="{{ site.baseurl }}/{{ lang }}/#servicios">{{ t.nav_services }}</a>
-        <a href="{{ site.baseurl }}/{{ lang }}/#proceso">{{ t.nav_process }}</a>
+        <a href="{{ site.baseurl }}/{{ lang }}/#{{ t.a_services }}">{{ t.nav_services }}</a>
+        <a href="{{ site.baseurl }}/{{ lang }}/#{{ t.a_process }}">{{ t.nav_process }}</a>
         <a href="{{ site.baseurl }}/{{ lang }}/blog/">{{ t.nav_blog }}</a>
       </div>
+      {% assign pillars = site.articles | where: "lang", lang | where: "pillar", true | sort: "pillar_order" %}
+      {% if pillars.size > 0 %}
+      <div class="footer-col">
+        <h4>{{ t.footer_guides }}</h4>
+        {% for a in pillars %}<a href="{{ a.url | relative_url }}">{{ a.footer_label | default: a.title }}</a>
+        {% endfor %}
+      </div>
+      {% endif %}
       <div class="footer-col">
         <h4>Contact</h4>
         <a href="mailto:hello@findyourhaven.com">hello@findyourhaven.com</a>
-        <a href="{{ site.baseurl }}/{{ lang }}/#contacto">{{ t.cta_contact }}</a>
+        <a href="{{ site.baseurl }}/{{ lang }}/#{{ t.a_contact }}">{{ t.cta_contact }}</a>
       </div>
     </div>
   </div>

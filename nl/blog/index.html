@@ -3,8 +3,14 @@ layout: default
 nav_theme: light
 lang: nl
 title: "Het FYH Journal — Gidsen over kopen en renoveren aan de Catalaanse kust"
-description: "Praktische artikelen over kopen, renoveren en leven aan de Costa Brava, Sitges, de Empordà en de rest van de Catalaanse kust."
+seo_title: "FYH Journal: gidsen over kopen en renoveren in Catalonië"
+description: "Praktische artikelen over kopen, renoveren en wonen aan de Costa Brava, de Maresme, Sitges, de Empordà en de Costa Daurada."
 permalink: /nl/blog/
+translations:
+  es: /es/blog/
+  en: /en/blog/
+  nl: /nl/blog/
+  fr: /fr/blog/
 ---
 {% assign items = site.articles | where: "lang", "nl" | sort: "date" | reverse %}
 
@@ -14,12 +20,30 @@ permalink: /nl/blog/
     <h1>Verhalen over kopen, renoveren en leven aan de Catalaanse kust</h1>
     <p class="lede">Praktische gidsen zonder opsmuk, geschreven door het team dat deze processen dagelijks begeleidt.</p>
 
+    <div class="leadbox">
+      <div class="leadbox-copy">
+        <h3>Gratis gids: kopen aan de Costa Brava — Editie 2026</h3>
+        <p>Het proces stap voor stap, de 5 duurste fouten en een eerste blik op de gebieden waar wij werken. Als pdf, meteen.</p>
+      </div>
+      <form action="https://formspree.io/f/YOUR_FORMSPREE_ID" method="POST">
+        <input type="hidden" name="_next" value="{{ '/nl/bedankt-gids/' | absolute_url }}">
+        <input type="hidden" name="_subject" value="Download: Costa Brava Gids 2026">
+        <input type="email" name="Email" placeholder="Jouw email" required>
+        <button type="submit">Download de gids →</button>
+      </form>
+    </div>
+
     {% if items.size == 0 %}
       <p class="mt-lg" style="color:var(--stone-dark);">Nieuwe artikelen zijn onderweg. Bekijk in de tussentijd <a href="{{ '/es/blog/' | relative_url }}" style="text-decoration:underline;">de Spaanse editie van het Journal</a>.</p>
     {% else %}
-    <div class="article-grid mt-lg">
+    <div class="journal-search">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+      <input type="search" data-journal-search placeholder="Zoek op onderwerp, gebied of trefwoord…" aria-label="Artikelen zoeken">
+    </div>
+
+    <div class="article-grid mt-lg" data-journal-grid data-per-page="6">
       {% for a in items %}
-      <a class="card" href="{{ a.url | relative_url }}">
+      <a class="card" href="{{ a.url | relative_url }}" data-search="{{ a.title | append: ' ' | append: a.description | append: ' ' | append: a.topic | strip_html | downcase }}">
         {% if a.image %}<div class="card-img"><img src="{{ a.image }}" alt="" loading="lazy"></div>{% endif %}
         <div class="card-body">
           <span class="eyebrow">{{ a.topic }}</span>
@@ -30,6 +54,9 @@ permalink: /nl/blog/
       </a>
       {% endfor %}
     </div>
+
+    <p class="journal-empty" data-journal-empty>Geen artikelen gevonden. Probeer een ander woord.</p>
+    <nav class="pagination" data-journal-pagination aria-label="Journal paginering"></nav>
     {% endif %}
   </div>
 </section>

@@ -3,11 +3,8 @@
 <header class="site-header{% if page.nav_theme == 'light' %} is-light{% endif %}" id="siteHeader">
   <div class="wrap" style="display:flex; align-items:center; justify-content:space-between; width:100%;">
     <a class="brand" href="{{ site.baseurl }}/{{ lang }}/">
-      <svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-        <path d="M10 44V20C10 11.16 16.16 5 24 5C31.84 5 38 11.16 38 20V44" stroke="currentColor" stroke-width="2"/>
-        <circle cx="24" cy="14" r="2.6" stroke="#C4956A" stroke-width="2"/>
-        <path d="M10 33C13 31 16 35 19 33C22 31 25 35 28 33C31 31 34 35 38 33" stroke="#2B5F7A" stroke-width="2" stroke-linecap="round"/>
-      </svg>
+      <img class="brand-mark brand-mark--white" src="{{ '/assets/img/brand/fyh-mark-white-sm.png' | relative_url }}" srcset="{{ '/assets/img/brand/fyh-mark-white-sm.png' | relative_url }} 60w, {{ '/assets/img/brand/fyh-mark-white.png' | relative_url }} 200w" sizes="26px" width="25" height="28" alt="" aria-hidden="true">
+      <img class="brand-mark brand-mark--blue" src="{{ '/assets/img/brand/fyh-mark-blue-sm.png' | relative_url }}" srcset="{{ '/assets/img/brand/fyh-mark-blue-sm.png' | relative_url }} 60w, {{ '/assets/img/brand/fyh-mark-blue.png' | relative_url }} 200w" sizes="26px" width="25" height="28" alt="" aria-hidden="true">
       <span class="brand-name">Find Your <b>Haven</b></span>
     </a>
 
@@ -16,14 +13,16 @@
     </button>
 
     <nav class="main-nav" id="mainNav">
-      <a href="{{ site.baseurl }}/{{ lang }}/#quienes-somos">{{ t.nav_home }}</a>
-      <a href="{{ site.baseurl }}/{{ lang }}/#servicios">{{ t.nav_services }}</a>
-      <a href="{{ site.baseurl }}/{{ lang }}/#proceso">{{ t.nav_process }}</a>
+      <a href="{{ site.baseurl }}/{{ lang }}/#{{ t.a_about }}">{{ t.nav_home }}</a>
+      <a href="{{ site.baseurl }}/{{ lang }}/#{{ t.a_services }}">{{ t.nav_services }}</a>
+      <a href="{{ site.baseurl }}/{{ lang }}/#{{ t.a_process }}">{{ t.nav_process }}</a>
       <a href="{{ site.baseurl }}/{{ lang }}/blog/" {% if page.url contains '/blog/' %}class="is-active"{% endif %}>{{ t.nav_blog }}</a>
-      <a class="btn btn-dark" href="{{ site.baseurl }}/{{ lang }}/#contacto">{{ t.nav_contact }}</a>
+      <a class="btn btn-dark" href="{{ site.baseurl }}/{{ lang }}/#{{ t.a_contact }}">{{ t.nav_contact }}</a>
       <span class="lang-switch">
         {% for l in site.languages %}
-          <a href="{{ site.baseurl }}/{{ l.code }}/" class="{% if l.code == lang %}is-current{% endif %}">{{ l.code | upcase }}</a>
+          {% assign alt = page.translations[l.code] %}
+          {% if alt %}{% assign alt_url = alt | relative_url %}{% else %}{% assign alt_url = l.code | prepend: '/' | append: '/' | relative_url %}{% endif %}
+          <a href="{{ alt_url }}" hreflang="{{ l.code }}" lang="{{ l.code }}" class="{% if l.code == lang %}is-current{% endif %}">{{ l.code | upcase }}</a>
         {% endfor %}
       </span>
     </nav>

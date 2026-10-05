@@ -3,8 +3,14 @@ layout: default
 nav_theme: light
 lang: fr
 title: "Le Journal FYH — Guides pour acheter et rénover sur la Côte Catalane"
-description: "Articles pratiques sur l'achat, la rénovation et la vie sur la Costa Brava, Sitges, l'Empordà et le reste de la côte catalane."
+seo_title: "Journal FYH : guides pour acheter et rénover en Catalogne"
+description: "Articles pratiques sur l'achat, la rénovation et la vie sur la Costa Brava, le Maresme, Sitges, l'Empordà et la Costa Daurada."
 permalink: /fr/blog/
+translations:
+  es: /es/blog/
+  en: /en/blog/
+  nl: /nl/blog/
+  fr: /fr/blog/
 ---
 {% assign items = site.articles | where: "lang", "fr" | sort: "date" | reverse %}
 
@@ -14,12 +20,30 @@ permalink: /fr/blog/
     <h1>Réflexions sur l'achat, la rénovation et la vie sur la côte catalane</h1>
     <p class="lede">Des guides pratiques, sans remplissage, écrits par l'équipe qui accompagne ces projets chaque jour.</p>
 
+    <div class="leadbox">
+      <div class="leadbox-copy">
+        <h3>Guide gratuit : acheter sur la Costa Brava — Édition 2026</h3>
+        <p>Le processus étape par étape, les 5 erreurs les plus coûteuses et un premier aperçu des zones où nous travaillons. En PDF, immédiatement.</p>
+      </div>
+      <form action="https://formspree.io/f/YOUR_FORMSPREE_ID" method="POST">
+        <input type="hidden" name="_next" value="{{ '/fr/merci-guide/' | absolute_url }}">
+        <input type="hidden" name="_subject" value="Téléchargement : Guide Costa Brava 2026">
+        <input type="email" name="Email" placeholder="Votre email" required>
+        <button type="submit">Télécharger le guide →</button>
+      </form>
+    </div>
+
     {% if items.size == 0 %}
       <p class="mt-lg" style="color:var(--stone-dark);">De nouveaux articles arrivent bientôt. En attendant, découvrez <a href="{{ '/es/blog/' | relative_url }}" style="text-decoration:underline;">l'édition espagnole du Journal</a>.</p>
     {% else %}
-    <div class="article-grid mt-lg">
+    <div class="journal-search">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+      <input type="search" data-journal-search placeholder="Rechercher par thème, zone ou mot-clé…" aria-label="Rechercher des articles">
+    </div>
+
+    <div class="article-grid mt-lg" data-journal-grid data-per-page="6">
       {% for a in items %}
-      <a class="card" href="{{ a.url | relative_url }}">
+      <a class="card" href="{{ a.url | relative_url }}" data-search="{{ a.title | append: ' ' | append: a.description | append: ' ' | append: a.topic | strip_html | downcase }}">
         {% if a.image %}<div class="card-img"><img src="{{ a.image }}" alt="" loading="lazy"></div>{% endif %}
         <div class="card-body">
           <span class="eyebrow">{{ a.topic }}</span>
@@ -30,6 +54,9 @@ permalink: /fr/blog/
       </a>
       {% endfor %}
     </div>
+
+    <p class="journal-empty" data-journal-empty>Aucun article ne correspond à votre recherche. Essayez un autre mot.</p>
+    <nav class="pagination" data-journal-pagination aria-label="Pagination du journal"></nav>
     {% endif %}
   </div>
 </section>

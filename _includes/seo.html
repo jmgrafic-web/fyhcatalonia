@@ -2,26 +2,35 @@
 {% assign pg_title = page.title %}
 {% assign pg_desc = page.description | default: site.description %}
 {% assign pg_url = page.url | absolute_url %}
+{% assign pg_locale = site.languages | where: "code", pg_lang | first %}
+{% assign is_article = false %}{% if page.layout == "article" %}{% assign is_article = true %}{% endif %}
 
-<title>{{ pg_title }} · Find Your Haven</title>
-<meta name="description" content="{{ pg_desc }}">
+{% assign t_seo = page.seo_title | default: page.title %}
+{% assign t_full = t_seo | append: " · Find Your Haven" %}
+<title>{% if t_seo contains "Find Your Haven" or t_full.size > 62 %}{{ t_seo }}{% else %}{{ t_full }}{% endif %}</title>
+<meta name="description" content="{{ pg_desc | escape }}">
 <link rel="canonical" href="{{ pg_url }}">
-<meta name="robots" content="index, follow">
+<meta name="robots" content="{% if page.noindex %}noindex, nofollow{% else %}index, follow{% endif %}">
 
-<!-- hreflang: idiomas hermanos de esta misma página, si están definidos
-     en el front matter como "translations" (ver ARTICLES-GUIA.md) -->
+<!-- hreflang: cada versión lista TODAS las versiones (incluida ella misma), como exige Google.
+     x-default apunta a la versión en inglés. Se define con "translations" en el front matter. -->
 {% if page.translations %}
-  {% for t in page.translations %}
-  <link rel="alternate" hreflang="{{ t[0] }}" href="{{ t[1] | absolute_url }}">
+  {% for tr in page.translations %}
+  <link rel="alternate" hreflang="{{ tr[0] }}" href="{{ tr[1] | absolute_url }}">
   {% endfor %}
-  <link rel="alternate" hreflang="x-default" href="{{ pg_url }}">
+  {% assign xdef = page.translations.en | default: page.url %}
+  <link rel="alternate" hreflang="x-default" href="{{ xdef | absolute_url }}">
 {% endif %}
 
-<meta property="og:type" content="{{ page.og_type | default: 'website' }}">
-<meta property="og:title" content="{{ pg_title }}">
-<meta property="og:description" content="{{ pg_desc }}">
+<meta property="og:type" content="{% if is_article %}article{% else %}website{% endif %}">
+<meta property="og:title" content="{{ pg_title | escape }}">
+<meta property="og:description" content="{{ pg_desc | escape }}">
 <meta property="og:url" content="{{ pg_url }}">
 <meta property="og:site_name" content="Find Your Haven">
-<meta property="og:locale" content="{{ pg_lang }}">
-<meta property="og:image" content="{{ '/assets/img/og-cover.jpg' | absolute_url }}">
+<meta property="og:locale" content="{{ pg_locale.locale | default: pg_lang }}">
+{% if is_article %}
+<meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+<meta property="article:section" content="{{ page.topic | escape }}">
+{% endif %}
+{% if page.image %}<meta property="og:image" content="{{ page.image }}">{% else %}<meta property="og:image" content="{{ '/assets/img/og-cover.jpg' | absolute_url }}">{% endif %}
 <meta name="twitter:card" content="summary_large_image">
