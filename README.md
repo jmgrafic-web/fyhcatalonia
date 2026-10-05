@@ -19,6 +19,53 @@ index.html            página raíz: selector de idioma + redirección automáti
 ARTICLES-GUIA.md      cómo añadir un artículo nuevo — léelo antes de publicar el primero
 ```
 
+## Identidad visual (colores y tipografía)
+
+- **Azul corporativo: `#405C70`** (el del imagotipo y el dossier de colaboradores). Está en `assets/css/main.css`
+  como `--med`; de él salen `--med-deep` (#22333F, bloques oscuros y menú móvil) y `--med-light` (#6D94B0).
+  Al cambiar esas tres líneas cambia el azul de toda la web. Los valores anteriores (#2B5F7A / #163B4E / #4A8BA8)
+  quedan anotados en un comentario justo debajo, por si hay que volver atrás.
+- Tipografía: Cormorant Garamond (títulos) y DM Sans (texto). Acento cálido: `--accent` #C4956A.
+- La **página raíz** (`index.html`, selector de idioma) usa ahora la misma foto, imagotipo y tipografías que la web.
+  El navegador entra directo al primer idioma preferido del usuario que esté disponible (EN, ES, NL, FR).
+- **Página 404** de marca (`404.html`), en los 4 idiomas y marcada como `noindex`.
+- **PDF de la guía gratuita**, en los 4 idiomas, con esta identidad (imagotipo, fuentes y azul corporativo; texto
+  seleccionable). Se generan desde `_guides/` (ver "Guía gratuita" más abajo).
+
+## Imagotipo y favicons
+
+El imagotipo se carga desde `assets/img/brand/` tal y como se entregó (sin tocar):
+`fyh-mark-white(-sm).png` sobre la portada y `fyh-mark-blue(-sm).png` cuando la cabecera pasa a
+fondo claro (al hacer scroll y en las páginas interiores). La versión pequeña (`-sm`) es la que
+se ve en la cabecera; la grande se carga solo en pantallas de muy alta densidad. Tamaño: 28 px de alto.
+Los favicons (`favicon-32.png`, `favicon-192.png`, `apple-touch-icon.png`) están hechos con ese
+mismo imagotipo sobre fondo blanco cálido, para que se vean bien también en pestañas oscuras.
+
+## Carrusel de imágenes del hero (portada)
+
+La portada de cada idioma alterna dos imágenes de fondo: primero la del mar desde la terraza
+(la de la marca) y después la cala de la Costa Brava. Cambian solas cada 10 segundos, o cuando
+el usuario pulsa las flechas, los indicadores o desliza el dedo; se pausan al pasar el ratón
+por los controles y no cambian solas si el usuario tiene activado "reducir movimiento".
+
+- La imagen del mar tiene una versión por dispositivo (`assets/img/hero/`): escritorio (16:9),
+  tablet vertical (3:4) y móvil vertical (9:16), cada una en WebP y JPG. El navegador elige la
+  que corresponde; en horizontal (incluido un móvil girado) usa la de escritorio.
+- Para cambiar la velocidad: `data-interval="10000"` (milisegundos) en `<section class="hero">`.
+- Para añadir una tercera imagen: copia un bloque `<div class="hero-slide">…</div>` dentro de
+  `.hero-bg` en los 4 `index.html`. Los indicadores y flechas se ajustan solos.
+- Si una imagen es muy clara (como la del mar), añade la clase `hero-slide--light` a su
+  diapositiva: aplica un velo azul más firme para que el texto blanco se lea.
+
+## SEO: cómo está montado
+
+- **hreflang** completo entre las 4 versiones de cada página (cada una se lista a sí misma), con `x-default` al inglés.
+- Datos estructurados: `Organization` (portadas), `Article` y `BreadcrumbList` (artículos).
+- Un H1 por página; títulos ≤ 62 caracteres y metadescripciones de 120-160 en todos los artículos.
+- Enlazado interno: lecturas relacionadas curadas, 2-6 enlaces contextuales por artículo, portada → artículos,
+  pie de página → guías principales, selector de idioma → mismo artículo en otro idioma.
+- Sitemap automático (`jekyll-sitemap`); `noindex` en la 404 y en las páginas de agradecimiento.
+
 ## Nota sobre la URL actual
 
 Este paquete está configurado para publicarse en `https://jmgrafic-web.github.io/fyhcatalonia/`
@@ -75,17 +122,27 @@ respuestas del brief ya legibles (zona, presupuesto, etc.), listas para que el e
 Informe Preliminar.
 
 ### 2. Guía gratuita — lead magnet ("Comprar en la Costa Brava 2026")
-Un PDF ya generado (`assets/downloads/guia-costa-brava-2026.pdf`) que se entrega a quien deja su
-email desde el buscador de la Revista (`es/blog/index.html`). Es un formulario más simple, sin
-JavaScript: al enviarlo, Formspree redirige a `/es/gracias-guia/`, página que muestra el botón de
-descarga del PDF.
+Hay un PDF por idioma (`assets/downloads/`): `guia-costa-brava-2026.pdf` (ES), `costa-brava-buying-guide-2026.pdf` (EN),
+`costa-brava-koopgids-2026.pdf` (NL) y `guide-achat-costa-brava-2026.pdf` (FR). Se entregan a quien deja su email en
+dos sitios: el bloque azul "Mantente informado" de la portada y el recuadro de la guía en el índice de la Revista.
+Son formularios simples, sin JavaScript: al enviarlos, Formspree redirige a la página de agradecimiento del mismo
+idioma, que muestra el botón de descarga (y, debajo, el paso al Informe Preliminar):
 
-Para activarlo: mismo proceso — crea un formulario en Formspree y sustituye
-`https://formspree.io/f/TU_ID_FORMSPREE` en `es/blog/index.html` (bloque `.leadbox`).
+| Idioma | Página de agradecimiento |
+|---|---|
+| ES | `/es/gracias-guia/` |
+| EN | `/en/thank-you-guide/` |
+| NL | `/nl/bedankt-gids/` |
+| FR | `/fr/merci-guide/` |
 
-De momento la guía solo existe en español. Si quieres la versión en inglés, holandés o francés,
-podemos traducir el mismo PDF y replicar el bloque `.leadbox` (y la página de gracias) en
-`en/blog/index.html`, `nl/blog/index.html` y `fr/blog/index.html`.
+Esas páginas están marcadas `noindex` y fuera del sitemap. Para activarlo: crea un formulario en Formspree y
+sustituye `TU_ID_FORMSPREE` / `YOUR_FORMSPREE_ID` en el bloque `.newsletter-form` de las 4 portadas y en el bloque
+`.leadbox` de los 4 `blog/index.html`.
+
+**Cambiar el contenido de la guía:** los textos de los 4 idiomas están en `_guides/build_guides.py` (diccionario `STR`) y
+el diseño en `_guides/head.tpl`. Tras editar, `python3 _guides/build_guides.py` regenera los 4 PDF (necesita
+`wkhtmltopdf` y las fuentes Cormorant Garamond / DM Sans instaladas con los nombres de familia indicados en el script).
+Esa carpeta empieza por `_`, así que Jekyll no la publica.
 
 ### Antes de lanzar
 - Antes de recoger datos personales de verdad (nombre, email, teléfono) en producción, conviene
@@ -113,17 +170,14 @@ en GitHub Pages y revisar los cambios ahí, como comentabas que harías.
 - [ ] Activar los dos formularios con Formspree (ver sección "Formularios" arriba).
 - [ ] Sustituir el email `hello@findyourhaven.com` si el definitivo es otro
       (aparece en el pie de página y en las 4 páginas de inicio).
-- [ ] Añadir una imagen `assets/img/og-cover.jpg` (1200×630 px) para que los
-      enlaces compartidos en redes sociales muestren una imagen — de momento
-      esa etiqueta apunta a un archivo que no existe.
+- [x] Imagen para compartir en redes (`assets/img/og-cover.jpg`, 1200×630): ya creada a partir de la foto del mar.
 - [ ] Revisar los textos legales (política de privacidad, cookies) antes de recoger datos
       reales a través de los formularios.
 
-`assets/downloads/_guide-source.html` es el HTML fuente con el que se generó el PDF de la
-guía gratuita (por si quieres editar su contenido y volver a exportarlo a PDF); no es una
-página del sitio y puedes borrarla si no la vas a tocar.
+
 
 ## Añadir artículos nuevos
 
-Lee **ARTICLES-GUIA.md** — es el flujo completo, pensado para que escribamos el
-contenido juntos y tú solo tengas que copiar un archivo y hacer `git push`.
+Lee **ARTICLES-GUIA.md**: explica el encabezado de cada artículo (incluido el bloque `translations` con las 4 versiones
+y las 3 "lecturas relacionadas"), cómo enlazar entre artículos y a la home, y qué hace el sitio automáticamente
+(migas de pan, datos estructurados, columna "Guías" del pie, sitemap). Hoy hay 72 artículos: 18 por idioma.
