@@ -180,4 +180,15 @@ en GitHub Pages y revisar los cambios ahí, como comentabas que harías.
 
 Lee **ARTICLES-GUIA.md**: explica el encabezado de cada artículo (incluido el bloque `translations` con las 4 versiones
 y las 3 "lecturas relacionadas"), cómo enlazar entre artículos y a la home, y qué hace el sitio automáticamente
-(migas de pan, datos estructurados, columna "Guías" del pie, sitemap). Hoy hay 72 artículos: 18 por idioma.
+(migas de pan, datos estructurados, columna "Guías" del pie, sitemap). Hoy hay 96 artículos: 24 por idioma.
+
+## Home (textos v5)
+
+La home sigue `FindYourHaven_Textos_Web_v5`: hero + franja de confianza, Nuestro modelo (esquema), 7 servicios en lista numerada, 4 pasos, Revista (3 guías «Empieza aquí» + 3 últimas + temas), guía gratuita y contacto. Los textos de cada idioma están en `{es,en,nl,fr}/index.html`.
+
+## Antes de publicar (lista de comprobación)
+
+1. **Formspree:** crear el formulario en formspree.io y sustituir `TU_ID_FORMSPREE` / `YOUR_FORMSPREE_ID` por el ID real en los 4 `index.html`, los 4 `blog/index.html` y las páginas de gracias (búsqueda global en el repo).
+2. **Datos legales:** la política de privacidad (`/es/privacidad/`, `/en/privacy/`, `/nl/privacy/`, `/fr/confidentialite/`) identifica al responsable solo por nombre comercial y email. Si Find Your Haven opera como sociedad o autónoma, añadir razón social, NIF y domicilio (exigido por la LSSI) y revisarla con un asesor.
+3. **Subir al repo `jmgrafic-web/fyhcatalonia`** y activar GitHub Pages (rama `main`, carpeta raíz).
+4. Tras publicar: probar el formulario, la descarga de la guía, el cambio de idioma y validar los datos estructurados en search.google.com/test/rich-results; enviar `sitemap.xml` en Search Console.

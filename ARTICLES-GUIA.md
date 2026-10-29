@@ -1,6 +1,6 @@
 # Cómo añadir un artículo nuevo a la Revista FYH
 
-La revista tiene **18 artículos en cada uno de los 4 idiomas (72 en total)**, en 3 páginas de 6 por idioma, con buscador.
+La revista tiene **24 artículos en cada uno de los 4 idiomas (96 en total)**, organizados en 5 temas (una página por tema e idioma), con bloque «Empieza por aquí» y buscador.
 Para publicar uno nuevo basta con crear su archivo: la home, el índice de la revista, la paginación, el buscador, el
 pie de página y las "lecturas relacionadas" se actualizan solos cuando GitHub Pages reconstruye el sitio.
 
@@ -96,3 +96,11 @@ abogado, guía de Sitges, masía vs obra nueva, **la notaría y el día de la fi
 Para seguir: arquitectura mediterránea y qué buscar en una casa de los años 60-70 · interiorismo mediterráneo (materiales
 y colores) · comprar en subasta o a un banco: riesgos · comunidad de propietarios: qué pedir antes de comprar un piso ·
 Costa Brava vs Algarve vs Toscana · primeros testimonios reales de clientes.
+
+
+## Campos nuevos: `category` y `start_here`
+
+Cada artículo debe llevar **`category`** (una de: `comprar`, `zonas`, `reformar`, `dinero`, `vivir`). Con él aparece en la página de su tema (`/es/blog/tema/...`), en las migas de pan y en el JSON-LD. 
+Para destacar un artículo en el bloque «Empieza por aquí» de la revista añade `start_here: true` (hoy: guía de compra, NIE y due diligence).
+
+Los nombres, URLs y textos de los 5 temas están en `_data/topics.yml` (por idioma). Las páginas de tema son `{idioma}/blog/{tema|topic|onderwerp|theme}/{slug}/index.html` y usan el layout `topic-hub`.
