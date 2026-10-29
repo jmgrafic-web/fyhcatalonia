@@ -2,6 +2,7 @@
 layout: article
 lang: en
 topic: Technical due diligence
+category: comprar
 title: "Technical due diligence: what it is and why it can save you tens of thousands of euros"
 seo_title: "Technical Due Diligence When Buying Property in Spain"
 description: "What technical due diligence is when buying property in Spain, what it reveals that no listing will, and how it can save you thousands of euros."
@@ -12,15 +13,16 @@ translations:
   en: /en/blog/technical-due-diligence-property-explained/
   nl: /nl/blog/technische-due-diligence-vastgoed-uitgelegd/
   fr: /fr/blog/due-diligence-technique-immobiliere-explication/
-related:
-  - /en/blog/legal-mistakes-buying-without-lawyer/
-  - /en/blog/renovation-cost-catalan-coast-guide/
-  - /en/blog/buying-farmhouse-emporda-renovate-guide/
 pillar: true
 pillar_order: 2
 footer_label: "Technical due diligence"
 image: "https://images.unsplash.com/photo-1721244653627-90b840127a7a?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Before you sign a reservation contract on any property, let's talk about what a technical inspection could reveal about it."
+related:
+  - /en/blog/buying-property-costa-brava-foreigner-guide/
+  - /en/blog/legal-mistakes-buying-without-lawyer/
+  - /en/blog/habitability-certificate-catalonia/
+start_here: true
 ---
 
 Most buyers treat the technical inspection as an optional step — something you do "if there's time", or "if the seller doesn't mind". It's probably the most expensive mistake you can make when buying a home, especially when buying from another country, without first-hand knowledge of local building standards.

@@ -2,6 +2,7 @@
 layout: article
 lang: es
 topic: Guías de compra
+category: comprar
 title: "Comprar una vivienda en la Costa Brava siendo extranjero: guía paso a paso"
 seo_title: "Comprar una casa en la Costa Brava siendo extranjero"
 description: "Guía paso a paso para comprar casa en la Costa Brava siendo extranjero: NIE, presupuesto real, visitas a distancia, notaría y errores a evitar."
@@ -12,15 +13,16 @@ translations:
   en: /en/blog/buying-property-costa-brava-foreigner-guide/
   nl: /nl/blog/huis-kopen-costa-brava-buitenlander-gids/
   fr: /fr/blog/acheter-maison-costa-brava-etranger-guide/
-related:
-  - /es/blog/due-diligence-tecnica-inmobiliaria/
-  - /es/blog/errores-legales-comprar-sin-abogado/
-  - /es/blog/notaria-espana-dia-de-la-firma/
 pillar: true
 pillar_order: 1
 footer_label: "Comprar en la Costa Brava"
 image: "https://images.unsplash.com/photo-1702655358646-12a7b5be0bbe?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Si estás valorando comprar en la Costa Brava, hablemos de tu proyecto antes de dar el primer paso. Sin compromiso."
+related:
+  - /es/blog/due-diligence-tecnica-inmobiliaria/
+  - /es/blog/nie-para-comprar-casa-espana-paso-a-paso/
+  - /es/blog/notaria-espana-dia-de-la-firma/
+start_here: true
 ---
 
 Cada año, cientos de compradores extranjeros —sobre todo británicos y holandeses— se enamoran de algún rincón de la Costa Brava: una cala en Begur, una calle empedrada en Pals, la luz sobre el mar en Cadaqués. El deseo es sencillo. El proceso para hacerlo realidad, no tanto.

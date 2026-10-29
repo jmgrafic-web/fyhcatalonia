@@ -2,6 +2,7 @@
 layout: article
 lang: nl
 topic: Leven aan de kust
+category: vivir
 title: "Het hele jaar wonen aan de Costa Brava: zorg, scholen en het dagelijks leven"
 seo_title: "Het hele jaar wonen aan de Costa Brava: zorg en scholen"
 description: "Hoe het is om het hele jaar aan de Costa Brava te wonen: zorg, scholen, verbindingen en het leven buiten het zomerseizoen."
@@ -12,12 +13,12 @@ translations:
   en: /en/blog/living-year-round-costa-brava/
   nl: /nl/blog/het-hele-jaar-wonen-costa-brava/
   fr: /fr/blog/vivre-toute-annee-costa-brava/
-related:
-  - /nl/blog/cadaques-begur-llafranc-verschillen/
-  - /nl/blog/golden-visa-spanje-vereisten/
-  - /nl/blog/maresme-alternatief-costa-brava/
 image: "https://images.unsplash.com/photo-1702655358646-12a7b5be0bbe?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Is permanent verhuizen je plan? Wij helpen je het gebied te vinden dat bij je dagelijks leven past, niet alleen bij je vakantie."
+related:
+  - /nl/blog/cadaques-begur-llafranc-verschillen/
+  - /nl/blog/kosten-onderhoud-tweede-woning-costa-brava-per-jaar/
+  - /nl/blog/golden-visa-spanje-vereisten/
 ---
 
 Er zit een groot verschil tussen een tweede woning kopen om juli en augustus aan de Costa Brava door te brengen, en er permanent gaan wonen. Elk jaar krijgen we vragen van kopers in beide situaties, en de vragen die er dan toe doen, verschillen behoorlijk. Deze gids is geschreven voor wie de tweede optie overweegt.

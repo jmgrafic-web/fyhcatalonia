@@ -2,6 +2,7 @@
 layout: article
 lang: es
 topic: Inversión
+category: vivir
 title: "Comprar para alquilar en la Costa Catalana: cómo pensar en la rentabilidad real"
 seo_title: "Comprar para alquilar en la Costa Catalana: rentabilidad real"
 description: "Rentabilidad real de comprar para alquilar en la Costa Catalana: bruta frente a neta, estacionalidad, licencia y tipo de inmueble."
@@ -12,12 +13,12 @@ translations:
   en: /en/blog/buy-to-let-profitability-catalan-coast/
   nl: /nl/blog/rendement-kopen-om-te-verhuren-catalaanse-kust/
   fr: /fr/blog/rentabilite-achat-locatif-cote-catalane/
-related:
-  - /es/blog/alquiler-vacacional-cataluna-licencia/
-  - /es/blog/costa-daurada-guia-comprar/
-  - /es/blog/hipoteca-financiacion-extranjero-espana/
 image: "https://images.unsplash.com/photo-1768321902290-54497eeb9cf6?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Antes de comprar con fines de inversión, podemos ayudarte a calcular una rentabilidad realista para el inmueble concreto que valoras."
+related:
+  - /es/blog/alquiler-vacacional-cataluna-licencia/
+  - /es/blog/cuanto-cuesta-mantener-casa-costa-brava-al-ano/
+  - /es/blog/costa-daurada-guia-comprar/
 ---
 
 Un porcentaje de los compradores internacionales con los que trabajamos no busca solo una segunda residencia: busca que esa vivienda, además, genere ingresos cuando no la usan. Es un objetivo legítimo, pero las cifras de rentabilidad que circulan en portales y artículos genéricos rara vez reflejan lo que realmente se embolsa un propietario al final del año.

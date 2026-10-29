@@ -2,6 +2,7 @@
 layout: article
 lang: es
 topic: Financiación
+category: dinero
 title: "Hipotecas en España para compradores extranjeros: cómo funciona la financiación"
 seo_title: "Hipoteca en España para extranjeros: cómo funciona"
 description: "Cómo funciona una hipoteca en España para extranjeros: porcentaje financiado, documentación, plazos y alternativas a la banca española."
@@ -12,12 +13,12 @@ translations:
   en: /en/blog/mortgage-financing-foreigners-spain/
   nl: /nl/blog/hypotheek-financiering-buitenlanders-spanje/
   fr: /fr/blog/hypotheque-financement-etrangers-espagne/
-related:
-  - /es/blog/impuestos-comprar-vivienda-espana-no-residente/
-  - /es/blog/comprar-vivienda-costa-brava-extranjero/
-  - /es/blog/errores-legales-comprar-sin-abogado/
 image: "https://images.unsplash.com/photo-1747405415026-f74f7e075090?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Coordinamos la relación con tu entidad financiera como parte natural del proceso de compra."
+related:
+  - /es/blog/impuestos-comprar-vivienda-espana-no-residente/
+  - /es/blog/cuenta-bancaria-no-residente-espana/
+  - /es/blog/errores-legales-comprar-sin-abogado/
 ---
 
 "¿Puedo pedir una hipoteca en España siendo extranjero?" es, con diferencia, la pregunta financiera que más recibimos después de la primera visita a un inmueble. La respuesta corta es sí. La respuesta útil tiene matices que conviene conocer antes de hacer una oferta.

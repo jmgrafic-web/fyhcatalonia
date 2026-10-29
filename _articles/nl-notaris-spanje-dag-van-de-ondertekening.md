@@ -2,6 +2,7 @@
 layout: article
 lang: nl
 topic: Aankoopproces
+category: comprar
 title: "De notaris in Spanje, stap voor stap: wat er op de dag van de ondertekening gebeurt"
 seo_title: "Notaris in Spanje: wat gebeurt er op de ondertekeningsdag"
 description: "Hoe de dag van de ondertekening in Spanje verloopt: documenten, betaling, een volmacht om op afstand te tekenen en wat erna komt."
@@ -12,12 +13,12 @@ translations:
   en: /en/blog/spanish-notary-completion-day/
   nl: /nl/blog/notaris-spanje-dag-van-de-ondertekening/
   fr: /fr/blog/notaire-espagne-jour-de-la-signature/
-related:
-  - /nl/blog/juridische-fouten-kopen-zonder-advocaat/
-  - /nl/blog/belastingen-huis-kopen-spanje-niet-ingezetene/
-  - /nl/blog/huis-kopen-costa-brava-buitenlander-gids/
 image: "https://images.unsplash.com/photo-1747405415026-f74f7e075090?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Wij stemmen af met jou, je advocaat en de notaris, zodat de dag van de ondertekening geen verrassingen kent."
+related:
+  - /nl/blog/juridische-fouten-kopen-zonder-advocaat/
+  - /nl/blog/nie-nummer-huis-kopen-spanje-stappenplan/
+  - /nl/blog/bewoonbaarheidscertificaat-catalonie/
 ---
 
 Voor veel buitenlandse kopers is de dag van de ondertekening het meest intimiderende moment van het hele proces: een taal die ze niet spreken, een lang document en veel geld dat op het spel staat. Het is een stuk eenvoudiger dan het lijkt, zolang je goed voorbereid komt.

@@ -2,6 +2,7 @@
 layout: article
 lang: en
 topic: Residency & visas
+category: dinero
 title: "Golden Visa Spain: what it was, what's changed, and what alternatives exist"
 seo_title: "Spain's Golden Visa: What Changed and What Replaces It"
 description: "What Spain's property Golden Visa was, what changed when it ended, and which other residency routes exist for buyers today."
@@ -12,12 +13,12 @@ translations:
   en: /en/blog/golden-visa-spain-requirements/
   nl: /nl/blog/golden-visa-spanje-vereisten/
   fr: /fr/blog/golden-visa-espagne-conditions/
-related:
-  - /en/blog/taxes-buying-property-spain-non-resident/
-  - /en/blog/living-year-round-costa-brava/
-  - /en/blog/buying-property-costa-brava-foreigner-guide/
 image: "https://images.unsplash.com/photo-1721244653627-90b840127a7a?auto=format&fit=crop&w=1800&q=75"
 cta_body: "If residency is part of why you want to buy, we'll put you in touch with an immigration lawyer from the first conversation."
+related:
+  - /en/blog/nie-number-buying-property-spain-step-by-step/
+  - /en/blog/taxes-buying-property-spain-non-resident/
+  - /en/blog/living-year-round-costa-brava/
 ---
 
 Few terms have caused as much confusion among international buyers as "Golden Visa". For years, it was the best-known route to Spanish residency through buying a home. But the regulatory landscape has changed, and it's worth going into the conversation with current information, not what circulated on forums a couple of years ago.

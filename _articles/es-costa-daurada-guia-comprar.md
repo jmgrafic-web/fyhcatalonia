@@ -2,6 +2,7 @@
 layout: article
 lang: es
 topic: Guías de compra
+category: zonas
 title: "Costa Daurada: guía para comprar en la zona más accesible de la costa catalana"
 seo_title: "Costa Daurada: guía para comprar en la zona más accesible"
 description: "Qué ofrece la Costa Daurada a un comprador internacional: Cambrils, Altafulla y Tarragona, precios, conexiones y qué vigilar antes de comprar."
@@ -12,12 +13,12 @@ translations:
   en: /en/blog/costa-daurada-buying-guide/
   nl: /nl/blog/costa-daurada-koopgids/
   fr: /fr/blog/costa-daurada-guide-achat/
+image: "https://images.unsplash.com/photo-1630609977911-1e6c9d3c9147?auto=format&fit=crop&w=1800&q=75"
+cta_body: "Si te interesa el sur de la costa catalana, te ayudamos a comparar pueblos y edificios concretos antes de comprometerte."
 related:
   - /es/blog/maresme-alternativa-costa-brava/
   - /es/blog/rentabilidad-comprar-para-alquilar-costa-catalana/
   - /es/blog/alquiler-vacacional-cataluna-licencia/
-image: "https://images.unsplash.com/photo-1630609977911-1e6c9d3c9147?auto=format&fit=crop&w=1800&q=75"
-cta_body: "Si te interesa el sur de la costa catalana, te ayudamos a comparar pueblos y edificios concretos antes de comprometerte."
 ---
 
 La Costa Daurada es la costa catalana que más suele quedarse fuera de las primeras búsquedas de los compradores internacionales y, para muchos perfiles, la que ofrece mejor relación entre precio y calidad de vida. Esta guía explica qué hay realmente allí.
@@ -49,4 +50,4 @@ La estación de alta velocidad de Camp de Tarragona conecta con Barcelona en alr
 
 ## Nuestra recomendación
 
-Si el presupuesto es un factor importante, la Costa Daurada merece una visita seria. En Find Your Haven preparamos un Informe Preliminar con propiedades curadas y una valoración técnica realista. Puedes ver el conjunto de zonas en [nuestros territorios]({{ site.baseurl }}/es/#territorio) y, si estás comparando con el norte de Barcelona, nuestro artículo sobre [el Maresme como alternativa]({{ site.baseurl }}/es/blog/maresme-alternativa-costa-brava/). Para entender cómo lo hacemos, visita [cómo trabajamos]({{ site.baseurl }}/es/#proceso).
+Si el presupuesto es un factor importante, la Costa Daurada merece una visita seria. En Find Your Haven preparamos un Informe Preliminar con propiedades curadas y una valoración técnica realista. Puedes ver el conjunto de zonas en [nuestros territorios]({{ site.baseurl }}/es/blog/tema/zonas/) y, si estás comparando con el norte de Barcelona, nuestro artículo sobre [el Maresme como alternativa]({{ site.baseurl }}/es/blog/maresme-alternativa-costa-brava/). Para entender cómo lo hacemos, visita [cómo trabajamos]({{ site.baseurl }}/es/#proceso).

@@ -2,6 +2,7 @@
 layout: article
 lang: fr
 topic: Rénovation
+category: reformar
 title: "Combien coûte la rénovation d'une maison sur la côte catalane : budgets par niveau"
 seo_title: "Combien coûte une rénovation sur la côte catalane ?"
 description: "Combien coûte une rénovation sur la côte catalane : fourchettes par niveau, ce qui fait grimper le budget et délais réalistes."
@@ -12,15 +13,15 @@ translations:
   en: /en/blog/renovation-cost-catalan-coast-guide/
   nl: /nl/blog/renovatiekosten-catalaanse-kust-gids/
   fr: /fr/blog/cout-renovation-cote-catalane-guide/
-related:
-  - /fr/blog/due-diligence-technique-immobiliere-explication/
-  - /fr/blog/masia-ou-villa-neuve/
-  - /fr/blog/acheter-masia-emporda-renover-guide/
 pillar: true
 pillar_order: 4
 footer_label: "Coût d'une rénovation"
 image: "https://images.unsplash.com/photo-1768321902290-54497eeb9cf6?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Avant d'acheter, nous pouvons vous donner une estimation de rénovation sur trois niveaux pour le bien que vous envisagez."
+related:
+  - /fr/blog/permis-de-construire-catalogne-travaux-mineurs-majeurs/
+  - /fr/blog/due-diligence-technique-immobiliere-explication/
+  - /fr/blog/masia-ou-villa-neuve/
 ---
 
 C'est la question qui revient le plus juste après "dans quelle zone acheter ?" : combien va coûter la rénovation ? La réponse honnête est que cela dépend de nombreuses variables — surface, état structurel, qualité des finitions, intervention ou non sur la toiture — mais il est possible de donner des fourchettes indicatives qui aident à planifier un budget dès le départ, avant même de faire une offre sur le bien.

@@ -2,6 +2,7 @@
 layout: article
 lang: en
 topic: Buying guides
+category: reformar
 title: "Farmhouse to renovate or new-build villa: choosing your second home"
 seo_title: "Farmhouse to Renovate or New-Build Villa: Which to Choose"
 description: "Farmhouse to restore or new-build villa on the Catalan coast: the real differences in budget, timeline, character and what each demands."
@@ -12,12 +13,12 @@ translations:
   en: /en/blog/farmhouse-or-new-build-villa/
   nl: /nl/blog/boerderij-of-nieuwbouwvilla/
   fr: /fr/blog/masia-ou-villa-neuve/
+image: "https://images.unsplash.com/photo-1557393120-d3ee552f3736?auto=format&fit=crop&w=1800&q=75"
+cta_body: "Tell us what kind of project you have in mind and we'll help you weigh up whether a farmhouse or a new build fits better."
 related:
   - /en/blog/buying-farmhouse-emporda-renovate-guide/
   - /en/blog/renovation-cost-catalan-coast-guide/
-  - /en/blog/technical-due-diligence-property-explained/
-image: "https://images.unsplash.com/photo-1557393120-d3ee552f3736?auto=format&fit=crop&w=1800&q=75"
-cta_body: "Tell us what kind of project you have in mind and we'll help you weigh up whether a farmhouse or a new build fits better."
+  - /en/blog/building-permit-catalonia-minor-major-works/
 ---
 
 It's one of the first, and most defining, decisions a buyer makes when starting to search on the Catalan coast: restore something with history, or build — or buy already built — something entirely new? Neither option is better in the abstract. Each suits a different kind of buyer.

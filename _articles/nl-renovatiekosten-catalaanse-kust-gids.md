@@ -2,6 +2,7 @@
 layout: article
 lang: nl
 topic: Renovatie
+category: reformar
 title: "Wat kost het renoveren van een huis aan de Catalaanse kust: budgetten per niveau"
 seo_title: "Wat kost een renovatie aan de Catalaanse kust?"
 description: "Wat een renovatie aan de Catalaanse kust kost: budgetranges per niveau, wat de kosten opdrijft en realistische tijdlijnen."
@@ -12,15 +13,15 @@ translations:
   en: /en/blog/renovation-cost-catalan-coast-guide/
   nl: /nl/blog/renovatiekosten-catalaanse-kust-gids/
   fr: /fr/blog/cout-renovation-cote-catalane-guide/
-related:
-  - /nl/blog/technische-due-diligence-vastgoed-uitgelegd/
-  - /nl/blog/boerderij-of-nieuwbouwvilla/
-  - /nl/blog/boerderij-kopen-emporda-renoveren-gids/
 pillar: true
 pillar_order: 4
 footer_label: "Renovatiekosten"
 image: "https://images.unsplash.com/photo-1768321902290-54497eeb9cf6?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Voordat je koopt, kunnen we je een renovatieraming op drie niveaus geven voor de woning die je overweegt."
+related:
+  - /nl/blog/bouwvergunning-catalonie-kleine-grote-werken/
+  - /nl/blog/technische-due-diligence-vastgoed-uitgelegd/
+  - /nl/blog/boerderij-of-nieuwbouwvilla/
 ---
 
 Het is de vraag die het vaakst komt direct na "in welk gebied moet ik kopen?": wat gaat de renovatie me kosten? Het eerlijke antwoord is dat het van veel variabelen afhangt — oppervlakte, structurele staat, afwerkingsniveau, of het dak aangepakt moet worden — maar het is wel mogelijk om indicatieve ranges te geven die helpen om vanaf het begin een budget te plannen, nog vóór je een bod hebt uitgebracht.

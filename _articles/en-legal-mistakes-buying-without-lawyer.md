@@ -2,6 +2,7 @@
 layout: article
 lang: en
 topic: Legal representation
+category: comprar
 title: "The most expensive legal mistakes when buying without your own lawyer"
 seo_title: "Buying in Spain Without a Lawyer: The Costliest Mistakes"
 description: "Why buying in Spain without your own lawyer is costly: reservation contracts, registry charges, unlicensed works and who represents you."
@@ -12,12 +13,12 @@ translations:
   en: /en/blog/legal-mistakes-buying-without-lawyer/
   nl: /nl/blog/juridische-fouten-kopen-zonder-advocaat/
   fr: /fr/blog/erreurs-juridiques-achat-sans-avocat/
-related:
-  - /en/blog/spanish-notary-completion-day/
-  - /en/blog/technical-due-diligence-property-explained/
-  - /en/blog/mortgage-financing-foreigners-spain/
 image: "https://images.unsplash.com/photo-1747405415026-f74f7e075090?auto=format&fit=crop&w=1800&q=75"
 cta_body: "We coordinate the legal review of your purchase with a lawyer who specialises in foreign buyers, as part of the process."
+related:
+  - /en/blog/spanish-notary-completion-day/
+  - /en/blog/habitability-certificate-catalonia/
+  - /en/blog/technical-due-diligence-property-explained/
 ---
 
 "Doesn't the notary already check everything's in order? Do I really need a lawyer too?" It's a fair question, and the answer is no: the notary certifies the act and verifies certain formal aspects, but doesn't act for the buyer against the seller, doesn't negotiate on their behalf, and doesn't necessarily flag everything a buyer would want to know before signing. That's the lawyer's job — and skipping it is, by some distance, the costliest saving we've seen foreign buyers attempt.

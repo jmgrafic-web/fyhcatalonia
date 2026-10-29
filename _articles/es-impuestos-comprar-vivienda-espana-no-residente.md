@@ -2,6 +2,7 @@
 layout: article
 lang: es
 topic: Fiscalidad
+category: dinero
 title: "Impuestos y gastos al comprar una vivienda en España siendo no residente"
 seo_title: "Impuestos al comprar vivienda en España como no residente"
 description: "Impuestos y gastos al comprar vivienda en España como no residente: transmisión, notaría, registro, IRNR e IBI explicados."
@@ -12,15 +13,15 @@ translations:
   en: /en/blog/taxes-buying-property-spain-non-resident/
   nl: /nl/blog/belastingen-huis-kopen-spanje-niet-ingezetene/
   fr: /fr/blog/impots-achat-immobilier-espagne-non-resident/
-related:
-  - /es/blog/hipoteca-financiacion-extranjero-espana/
-  - /es/blog/golden-visa-espana-requisitos/
-  - /es/blog/notaria-espana-dia-de-la-firma/
 pillar: true
 pillar_order: 3
 footer_label: "Impuestos y gastos"
 image: "https://images.unsplash.com/photo-1747405415026-f74f7e075090?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Coordinamos a tu gestor y asesor fiscal como parte del proceso de compra, para que no tengas que gestionarlo por separado."
+related:
+  - /es/blog/hipoteca-financiacion-extranjero-espana/
+  - /es/blog/cuenta-bancaria-no-residente-espana/
+  - /es/blog/golden-visa-espana-requisitos/
 ---
 
 Uno de los aspectos que más incertidumbre genera entre compradores extranjeros es la fiscalidad: qué se paga, cuándo, y qué obligaciones quedan después de la firma. Esta guía repasa los conceptos principales para que llegues a la conversación con tu asesor fiscal con las preguntas correctas — no sustituye ese asesoramiento, porque los importes exactos dependen de la comunidad autónoma, el tipo de inmueble y tu situación personal, y conviene confirmarlos con un profesional antes de firmar nada.

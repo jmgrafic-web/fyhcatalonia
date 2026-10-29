@@ -2,6 +2,7 @@
 layout: article
 lang: nl
 topic: Vakantieverhuur
+category: vivir
 title: "Vakantieverhuur in Catalonië: de toeristische vergunning en regels die je moet kennen"
 seo_title: "Vakantieverhuur in Catalonië: vergunning en regels"
 description: "De vergunning voor toeristische verhuur in Catalonië: vereisten, gemeentelijke quota en belasting om te checken vóór je koopt."
@@ -12,15 +13,15 @@ translations:
   en: /en/blog/vacation-rental-catalonia-licence/
   nl: /nl/blog/vakantieverhuur-catalonie-vergunning/
   fr: /fr/blog/location-vacances-catalogne-licence/
-related:
-  - /nl/blog/rendement-kopen-om-te-verhuren-catalaanse-kust/
-  - /nl/blog/belastingen-huis-kopen-spanje-niet-ingezetene/
-  - /nl/blog/sitges-koopgids-kosmopolitisch-gebied/
 pillar: true
 pillar_order: 5
 footer_label: "Vakantieverhuurvergunning"
 image: "https://images.pexels.com/photos/30051052/pexels-photo-30051052/free-photo-of-charming-sitges-beachfront-on-a-summer-day.jpeg?auto=compress&cs=tinysrgb&w=1800"
 cta_body: "Overweeg je te kopen met verhuur in gedachten? Wij helpen de vergunningssituatie van de specifieke woning en gemeente te verifiëren."
+related:
+  - /nl/blog/rendement-kopen-om-te-verhuren-catalaanse-kust/
+  - /nl/blog/kosten-onderhoud-tweede-woning-costa-brava-per-jaar/
+  - /nl/blog/belastingen-huis-kopen-spanje-niet-ingezetene/
 ---
 
 Een flink deel van de internationale kopers overweegt vanaf het begin om hun woning aan de Catalaanse kust te verhuren tijdens de periodes dat ze er zelf geen gebruik van maken. Dat is een redelijke verwachting — maar de Catalaanse regelgeving rond kortetermijnverhuur voor toeristisch gebruik is een van de specifiekste van Spanje, en het is goed deze te begrijpen vóórdat je koopt, niet erna.

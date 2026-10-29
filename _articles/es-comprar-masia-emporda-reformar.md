@@ -2,6 +2,7 @@
 layout: article
 lang: es
 topic: Empordà
+category: zonas
 title: "Comprar una masía en el Empordà para reformar: guía completa"
 seo_title: "Comprar una masía en el Empordà para reformar"
 description: "Comprar una masía en el Empordà para reformar: precios, permisos, propiedades off-market y errores habituales antes de comprometerte."
@@ -12,12 +13,12 @@ translations:
   en: /en/blog/buying-farmhouse-emporda-renovate-guide/
   nl: /nl/blog/boerderij-kopen-emporda-renoveren-gids/
   fr: /fr/blog/acheter-masia-emporda-renover-guide/
-related:
-  - /es/blog/masia-o-villa-obra-nueva/
-  - /es/blog/cuanto-cuesta-reformar-casa-costa-catalana/
-  - /es/blog/due-diligence-tecnica-inmobiliaria/
 image: "https://images.unsplash.com/photo-1557393120-d3ee552f3736?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Si estás buscando una masía con potencial en el Empordà, contamos con propiedades off-market que no llegan a los portales."
+related:
+  - /es/blog/masia-o-villa-obra-nueva/
+  - /es/blog/licencia-obras-cataluna-menor-mayor/
+  - /es/blog/due-diligence-tecnica-inmobiliaria/
 ---
 
 El Empordà interior no es la Costa Brava, aunque esté a quince minutos de ella. Es un territorio distinto: masías del siglo XVIII, pueblos medievales casi intactos, viñas y olivos hasta donde alcanza la vista, y una tranquilidad que la primera línea de mar ya no puede ofrecer. Para quien busca un proyecto de restauración con carácter propio, es uno de los pocos lugares de Europa donde todavía es posible encontrarlo a precios razonables.
@@ -62,4 +63,4 @@ Antes de decidirte entre restaurar o construir, lee [masía para reformar o vill
 
 ## Nuestro enfoque en el Empordà
 
-El Empordà interior es una de nuestras zonas de mayor actividad, precisamente porque combina lo que mejor sabemos hacer: acceso a propiedades off-market a través de nuestra red local, valoración técnica seria antes de comprometerse, y gestión completa de la reforma con el mismo criterio arquitectónico que evaluó el inmueble. Puedes ver el resto de zonas donde trabajamos en [territorio]({{ site.baseurl }}/es/#territorio).
+El Empordà interior es una de nuestras zonas de mayor actividad, precisamente porque combina lo que mejor sabemos hacer: acceso a propiedades off-market a través de nuestra red local, valoración técnica seria antes de comprometerse, y gestión completa de la reforma con el mismo criterio arquitectónico que evaluó el inmueble. Puedes ver el resto de zonas donde trabajamos en [territorio]({{ site.baseurl }}/es/blog/tema/zonas/).

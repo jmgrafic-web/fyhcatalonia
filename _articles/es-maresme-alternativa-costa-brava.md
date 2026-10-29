@@ -2,6 +2,7 @@
 layout: article
 lang: es
 topic: Comparativas de zona
+category: zonas
 title: "El Maresme frente a la Costa Brava: la alternativa que gana terreno"
 seo_title: "El Maresme frente a la Costa Brava: una alternativa"
 description: "Por qué el Maresme gana atractivo: cercanía a Barcelona, tren y autopista, tipos de vivienda y precios frente a la Costa Brava."
@@ -12,12 +13,12 @@ translations:
   en: /en/blog/maresme-costa-brava-alternative/
   nl: /nl/blog/maresme-alternatief-costa-brava/
   fr: /fr/blog/maresme-alternative-costa-brava/
+image: "https://images.unsplash.com/photo-1734834442785-f2f10c0913f4?auto=format&fit=crop&w=1800&q=75"
+cta_body: "Si el Maresme te llama la atención, te preparamos una selección real de pueblos y viviendas con el mismo criterio técnico."
 related:
   - /es/blog/sitges-o-costa-brava/
   - /es/blog/costa-daurada-guia-comprar/
   - /es/blog/vivir-todo-el-ano-costa-brava/
-image: "https://images.unsplash.com/photo-1734834442785-f2f10c0913f4?auto=format&fit=crop&w=1800&q=75"
-cta_body: "Si el Maresme te llama la atención, te preparamos una selección real de pueblos y viviendas con el mismo criterio técnico."
 ---
 
 Durante años, el Maresme ha sido la costa de los barceloneses: la que se recorre en tren un domingo y se conoce poco desde fuera. Hoy es una de las zonas que más conviene mirar si quieres mar, pero sin renunciar a Barcelona.
@@ -54,4 +55,4 @@ Encaja si quieres estar cerca de Barcelona, vivir en un pueblo real y disfrutar 
 
 ## Nuestra recomendación
 
-Visita varios pueblos del Maresme con calma, y hazlo también fuera del verano. En Find Your Haven preparamos un Informe Preliminar con propiedades curadas de los pueblos que mejor encajan con lo que buscas. Puedes ver el resto de zonas en [nuestros territorios]({{ site.baseurl }}/es/#territorio) y cómo trabajamos en [nuestro proceso]({{ site.baseurl }}/es/#proceso). Si estás comparando con el sur de la costa, no te pierdas nuestra [guía de la Costa Daurada]({{ site.baseurl }}/es/blog/costa-daurada-guia-comprar/).
+Visita varios pueblos del Maresme con calma, y hazlo también fuera del verano. En Find Your Haven preparamos un Informe Preliminar con propiedades curadas de los pueblos que mejor encajan con lo que buscas. Puedes ver el resto de zonas en [nuestros territorios]({{ site.baseurl }}/es/blog/tema/zonas/) y cómo trabajamos en [nuestro proceso]({{ site.baseurl }}/es/#proceso). Si estás comparando con el sur de la costa, no te pierdas nuestra [guía de la Costa Daurada]({{ site.baseurl }}/es/blog/costa-daurada-guia-comprar/).

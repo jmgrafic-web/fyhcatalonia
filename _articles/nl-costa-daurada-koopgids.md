@@ -2,6 +2,7 @@
 layout: article
 lang: nl
 topic: Koopgidsen
+category: zonas
 title: "Costa Daurada: koopgids voor het meest toegankelijke gebied aan de Catalaanse kust"
 seo_title: "Costa Daurada: koopgids voor het meest toegankelijke gebied"
 description: "Wat de Costa Daurada een internationale koper biedt: Cambrils, Altafulla en Tarragona, prijzen, verbindingen en waar je op moet letten."
@@ -12,12 +13,12 @@ translations:
   en: /en/blog/costa-daurada-buying-guide/
   nl: /nl/blog/costa-daurada-koopgids/
   fr: /fr/blog/costa-daurada-guide-achat/
+image: "https://images.unsplash.com/photo-1630609977911-1e6c9d3c9147?auto=format&fit=crop&w=1800&q=75"
+cta_body: "Interesseert het zuiden van de Catalaanse kust je? Dan helpen we je specifieke plaatsen en gebouwen te vergelijken voordat je je vastlegt."
 related:
   - /nl/blog/maresme-alternatief-costa-brava/
   - /nl/blog/rendement-kopen-om-te-verhuren-catalaanse-kust/
   - /nl/blog/vakantieverhuur-catalonie-vergunning/
-image: "https://images.unsplash.com/photo-1630609977911-1e6c9d3c9147?auto=format&fit=crop&w=1800&q=75"
-cta_body: "Interesseert het zuiden van de Catalaanse kust je? Dan helpen we je specifieke plaatsen en gebouwen te vergelijken voordat je je vastlegt."
 ---
 
 De Costa Daurada is de Catalaanse kust die het vaakst buiten de eerste zoektochten van internationale kopers valt en, voor veel profielen, die met de beste verhouding tussen prijs en levenskwaliteit. Deze gids legt uit wat er werkelijk is.
@@ -49,4 +50,4 @@ Het hogesnelheidsstation Camp de Tarragona verbindt met Barcelona in ongeveer ee
 
 ## Onze aanbeveling
 
-Is het budget een belangrijke factor, dan verdient de Costa Daurada een serieus bezoek. Bij Find Your Haven stellen we een Voorlopig Rapport samen met gecureerde woningen en een realistische technische beoordeling. Bekijk alle gebieden onder [onze gebieden]({{ site.baseurl }}/nl/#gebieden) en, vergelijk je met het noorden van Barcelona, ons artikel over [de Maresme als alternatief]({{ site.baseurl }}/nl/blog/maresme-alternatief-costa-brava/). Wil je begrijpen hoe we het doen, bezoek dan [hoe wij werken]({{ site.baseurl }}/nl/#proces).
+Is het budget een belangrijke factor, dan verdient de Costa Daurada een serieus bezoek. Bij Find Your Haven stellen we een Voorlopig Rapport samen met gecureerde woningen en een realistische technische beoordeling. Bekijk alle gebieden onder [onze gebieden]({{ site.baseurl }}/nl/blog/onderwerp/gebieden/) en, vergelijk je met het noorden van Barcelona, ons artikel over [de Maresme als alternatief]({{ site.baseurl }}/nl/blog/maresme-alternatief-costa-brava/). Wil je begrijpen hoe we het doen, bezoek dan [hoe wij werken]({{ site.baseurl }}/nl/#proces).

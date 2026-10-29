@@ -2,6 +2,7 @@
 layout: article
 lang: fr
 topic: Comparatifs de zone
+category: zonas
 title: "Le Maresme face à la Costa Brava : l'alternative qui gagne du terrain"
 seo_title: "Le Maresme face à la Costa Brava : une alternative"
 description: "Pourquoi le Maresme gagne du terrain : proximité de Barcelone, train et autoroute, types de biens et prix face à la Costa Brava."
@@ -12,12 +13,12 @@ translations:
   en: /en/blog/maresme-costa-brava-alternative/
   nl: /nl/blog/maresme-alternatief-costa-brava/
   fr: /fr/blog/maresme-alternative-costa-brava/
+image: "https://images.unsplash.com/photo-1734834442785-f2f10c0913f4?auto=format&fit=crop&w=1800&q=75"
+cta_body: "Si le Maresme vous attire, nous vous préparons une vraie sélection de villages et de biens avec la même rigueur technique."
 related:
   - /fr/blog/sitges-ou-costa-brava-comparaison/
   - /fr/blog/costa-daurada-guide-achat/
   - /fr/blog/vivre-toute-annee-costa-brava/
-image: "https://images.unsplash.com/photo-1734834442785-f2f10c0913f4?auto=format&fit=crop&w=1800&q=75"
-cta_body: "Si le Maresme vous attire, nous vous préparons une vraie sélection de villages et de biens avec la même rigueur technique."
 ---
 
 Pendant des années, le Maresme a été la côte des Barcelonais : celle qu'on rejoint en train un dimanche et que l'on connaît peu de l'extérieur. Aujourd'hui, c'est l'une des zones qu'il vaut le plus la peine de regarder si vous voulez la mer sans renoncer à Barcelone.
@@ -54,4 +55,4 @@ Cela convient si vous voulez être près de Barcelone, vivre dans un vrai villag
 
 ## Notre recommandation
 
-Visitez plusieurs villages du Maresme sans vous presser, et faites-le aussi hors été. Chez Find Your Haven, nous préparons un Rapport Préliminaire avec des biens sélectionnés dans les villages qui correspondent le mieux à ce que vous cherchez. Retrouvez les autres zones dans [nos territoires]({{ site.baseurl }}/fr/#territoire) et notre manière de travailler dans [notre méthode]({{ site.baseurl }}/fr/#processus). Si vous comparez avec le sud de la côte, ne manquez pas notre [guide de la Costa Daurada]({{ site.baseurl }}/fr/blog/costa-daurada-guide-achat/).
+Visitez plusieurs villages du Maresme sans vous presser, et faites-le aussi hors été. Chez Find Your Haven, nous préparons un Rapport Préliminaire avec des biens sélectionnés dans les villages qui correspondent le mieux à ce que vous cherchez. Retrouvez les autres zones dans [nos territoires]({{ site.baseurl }}/fr/blog/theme/zones/) et notre manière de travailler dans [notre méthode]({{ site.baseurl }}/fr/#processus). Si vous comparez avec le sud de la côte, ne manquez pas notre [guide de la Costa Daurada]({{ site.baseurl }}/fr/blog/costa-daurada-guide-achat/).

@@ -2,6 +2,7 @@
 layout: article
 lang: fr
 topic: Financement
+category: dinero
 title: "Prêts immobiliers en Espagne pour acheteurs étrangers : comment fonctionne le financement"
 seo_title: "Prêt immobilier en Espagne pour étrangers : le guide"
 description: "Comment fonctionne un prêt immobilier en Espagne pour étrangers : quotité financée, documents, durées et alternatives aux banques espagnoles."
@@ -12,12 +13,12 @@ translations:
   en: /en/blog/mortgage-financing-foreigners-spain/
   nl: /nl/blog/hypotheek-financiering-buitenlanders-spanje/
   fr: /fr/blog/hypotheque-financement-etrangers-espagne/
-related:
-  - /fr/blog/impots-achat-immobilier-espagne-non-resident/
-  - /fr/blog/acheter-maison-costa-brava-etranger-guide/
-  - /fr/blog/erreurs-juridiques-achat-sans-avocat/
 image: "https://images.unsplash.com/photo-1747405415026-f74f7e075090?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Nous coordonnons la relation avec votre établissement financier dans le cadre naturel du processus d'achat."
+related:
+  - /fr/blog/impots-achat-immobilier-espagne-non-resident/
+  - /fr/blog/compte-bancaire-espagne-non-resident/
+  - /fr/blog/erreurs-juridiques-achat-sans-avocat/
 ---
 
 "Puis-je obtenir un prêt immobilier en Espagne en tant qu'étranger ?" est, de loin, la question financière que nous recevons le plus après une première visite. La réponse courte est oui. La réponse utile comporte quelques nuances à connaître avant de faire une offre.

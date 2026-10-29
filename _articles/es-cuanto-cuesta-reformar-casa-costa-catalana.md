@@ -2,6 +2,7 @@
 layout: article
 lang: es
 topic: Reforma
+category: reformar
 title: "Cuánto cuesta reformar una casa en la Costa Catalana: presupuestos por niveles"
 seo_title: "Cuánto cuesta reformar una casa en la Costa Catalana"
 description: "Cuánto cuesta reformar una casa en la Costa Catalana: rangos de presupuesto por niveles, qué encarece la obra y plazos realistas."
@@ -12,15 +13,15 @@ translations:
   en: /en/blog/renovation-cost-catalan-coast-guide/
   nl: /nl/blog/renovatiekosten-catalaanse-kust-gids/
   fr: /fr/blog/cout-renovation-cote-catalane-guide/
-related:
-  - /es/blog/due-diligence-tecnica-inmobiliaria/
-  - /es/blog/masia-o-villa-obra-nueva/
-  - /es/blog/comprar-masia-emporda-reformar/
 pillar: true
 pillar_order: 4
 footer_label: "Cuánto cuesta reformar"
 image: "https://images.unsplash.com/photo-1768321902290-54497eeb9cf6?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Antes de comprar, podemos darte una estimación de reforma en tres niveles para el inmueble que estés valorando."
+related:
+  - /es/blog/licencia-obras-cataluna-menor-mayor/
+  - /es/blog/due-diligence-tecnica-inmobiliaria/
+  - /es/blog/masia-o-villa-obra-nueva/
 ---
 
 Es la pregunta que más veces se repite después de "¿en qué zona compro?": ¿cuánto me va a costar reformarlo? La respuesta honesta es que depende de muchas variables —superficie, estado estructural, calidad de acabados, si hay que tocar la cubierta— pero sí es posible dar rangos orientativos que ayudan a planificar el presupuesto desde el primer momento, antes incluso de hacer una oferta por el inmueble.

@@ -2,6 +2,7 @@
 layout: article
 lang: nl
 topic: Investering
+category: vivir
 title: "Kopen om te verhuren aan de Catalaanse kust: nadenken over het werkelijke rendement"
 seo_title: "Kopen om te verhuren aan de Catalaanse kust: echt rendement"
 description: "Echt rendement van kopen om te verhuren aan de Catalaanse kust: bruto versus netto, seizoen, vergunning en woningtype."
@@ -12,12 +13,12 @@ translations:
   en: /en/blog/buy-to-let-profitability-catalan-coast/
   nl: /nl/blog/rendement-kopen-om-te-verhuren-catalaanse-kust/
   fr: /fr/blog/rentabilite-achat-locatif-cote-catalane/
-related:
-  - /nl/blog/vakantieverhuur-catalonie-vergunning/
-  - /nl/blog/costa-daurada-koopgids/
-  - /nl/blog/hypotheek-financiering-buitenlanders-spanje/
 image: "https://images.unsplash.com/photo-1768321902290-54497eeb9cf6?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Voordat je koopt met investering als doel, kunnen we je helpen een realistisch rendement te berekenen voor de specifieke woning."
+related:
+  - /nl/blog/vakantieverhuur-catalonie-vergunning/
+  - /nl/blog/kosten-onderhoud-tweede-woning-costa-brava-per-jaar/
+  - /nl/blog/costa-daurada-koopgids/
 ---
 
 Een deel van de internationale kopers met wie we werken, zoekt niet alleen een tweede woning: ze willen dat die woning ook inkomsten genereert wanneer ze er geen gebruik van maken. Een legitiem doel, maar de rendementscijfers die op portals en in generieke artikelen circuleren, weerspiegelen zelden wat een eigenaar aan het eind van het jaar werkelijk overhoudt.

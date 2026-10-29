@@ -2,6 +2,7 @@
 layout: article
 lang: nl
 topic: Gebiedsvergelijkingen
+category: zonas
 title: "Sitges of Costa Brava: welk gebied past bij jouw levensstijl"
 seo_title: "Sitges of Costa Brava: welk gebied past bij jou?"
 description: "Sitges of de Costa Brava voor je tweede woning: een eerlijke vergelijking van afstanden, woningtypes, prijzen en levensstijl."
@@ -12,12 +13,12 @@ translations:
   en: /en/blog/sitges-or-costa-brava-comparison/
   nl: /nl/blog/sitges-of-costa-brava-vergelijking/
   fr: /fr/blog/sitges-ou-costa-brava-comparaison/
-related:
-  - /nl/blog/sitges-koopgids-kosmopolitisch-gebied/
-  - /nl/blog/cadaques-begur-llafranc-verschillen/
-  - /nl/blog/maresme-alternatief-costa-brava/
 image: "https://images.pexels.com/photos/30051052/pexels-photo-30051052/free-photo-of-charming-sitges-beachfront-on-a-summer-day.jpeg?auto=compress&cs=tinysrgb&w=1800"
 cta_body: "Vertel ons wat je zoekt en we helpen je gebieden te vergelijken met een echte selectie woningen, niet alleen meningen."
+related:
+  - /nl/blog/sitges-koopgids-kosmopolitisch-gebied/
+  - /nl/blog/huis-kopen-in-begur-gids/
+  - /nl/blog/maresme-alternatief-costa-brava/
 ---
 
 Het is een van de vragen die we het vaakst krijgen van internationale kopers die het gebied nog niet goed kennen: Sitges of Costa Brava? Het juiste antwoord hangt niet af van de prijs of hoe de foto's eruitzien, maar van het type leven dat je je daar voorstelt.

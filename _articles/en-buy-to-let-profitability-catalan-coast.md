@@ -2,6 +2,7 @@
 layout: article
 lang: en
 topic: Investment
+category: vivir
 title: "Buying to let on the Catalan coast: thinking about real profitability"
 seo_title: "Buy-to-Let on the Catalan Coast: Real Profitability"
 description: "Real buy-to-let profitability on the Catalan coast: gross vs net yield, seasonality, licensing and the property types that perform."
@@ -12,12 +13,12 @@ translations:
   en: /en/blog/buy-to-let-profitability-catalan-coast/
   nl: /nl/blog/rendement-kopen-om-te-verhuren-catalaanse-kust/
   fr: /fr/blog/rentabilite-achat-locatif-cote-catalane/
-related:
-  - /en/blog/vacation-rental-catalonia-licence/
-  - /en/blog/costa-daurada-buying-guide/
-  - /en/blog/mortgage-financing-foreigners-spain/
 image: "https://images.unsplash.com/photo-1768321902290-54497eeb9cf6?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Before buying for investment purposes, we can help you calculate a realistic yield for the specific property you're considering."
+related:
+  - /en/blog/vacation-rental-catalonia-licence/
+  - /en/blog/running-costs-holiday-home-costa-brava/
+  - /en/blog/costa-daurada-buying-guide/
 ---
 
 A share of the international buyers we work with aren't just after a second home: they want that home to generate income too, when they're not using it. It's a legitimate goal — but the profitability figures circulating on portals and generic articles rarely reflect what an owner actually pockets at the end of the year.

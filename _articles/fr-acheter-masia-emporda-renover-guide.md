@@ -2,6 +2,7 @@
 layout: article
 lang: fr
 topic: Guides d'achat
+category: zonas
 title: "Acheter une masia dans l'Empordà pour la rénover : le guide complet"
 seo_title: "Acheter une masia dans l'Empordà pour la rénover"
 description: "Acheter une masia dans l'Empordà pour la rénover : prix, permis, biens off-market et erreurs courantes à éviter avant de vous engager."
@@ -12,12 +13,12 @@ translations:
   en: /en/blog/buying-farmhouse-emporda-renovate-guide/
   nl: /nl/blog/boerderij-kopen-emporda-renoveren-gids/
   fr: /fr/blog/acheter-masia-emporda-renover-guide/
-related:
-  - /fr/blog/masia-ou-villa-neuve/
-  - /fr/blog/cout-renovation-cote-catalane-guide/
-  - /fr/blog/due-diligence-technique-immobiliere-explication/
 image: "https://images.unsplash.com/photo-1557393120-d3ee552f3736?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Vous cherchez une masia avec du potentiel dans l'Empordà ? Nous avons des biens off-market qui n'arrivent jamais sur les portails."
+related:
+  - /fr/blog/masia-ou-villa-neuve/
+  - /fr/blog/permis-de-construire-catalogne-travaux-mineurs-majeurs/
+  - /fr/blog/due-diligence-technique-immobiliere-explication/
 ---
 
 L'Empordà intérieur n'est pas la Costa Brava, même s'il n'en est qu'à un quart d'heure. C'est un territoire différent : des masies du XVIIIe siècle, des villages médiévaux quasiment intacts, des vignes et des oliviers à perte de vue, et une tranquillité que le littoral ne peut plus offrir. Pour qui cherche un projet de restauration avec du caractère, c'est l'un des rares endroits d'Europe où l'on peut encore le trouver à des prix raisonnables.
@@ -62,4 +63,4 @@ Avant de choisir entre restaurer et construire, lisez [masia à rénover ou vill
 
 ## Notre approche dans l'Empordà
 
-L'Empordà intérieur est l'une de nos zones les plus actives, précisément parce qu'il combine ce que nous faisons le mieux : accès à des biens off-market via notre réseau local, évaluation technique sérieuse avant de s'engager, et gestion complète de la rénovation avec le même regard architectural que celui qui a évalué le bien. Retrouvez nos autres zones dans [territoire]({{ site.baseurl }}/fr/#territoire).
+L'Empordà intérieur est l'une de nos zones les plus actives, précisément parce qu'il combine ce que nous faisons le mieux : accès à des biens off-market via notre réseau local, évaluation technique sérieuse avant de s'engager, et gestion complète de la rénovation avec le même regard architectural que celui qui a évalué le bien. Retrouvez nos autres zones dans [territoire]({{ site.baseurl }}/fr/blog/theme/zones/).

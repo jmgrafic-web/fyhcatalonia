@@ -2,6 +2,7 @@
 layout: article
 lang: es
 topic: Proceso de compra
+category: comprar
 title: "La notaría en España, paso a paso: qué ocurre el día de la firma"
 seo_title: "La notaría en España: qué ocurre el día de la firma"
 description: "Cómo es el día de la firma en España: documentación, medios de pago, poder notarial para firmar a distancia y trámites posteriores."
@@ -12,12 +13,12 @@ translations:
   en: /en/blog/spanish-notary-completion-day/
   nl: /nl/blog/notaris-spanje-dag-van-de-ondertekening/
   fr: /fr/blog/notaire-espagne-jour-de-la-signature/
-related:
-  - /es/blog/errores-legales-comprar-sin-abogado/
-  - /es/blog/impuestos-comprar-vivienda-espana-no-residente/
-  - /es/blog/comprar-vivienda-costa-brava-extranjero/
 image: "https://images.unsplash.com/photo-1747405415026-f74f7e075090?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Coordinamos contigo, tu abogado y la notaría para que el día de la firma no te dé ninguna sorpresa."
+related:
+  - /es/blog/errores-legales-comprar-sin-abogado/
+  - /es/blog/nie-para-comprar-casa-espana-paso-a-paso/
+  - /es/blog/cedula-de-habitabilidad-cataluna/
 ---
 
 Para muchos compradores extranjeros, el día de la firma es el momento más intimidante de todo el proceso: un idioma que no dominan, un documento largo y una cantidad importante de dinero en juego. Es bastante más sencillo de lo que parece, siempre que se llegue preparado.

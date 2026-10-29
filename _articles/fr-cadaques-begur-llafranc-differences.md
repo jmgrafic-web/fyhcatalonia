@@ -2,6 +2,7 @@
 layout: article
 lang: fr
 topic: Comparatifs de zone
+category: zonas
 title: "Cadaqués, Begur ou Llafranc : les différences entre les villages de la Costa Brava"
 seo_title: "Cadaqués, Begur ou Llafranc : quel village choisir ?"
 description: "Cadaqués, Begur ou Llafranc : caractère, prix et profil d'acheteur des villages les plus recherchés de la Costa Brava."
@@ -12,12 +13,12 @@ translations:
   en: /en/blog/cadaques-begur-llafranc-differences/
   nl: /nl/blog/cadaques-begur-llafranc-verschillen/
   fr: /fr/blog/cadaques-begur-llafranc-differences/
-related:
-  - /fr/blog/sitges-ou-costa-brava-comparaison/
-  - /fr/blog/vivre-toute-annee-costa-brava/
-  - /fr/blog/acheter-masia-emporda-renover-guide/
 image: "https://images.unsplash.com/photo-1557393120-d3ee552f3736?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Dites-nous ce que vous cherchez et nous vous aiderons à comparer des villages précis avec une vraie sélection de biens."
+related:
+  - /fr/blog/acheter-maison-a-begur-guide/
+  - /fr/blog/sitges-ou-costa-brava-comparaison/
+  - /fr/blog/vivre-toute-annee-costa-brava/
 ---
 
 "Costa Brava" n'est pas un lieu, ce sont des dizaines de villages aux personnalités très différentes. Pour qui la découvre pour la première fois, la différence entre Cadaqués, Begur et Llafranc n'est peut-être pas évidente sur les photos. Pour qui s'apprête à y acheter, cette différence est essentielle.

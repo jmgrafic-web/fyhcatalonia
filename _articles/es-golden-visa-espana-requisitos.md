@@ -2,6 +2,7 @@
 layout: article
 lang: es
 topic: Residencia y visados
+category: dinero
 title: "Golden Visa en España: qué es, qué ha cambiado y qué alternativas existen"
 seo_title: "Golden Visa en España: qué cambió y qué alternativas hay"
 description: "Qué fue la Golden Visa inmobiliaria en España, qué cambió con su derogación y qué otras vías de residencia existen hoy para compradores."
@@ -12,12 +13,12 @@ translations:
   en: /en/blog/golden-visa-spain-requirements/
   nl: /nl/blog/golden-visa-spanje-vereisten/
   fr: /fr/blog/golden-visa-espagne-conditions/
-related:
-  - /es/blog/impuestos-comprar-vivienda-espana-no-residente/
-  - /es/blog/vivir-todo-el-ano-costa-brava/
-  - /es/blog/comprar-vivienda-costa-brava-extranjero/
 image: "https://images.unsplash.com/photo-1721244653627-90b840127a7a?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Si tu interés en comprar está ligado a la residencia, te ponemos en contacto con un abogado de extranjería desde la primera conversación."
+related:
+  - /es/blog/nie-para-comprar-casa-espana-paso-a-paso/
+  - /es/blog/impuestos-comprar-vivienda-espana-no-residente/
+  - /es/blog/vivir-todo-el-ano-costa-brava/
 ---
 
 Pocas siglas han generado tanta confusión entre compradores internacionales como "Golden Visa". Durante años fue la vía más conocida para obtener residencia en España a través de la compra de una vivienda. Pero el marco normativo ha cambiado, y conviene llegar a la conversación con información actualizada, no con lo que se leía en foros hace un par de años.

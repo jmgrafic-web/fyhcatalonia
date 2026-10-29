@@ -2,6 +2,7 @@
 layout: article
 lang: nl
 topic: Belastingen
+category: dinero
 title: "Belastingen en kosten bij het kopen van een woning in Spanje als niet-ingezetene"
 seo_title: "Belastingen: huis kopen in Spanje als niet-ingezetene"
 description: "Belastingen en kosten bij het kopen van een woning in Spanje als niet-ingezetene: overdracht, notaris, kadaster, IRNR en IBI uitgelegd."
@@ -12,15 +13,15 @@ translations:
   en: /en/blog/taxes-buying-property-spain-non-resident/
   nl: /nl/blog/belastingen-huis-kopen-spanje-niet-ingezetene/
   fr: /fr/blog/impots-achat-immobilier-espagne-non-resident/
-related:
-  - /nl/blog/hypotheek-financiering-buitenlanders-spanje/
-  - /nl/blog/golden-visa-spanje-vereisten/
-  - /nl/blog/notaris-spanje-dag-van-de-ondertekening/
 pillar: true
 pillar_order: 3
 footer_label: "Belastingen en kosten"
 image: "https://images.unsplash.com/photo-1747405415026-f74f7e075090?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Wij coördineren je gestor en belastingadviseur als onderdeel van het koopproces, zodat jij dit niet apart hoeft te regelen."
+related:
+  - /nl/blog/hypotheek-financiering-buitenlanders-spanje/
+  - /nl/blog/spaanse-bankrekening-niet-ingezetene/
+  - /nl/blog/golden-visa-spanje-vereisten/
 ---
 
 Een van de onderwerpen die de meeste onzekerheid oproept bij buitenlandse kopers is belasting: wat betaal je, wanneer, en welke verplichtingen blijven er na de overdracht bestaan. Deze gids behandelt de belangrijkste begrippen, zodat je goed voorbereid het gesprek met je belastingadviseur ingaat — het vervangt dat advies niet, want de exacte bedragen hangen af van de autonome regio, het type woning en jouw persoonlijke situatie, en moeten altijd bevestigd worden door een professional voordat je iets ondertekent.

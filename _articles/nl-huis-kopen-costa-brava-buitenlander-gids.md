@@ -2,6 +2,7 @@
 layout: article
 lang: nl
 topic: Koopgidsen
+category: comprar
 title: "Een huis kopen aan de Costa Brava als buitenlander: stap voor stap"
 seo_title: "Een huis kopen aan de Costa Brava als buitenlander"
 description: "Stapsgewijze gids voor het kopen van een huis aan de Costa Brava als buitenlander: NIE, echt budget, bezichtigen op afstand, notaris en valkuilen."
@@ -12,15 +13,16 @@ translations:
   en: /en/blog/buying-property-costa-brava-foreigner-guide/
   nl: /nl/blog/huis-kopen-costa-brava-buitenlander-gids/
   fr: /fr/blog/acheter-maison-costa-brava-etranger-guide/
-related:
-  - /nl/blog/technische-due-diligence-vastgoed-uitgelegd/
-  - /nl/blog/juridische-fouten-kopen-zonder-advocaat/
-  - /nl/blog/notaris-spanje-dag-van-de-ondertekening/
 pillar: true
 pillar_order: 1
 footer_label: "Kopen aan de Costa Brava"
 image: "https://images.unsplash.com/photo-1702655358646-12a7b5be0bbe?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Overweeg je te kopen aan de Costa Brava? Laten we je project bespreken voordat je de eerste stap zet. Geheel vrijblijvend."
+related:
+  - /nl/blog/technische-due-diligence-vastgoed-uitgelegd/
+  - /nl/blog/nie-nummer-huis-kopen-spanje-stappenplan/
+  - /nl/blog/notaris-spanje-dag-van-de-ondertekening/
+start_here: true
 ---
 
 Elk jaar vallen honderden buitenlandse kopers — vooral Britten en Nederlanders — voor een plekje aan de Costa Brava: een baai bij Begur, een kasseienstraatje in Pals, het licht over zee in Cadaqués. De wens is simpel. Het waarmaken ervan iets minder.

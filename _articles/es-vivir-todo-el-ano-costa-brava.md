@@ -2,6 +2,7 @@
 layout: article
 lang: es
 topic: Vida en la costa
+category: vivir
 title: "Vivir todo el año en la Costa Brava: sanidad, colegios y vida diaria"
 seo_title: "Vivir todo el año en la Costa Brava: sanidad y colegios"
 description: "Cómo es vivir todo el año en la Costa Brava: sanidad, colegios, conexiones y vida fuera de temporada frente a una segunda residencia."
@@ -12,12 +13,12 @@ translations:
   en: /en/blog/living-year-round-costa-brava/
   nl: /nl/blog/het-hele-jaar-wonen-costa-brava/
   fr: /fr/blog/vivre-toute-annee-costa-brava/
-related:
-  - /es/blog/cadaques-begur-llafranc-diferencias/
-  - /es/blog/golden-visa-espana-requisitos/
-  - /es/blog/maresme-alternativa-costa-brava/
 image: "https://images.unsplash.com/photo-1702655358646-12a7b5be0bbe?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Si tu plan es mudarte de forma permanente, podemos ayudarte a encontrar la zona que mejor encaje con tu vida diaria, no solo con tus vacaciones."
+related:
+  - /es/blog/cadaques-begur-llafranc-diferencias/
+  - /es/blog/cuanto-cuesta-mantener-casa-costa-brava-al-ano/
+  - /es/blog/golden-visa-espana-requisitos/
 ---
 
 Hay una diferencia notable entre comprar una segunda residencia para pasar julio y agosto en la Costa Brava, y mudarse aquí de forma permanente. Cada año recibimos consultas de compradores en ambas situaciones, y las preguntas que importan cambian bastante de un caso al otro. Esta guía está pensada para quienes contemplan la segunda opción.

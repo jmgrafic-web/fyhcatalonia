@@ -2,6 +2,7 @@
 layout: article
 lang: nl
 topic: Koopgidsen
+category: zonas
 title: "Een boerderij kopen in de Empordà om te renoveren: de complete gids"
 seo_title: "Een boerderij kopen in de Empordà om te renoveren"
 description: "Een masia of boerderij kopen in de Empordà om te renoveren: prijzen, vergunningen, off-market woningen en veelgemaakte fouten."
@@ -12,12 +13,12 @@ translations:
   en: /en/blog/buying-farmhouse-emporda-renovate-guide/
   nl: /nl/blog/boerderij-kopen-emporda-renoveren-gids/
   fr: /fr/blog/acheter-masia-emporda-renover-guide/
-related:
-  - /nl/blog/boerderij-of-nieuwbouwvilla/
-  - /nl/blog/renovatiekosten-catalaanse-kust-gids/
-  - /nl/blog/technische-due-diligence-vastgoed-uitgelegd/
 image: "https://images.unsplash.com/photo-1557393120-d3ee552f3736?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Op zoek naar een boerderij met potentieel in de Empordà? Wij hebben off-market woningen die nooit op de portals verschijnen."
+related:
+  - /nl/blog/boerderij-of-nieuwbouwvilla/
+  - /nl/blog/bouwvergunning-catalonie-kleine-grote-werken/
+  - /nl/blog/technische-due-diligence-vastgoed-uitgelegd/
 ---
 
 De binnenlandse Empordà is niet de Costa Brava, ook al ligt het er maar een kwartiertje vandaan. Het is een heel ander soort plek: achttiende-eeuwse boerderijen, bijna ongerepte middeleeuwse dorpen, wijngaarden en olijfbomen zover het oog reikt, en een rust die de kustlijn niet meer kan bieden. Voor wie op zoek is naar een restauratieproject met echt karakter, is dit een van de weinige plekken in Europa waar dat nog tegen een redelijke prijs te vinden is.
@@ -62,4 +63,4 @@ Voordat je kiest tussen restaureren en bouwen, lees [boerderij om te renoveren o
 
 ## Onze aanpak in de Empordà
 
-De binnenlandse Empordà is een van onze actiefste gebieden, precies omdat het combineert wat wij het beste kunnen: toegang tot off-market woningen via ons lokale netwerk, een serieuze technische beoordeling voordat je je vastlegt, en volledig renovatiebeheer met dezelfde architecturale blik die de woning beoordeelde. Bekijk onze andere gebieden onder [gebied]({{ site.baseurl }}/nl/#gebieden).
+De binnenlandse Empordà is een van onze actiefste gebieden, precies omdat het combineert wat wij het beste kunnen: toegang tot off-market woningen via ons lokale netwerk, een serieuze technische beoordeling voordat je je vastlegt, en volledig renovatiebeheer met dezelfde architecturale blik die de woning beoordeelde. Bekijk onze andere gebieden onder [gebied]({{ site.baseurl }}/nl/blog/onderwerp/gebieden/).

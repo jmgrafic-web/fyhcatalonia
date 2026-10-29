@@ -2,6 +2,7 @@
 layout: article
 lang: nl
 topic: Financiering
+category: dinero
 title: "Hypotheken in Spanje voor buitenlandse kopers: hoe financiering werkt"
 seo_title: "Hypotheek in Spanje voor buitenlanders: hoe werkt het?"
 description: "Hoe een Spaanse hypotheek werkt voor buitenlandse kopers: financieringspercentage, documenten, looptijden en alternatieven."
@@ -12,12 +13,12 @@ translations:
   en: /en/blog/mortgage-financing-foreigners-spain/
   nl: /nl/blog/hypotheek-financiering-buitenlanders-spanje/
   fr: /fr/blog/hypotheque-financement-etrangers-espagne/
-related:
-  - /nl/blog/belastingen-huis-kopen-spanje-niet-ingezetene/
-  - /nl/blog/huis-kopen-costa-brava-buitenlander-gids/
-  - /nl/blog/juridische-fouten-kopen-zonder-advocaat/
 image: "https://images.unsplash.com/photo-1747405415026-f74f7e075090?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Wij coördineren het contact met je financiële instelling als vanzelfsprekend onderdeel van het koopproces."
+related:
+  - /nl/blog/belastingen-huis-kopen-spanje-niet-ingezetene/
+  - /nl/blog/spaanse-bankrekening-niet-ingezetene/
+  - /nl/blog/juridische-fouten-kopen-zonder-advocaat/
 ---
 
 "Kan ik als buitenlander een hypotheek krijgen in Spanje?" is, met afstand, de financiële vraag die we het vaakst krijgen na een eerste bezichtiging. Het korte antwoord is ja. Het nuttige antwoord kent een paar nuances die goed zijn om te kennen voordat je een bod uitbrengt.

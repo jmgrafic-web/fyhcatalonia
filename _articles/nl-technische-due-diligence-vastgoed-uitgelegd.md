@@ -2,6 +2,7 @@
 layout: article
 lang: nl
 topic: Technische due diligence
+category: comprar
 title: "Technische due diligence: wat het is en waarom het je tienduizenden euro's kan besparen"
 seo_title: "Technische due diligence bij het kopen van vastgoed"
 description: "Wat technische due diligence is bij het kopen van vastgoed in Spanje, wat het onthult dat geen advertentie toont en hoe het geld bespaart."
@@ -12,15 +13,16 @@ translations:
   en: /en/blog/technical-due-diligence-property-explained/
   nl: /nl/blog/technische-due-diligence-vastgoed-uitgelegd/
   fr: /fr/blog/due-diligence-technique-immobiliere-explication/
-related:
-  - /nl/blog/juridische-fouten-kopen-zonder-advocaat/
-  - /nl/blog/renovatiekosten-catalaanse-kust-gids/
-  - /nl/blog/boerderij-kopen-emporda-renoveren-gids/
 pillar: true
 pillar_order: 2
 footer_label: "Technische due diligence"
 image: "https://images.unsplash.com/photo-1721244653627-90b840127a7a?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Voordat je een reserveringscontract tekent voor een woning, bespreken we wat een technische inspectie erover kan onthullen."
+related:
+  - /nl/blog/huis-kopen-costa-brava-buitenlander-gids/
+  - /nl/blog/juridische-fouten-kopen-zonder-advocaat/
+  - /nl/blog/bewoonbaarheidscertificaat-catalonie/
+start_here: true
 ---
 
 De meeste kopers behandelen de technische inspectie als een optionele stap — iets wat je doet "als er tijd voor is", of "als de verkoper het niet erg vindt". Het is waarschijnlijk de duurste fout die je kunt maken bij het kopen van een woning — zeker als je koopt vanuit een ander land, zonder directe kennis van de lokale bouwstandaarden.

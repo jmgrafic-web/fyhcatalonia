@@ -2,6 +2,7 @@
 layout: article
 lang: es
 topic: Representación legal
+category: comprar
 title: "Los errores legales más caros al comprar una vivienda sin abogado propio"
 seo_title: "Comprar sin abogado en España: los errores más caros"
 description: "Por qué comprar sin abogado propio en España sale caro: arras, cargas registrales, obras sin legalizar y quién representa al comprador."
@@ -12,12 +13,12 @@ translations:
   en: /en/blog/legal-mistakes-buying-without-lawyer/
   nl: /nl/blog/juridische-fouten-kopen-zonder-advocaat/
   fr: /fr/blog/erreurs-juridiques-achat-sans-avocat/
-related:
-  - /es/blog/notaria-espana-dia-de-la-firma/
-  - /es/blog/due-diligence-tecnica-inmobiliaria/
-  - /es/blog/hipoteca-financiacion-extranjero-espana/
 image: "https://images.unsplash.com/photo-1747405415026-f74f7e075090?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Coordinamos la revisión legal de tu operación con un abogado especializado en compradores extranjeros, como parte del proceso."
+related:
+  - /es/blog/notaria-espana-dia-de-la-firma/
+  - /es/blog/cedula-de-habitabilidad-cataluna/
+  - /es/blog/due-diligence-tecnica-inmobiliaria/
 ---
 
 "El notario ya revisa que todo esté en orden, ¿no hace falta también un abogado?" Es una pregunta razonable, y la respuesta es no: el notario da fe del acto y verifica determinados aspectos formales, pero no defiende los intereses del comprador frente al vendedor, ni negocia en su nombre, ni detecta necesariamente todo lo que a un comprador le convendría saber antes de firmar. Esa función la cumple un abogado propio — y prescindir de él es, con diferencia, el ahorro más caro que hemos visto intentar a compradores extranjeros.

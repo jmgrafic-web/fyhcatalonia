@@ -2,6 +2,7 @@
 layout: article
 lang: en
 topic: Buying guides
+category: zonas
 title: "Buying a farmhouse in the Empordà to renovate: a complete guide"
 seo_title: "Buying a Farmhouse in the Empordà to Renovate"
 description: "Buying a masia or farmhouse in the Empordà to renovate: prices, permits, off-market properties and the mistakes to avoid before you commit."
@@ -12,12 +13,12 @@ translations:
   en: /en/blog/buying-farmhouse-emporda-renovate-guide/
   nl: /nl/blog/boerderij-kopen-emporda-renoveren-gids/
   fr: /fr/blog/acheter-masia-emporda-renover-guide/
-related:
-  - /en/blog/farmhouse-or-new-build-villa/
-  - /en/blog/renovation-cost-catalan-coast-guide/
-  - /en/blog/technical-due-diligence-property-explained/
 image: "https://images.unsplash.com/photo-1557393120-d3ee552f3736?auto=format&fit=crop&w=1800&q=75"
 cta_body: "If you're looking for a farmhouse with potential in the Empordà, we have off-market properties that never reach the portals."
+related:
+  - /en/blog/farmhouse-or-new-build-villa/
+  - /en/blog/building-permit-catalonia-minor-major-works/
+  - /en/blog/technical-due-diligence-property-explained/
 ---
 
 The inland Empordà isn't the Costa Brava, even though it's fifteen minutes away. It's a different kind of place entirely: eighteenth-century farmhouses, near-untouched medieval villages, vineyards and olive groves as far as you can see, and a stillness the seafront simply can't offer anymore. For anyone after a restoration project with real character, it's one of the few places left in Europe where you can still find that at a reasonable price.
@@ -62,4 +63,4 @@ Before deciding between restoring and building, read [farmhouse to renovate or n
 
 ## Our approach in the Empordà
 
-The inland Empordà is one of our most active areas, precisely because it combines what we do best: access to off-market properties through our local network, a serious technical assessment before you commit, and full renovation management with the same architectural judgement that assessed the property in the first place. You can see our other areas in [territory]({{ site.baseurl }}/en/#areas).
+The inland Empordà is one of our most active areas, precisely because it combines what we do best: access to off-market properties through our local network, a serious technical assessment before you commit, and full renovation management with the same architectural judgement that assessed the property in the first place. You can see our other areas in [territory]({{ site.baseurl }}/en/blog/topic/areas/).

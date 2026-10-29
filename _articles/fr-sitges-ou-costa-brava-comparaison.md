@@ -2,6 +2,7 @@
 layout: article
 lang: fr
 topic: Comparatifs de zone
+category: zonas
 title: "Sitges ou Costa Brava : quelle zone correspond à votre style de vie"
 seo_title: "Sitges ou Costa Brava : quelle zone choisir ?"
 description: "Sitges ou Costa Brava pour votre résidence secondaire : comparaison honnête des distances, types de biens, prix et style de vie."
@@ -12,12 +13,12 @@ translations:
   en: /en/blog/sitges-or-costa-brava-comparison/
   nl: /nl/blog/sitges-of-costa-brava-vergelijking/
   fr: /fr/blog/sitges-ou-costa-brava-comparaison/
-related:
-  - /fr/blog/sitges-guide-achat-zone-cosmopolite/
-  - /fr/blog/cadaques-begur-llafranc-differences/
-  - /fr/blog/maresme-alternative-costa-brava/
 image: "https://images.pexels.com/photos/30051052/pexels-photo-30051052/free-photo-of-charming-sitges-beachfront-on-a-summer-day.jpeg?auto=compress&cs=tinysrgb&w=1800"
 cta_body: "Dites-nous ce que vous cherchez et nous vous aiderons à comparer les zones avec une vraie sélection de biens, pas seulement des opinions."
+related:
+  - /fr/blog/sitges-guide-achat-zone-cosmopolite/
+  - /fr/blog/acheter-maison-a-begur-guide/
+  - /fr/blog/maresme-alternative-costa-brava/
 ---
 
 C'est l'une des questions que nous recevons le plus d'acheteurs internationaux qui ne connaissent pas encore bien le territoire : Sitges ou Costa Brava ? La bonne réponse ne dépend ni du prix, ni de l'allure des photos, mais du type de vie que vous imaginez y mener.

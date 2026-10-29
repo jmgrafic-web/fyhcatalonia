@@ -2,6 +2,7 @@
 layout: article
 lang: en
 topic: Vacation rental
+category: vivir
 title: "Holiday letting in Catalonia: the tourist licence and rules you need to know"
 seo_title: "Holiday Letting in Catalonia: Licence and Rules"
 description: "The holiday-let licence in Catalonia: requirements, municipal quotas and tax to check before you buy to let."
@@ -12,15 +13,15 @@ translations:
   en: /en/blog/vacation-rental-catalonia-licence/
   nl: /nl/blog/vakantieverhuur-catalonie-vergunning/
   fr: /fr/blog/location-vacances-catalogne-licence/
-related:
-  - /en/blog/buy-to-let-profitability-catalan-coast/
-  - /en/blog/taxes-buying-property-spain-non-resident/
-  - /en/blog/sitges-buying-guide-cosmopolitan-area/
 pillar: true
 pillar_order: 5
 footer_label: "Holiday-let licence"
 image: "https://images.pexels.com/photos/30051052/pexels-photo-30051052/free-photo-of-charming-sitges-beachfront-on-a-summer-day.jpeg?auto=compress&cs=tinysrgb&w=1800"
 cta_body: "Before buying with letting in mind, we can help verify the licensing situation for the specific property and municipality."
+related:
+  - /en/blog/buy-to-let-profitability-catalan-coast/
+  - /en/blog/running-costs-holiday-home-costa-brava/
+  - /en/blog/taxes-buying-property-spain-non-resident/
 ---
 
 A good number of foreign buyers consider, from the outset, letting their property on the Catalan coast during the periods they're not using it themselves. That's a reasonable expectation — but Catalonia's regulation of short-term holiday lets is among the most specific in Spain, and it's worth understanding before you buy, not after.

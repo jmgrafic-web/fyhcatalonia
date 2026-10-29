@@ -2,6 +2,7 @@
 layout: article
 lang: fr
 topic: Résidence & visas
+category: dinero
 title: "Golden Visa en Espagne : ce que c'était, ce qui a changé, et quelles alternatives existent"
 seo_title: "Golden Visa en Espagne : ce qui change et les alternatives"
 description: "Ce qu'était le Golden Visa immobilier espagnol, ce qui a changé avec sa suppression et les autres voies de résidence pour acheteurs."
@@ -12,12 +13,12 @@ translations:
   en: /en/blog/golden-visa-spain-requirements/
   nl: /nl/blog/golden-visa-spanje-vereisten/
   fr: /fr/blog/golden-visa-espagne-conditions/
-related:
-  - /fr/blog/impots-achat-immobilier-espagne-non-resident/
-  - /fr/blog/vivre-toute-annee-costa-brava/
-  - /fr/blog/acheter-maison-costa-brava-etranger-guide/
 image: "https://images.unsplash.com/photo-1721244653627-90b840127a7a?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Si la résidence fait partie de vos motivations d'achat, nous vous mettons en relation avec un avocat spécialisé dès la première conversation."
+related:
+  - /fr/blog/nie-acheter-bien-espagne-etape-par-etape/
+  - /fr/blog/impots-achat-immobilier-espagne-non-resident/
+  - /fr/blog/vivre-toute-annee-costa-brava/
 ---
 
 Peu de sigles ont généré autant de confusion chez les acheteurs internationaux que "Golden Visa". Pendant des années, c'était la voie la plus connue vers la résidence espagnole via l'achat d'un bien immobilier. Mais le cadre réglementaire a changé, et mieux vaut aborder la conversation avec des informations à jour, pas celles qui circulaient sur les forums il y a deux ou trois ans.

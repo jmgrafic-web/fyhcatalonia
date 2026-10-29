@@ -2,6 +2,7 @@
 layout: article
 lang: en
 topic: Taxation
+category: dinero
 title: "Taxes and costs when buying property in Spain as a non-resident"
 seo_title: "Taxes When Buying Property in Spain as a Non-Resident"
 description: "Taxes and costs when buying property in Spain as a non-resident: transfer tax, notary, registry, IRNR and IBI explained."
@@ -12,15 +13,15 @@ translations:
   en: /en/blog/taxes-buying-property-spain-non-resident/
   nl: /nl/blog/belastingen-huis-kopen-spanje-niet-ingezetene/
   fr: /fr/blog/impots-achat-immobilier-espagne-non-resident/
-related:
-  - /en/blog/mortgage-financing-foreigners-spain/
-  - /en/blog/golden-visa-spain-requirements/
-  - /en/blog/spanish-notary-completion-day/
 pillar: true
 pillar_order: 3
 footer_label: "Taxes and costs"
 image: "https://images.unsplash.com/photo-1747405415026-f74f7e075090?auto=format&fit=crop&w=1800&q=75"
 cta_body: "We coordinate your administrator and tax advisor as part of the buying process, so you don't have to manage it separately."
+related:
+  - /en/blog/mortgage-financing-foreigners-spain/
+  - /en/blog/spanish-bank-account-non-resident/
+  - /en/blog/golden-visa-spain-requirements/
 ---
 
 One of the areas that creates the most uncertainty for foreign buyers is tax: what you pay, when, and what obligations remain after completion. This guide covers the main concepts so you arrive at the conversation with your tax advisor with the right questions — it doesn't replace that advice, because exact figures depend on the autonomous region, the type of property and your personal situation, and should always be confirmed with a professional before you sign anything.

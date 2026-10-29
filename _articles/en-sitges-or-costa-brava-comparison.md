@@ -2,6 +2,7 @@
 layout: article
 lang: en
 topic: Area comparisons
+category: zonas
 title: "Sitges or Costa Brava: which area suits your lifestyle"
 seo_title: "Sitges or Costa Brava: Which Area Should You Choose?"
 description: "Sitges or the Costa Brava for your second home: an honest comparison of distances, property types, prices and lifestyle."
@@ -12,12 +13,12 @@ translations:
   en: /en/blog/sitges-or-costa-brava-comparison/
   nl: /nl/blog/sitges-of-costa-brava-vergelijking/
   fr: /fr/blog/sitges-ou-costa-brava-comparaison/
-related:
-  - /en/blog/sitges-buying-guide-cosmopolitan-area/
-  - /en/blog/cadaques-begur-llafranc-differences/
-  - /en/blog/maresme-costa-brava-alternative/
 image: "https://images.pexels.com/photos/30051052/pexels-photo-30051052/free-photo-of-charming-sitges-beachfront-on-a-summer-day.jpeg?auto=compress&cs=tinysrgb&w=1800"
 cta_body: "Tell us what you're after and we'll help you compare areas with a real selection of properties, not just opinions."
+related:
+  - /en/blog/sitges-buying-guide-cosmopolitan-area/
+  - /en/blog/buying-a-house-in-begur-guide/
+  - /en/blog/maresme-costa-brava-alternative/
 ---
 
 It's one of the questions we hear most from international buyers who don't yet know the area well: Sitges or Costa Brava? The right answer doesn't come down to price or how the photos look, but to the kind of life you picture living there.

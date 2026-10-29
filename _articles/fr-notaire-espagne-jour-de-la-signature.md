@@ -2,6 +2,7 @@
 layout: article
 lang: fr
 topic: Processus d'achat
+category: comprar
 title: "Le notaire en Espagne, étape par étape : ce qui se passe le jour de la signature"
 seo_title: "Notaire en Espagne : le jour de la signature"
 description: "À quoi ressemble le jour de la signature en Espagne : documents, paiement, procuration pour signer à distance et suites de l'acte."
@@ -12,12 +13,12 @@ translations:
   en: /en/blog/spanish-notary-completion-day/
   nl: /nl/blog/notaris-spanje-dag-van-de-ondertekening/
   fr: /fr/blog/notaire-espagne-jour-de-la-signature/
-related:
-  - /fr/blog/erreurs-juridiques-achat-sans-avocat/
-  - /fr/blog/impots-achat-immobilier-espagne-non-resident/
-  - /fr/blog/acheter-maison-costa-brava-etranger-guide/
 image: "https://images.unsplash.com/photo-1747405415026-f74f7e075090?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Nous coordonnons avec vous, votre avocat et le notaire pour que le jour de la signature n'ait aucune surprise."
+related:
+  - /fr/blog/erreurs-juridiques-achat-sans-avocat/
+  - /fr/blog/nie-acheter-bien-espagne-etape-par-etape/
+  - /fr/blog/certificat-habitabilite-catalogne/
 ---
 
 Pour beaucoup d'acheteurs étrangers, le jour de la signature est le moment le plus intimidant de tout le processus : une langue qu'ils ne maîtrisent pas, un long document et une somme importante en jeu. C'est bien plus simple qu'il n'y paraît, à condition d'arriver préparé.

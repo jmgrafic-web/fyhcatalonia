@@ -2,6 +2,7 @@
 layout: article
 lang: nl
 topic: Gebiedsvergelijkingen
+category: zonas
 title: "Cadaqués, Begur of Llafranc: de verschillen tussen de dorpen van de Costa Brava"
 seo_title: "Cadaqués, Begur of Llafranc: welk dorp kies je?"
 description: "Cadaqués, Begur of Llafranc: karakter, prijzen en kopersprofiel van de meest gewilde dorpen aan de Costa Brava."
@@ -12,12 +13,12 @@ translations:
   en: /en/blog/cadaques-begur-llafranc-differences/
   nl: /nl/blog/cadaques-begur-llafranc-verschillen/
   fr: /fr/blog/cadaques-begur-llafranc-differences/
-related:
-  - /nl/blog/sitges-of-costa-brava-vergelijking/
-  - /nl/blog/het-hele-jaar-wonen-costa-brava/
-  - /nl/blog/boerderij-kopen-emporda-renoveren-gids/
 image: "https://images.unsplash.com/photo-1557393120-d3ee552f3736?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Vertel ons wat je zoekt en we helpen je specifieke dorpen te vergelijken met een echte selectie woningen."
+related:
+  - /nl/blog/huis-kopen-in-begur-gids/
+  - /nl/blog/sitges-of-costa-brava-vergelijking/
+  - /nl/blog/het-hele-jaar-wonen-costa-brava/
 ---
 
 "Costa Brava" is geen plek, het zijn tientallen dorpen met heel verschillende persoonlijkheden. Voor wie het gebied voor het eerst bezoekt, is het verschil tussen Cadaqués, Begur en Llafranc misschien niet meteen duidelijk uit de foto's. Voor wie er gaat kopen, is dat verschil alles.

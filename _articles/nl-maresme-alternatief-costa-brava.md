@@ -2,6 +2,7 @@
 layout: article
 lang: nl
 topic: Gebiedsvergelijkingen
+category: zonas
 title: "De Maresme versus de Costa Brava: het alternatief dat terrein wint"
 seo_title: "Maresme versus Costa Brava: een alternatief om te overwegen"
 description: "Waarom de Maresme aan kracht wint: nabijheid van Barcelona, trein en snelweg, woningtypes en prijzen ten opzichte van de Costa Brava."
@@ -12,12 +13,12 @@ translations:
   en: /en/blog/maresme-costa-brava-alternative/
   nl: /nl/blog/maresme-alternatief-costa-brava/
   fr: /fr/blog/maresme-alternative-costa-brava/
+image: "https://images.unsplash.com/photo-1734834442785-f2f10c0913f4?auto=format&fit=crop&w=1800&q=75"
+cta_body: "Trekt de Maresme je aan? Dan stellen wij een echte selectie dorpen en woningen voor je samen, met dezelfde technische zorgvuldigheid."
 related:
   - /nl/blog/sitges-of-costa-brava-vergelijking/
   - /nl/blog/costa-daurada-koopgids/
   - /nl/blog/het-hele-jaar-wonen-costa-brava/
-image: "https://images.unsplash.com/photo-1734834442785-f2f10c0913f4?auto=format&fit=crop&w=1800&q=75"
-cta_body: "Trekt de Maresme je aan? Dan stellen wij een echte selectie dorpen en woningen voor je samen, met dezelfde technische zorgvuldigheid."
 ---
 
 Jarenlang was de Maresme de kust van de Barcelonezen: die je op zondag met de trein bezoekt en die van buitenaf weinig bekend is. Vandaag is het een van de gebieden die de moeite van het bekijken waard zijn als je de zee wilt zonder Barcelona op te geven.
@@ -54,4 +55,4 @@ Het past als je dicht bij Barcelona wilt zijn, in een echt dorp wilt wonen en va
 
 ## Onze aanbeveling
 
-Bezoek meerdere dorpen in de Maresme rustig, en doe dat ook buiten de zomer. Bij Find Your Haven stellen we een Voorlopig Rapport samen met gecureerde woningen in de dorpen die het beste passen bij wat je zoekt. Bekijk de andere gebieden onder [onze gebieden]({{ site.baseurl }}/nl/#gebieden) en hoe we werken in [ons proces]({{ site.baseurl }}/nl/#proces). Vergelijk je met het zuiden van de kust, mis dan onze [gids voor de Costa Daurada]({{ site.baseurl }}/nl/blog/costa-daurada-koopgids/) niet.
+Bezoek meerdere dorpen in de Maresme rustig, en doe dat ook buiten de zomer. Bij Find Your Haven stellen we een Voorlopig Rapport samen met gecureerde woningen in de dorpen die het beste passen bij wat je zoekt. Bekijk de andere gebieden onder [onze gebieden]({{ site.baseurl }}/nl/blog/onderwerp/gebieden/) en hoe we werken in [ons proces]({{ site.baseurl }}/nl/#proces). Vergelijk je met het zuiden van de kust, mis dan onze [gids voor de Costa Daurada]({{ site.baseurl }}/nl/blog/costa-daurada-koopgids/) niet.

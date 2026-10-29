@@ -2,6 +2,7 @@
 layout: article
 lang: en
 topic: Renovation
+category: reformar
 title: "How much does it cost to renovate a house on the Catalan coast: budgets by level"
 seo_title: "How Much Does a Renovation Cost on the Catalan Coast?"
 description: "How much a renovation costs on the Catalan coast: budget ranges by level, what pushes the cost up, and realistic timelines."
@@ -12,15 +13,15 @@ translations:
   en: /en/blog/renovation-cost-catalan-coast-guide/
   nl: /nl/blog/renovatiekosten-catalaanse-kust-gids/
   fr: /fr/blog/cout-renovation-cote-catalane-guide/
-related:
-  - /en/blog/technical-due-diligence-property-explained/
-  - /en/blog/farmhouse-or-new-build-villa/
-  - /en/blog/buying-farmhouse-emporda-renovate-guide/
 pillar: true
 pillar_order: 4
 footer_label: "Renovation costs"
 image: "https://images.unsplash.com/photo-1768321902290-54497eeb9cf6?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Before you buy, we can give you a renovation estimate across three levels for the property you're considering."
+related:
+  - /en/blog/building-permit-catalonia-minor-major-works/
+  - /en/blog/technical-due-diligence-property-explained/
+  - /en/blog/farmhouse-or-new-build-villa/
 ---
 
 It's the question that comes up most often right after "which area should I buy in?": how much is the renovation going to cost me? The honest answer is that it depends on a lot of variables — size, structural condition, finish quality, whether the roof needs work — but it is possible to give indicative ranges that help you plan a budget from the very start, before you've even made an offer.

@@ -2,6 +2,7 @@
 layout: article
 lang: en
 topic: Coastal living
+category: vivir
 title: "Living year-round on the Costa Brava: healthcare, schools and daily life"
 seo_title: "Living Year-Round on the Costa Brava: Schools & Healthcare"
 description: "What living year-round on the Costa Brava is really like: healthcare, schools, connections and life outside the summer season."
@@ -12,12 +13,12 @@ translations:
   en: /en/blog/living-year-round-costa-brava/
   nl: /nl/blog/het-hele-jaar-wonen-costa-brava/
   fr: /fr/blog/vivre-toute-annee-costa-brava/
-related:
-  - /en/blog/cadaques-begur-llafranc-differences/
-  - /en/blog/golden-visa-spain-requirements/
-  - /en/blog/maresme-costa-brava-alternative/
 image: "https://images.unsplash.com/photo-1702655358646-12a7b5be0bbe?auto=format&fit=crop&w=1800&q=75"
 cta_body: "If your plan is to relocate permanently, we can help you find the area that fits your daily life, not just your holidays."
+related:
+  - /en/blog/cadaques-begur-llafranc-differences/
+  - /en/blog/running-costs-holiday-home-costa-brava/
+  - /en/blog/golden-visa-spain-requirements/
 ---
 
 There's a real difference between buying a second home to spend July and August on the Costa Brava, and relocating there permanently. Every year we hear from buyers in both situations, and the questions that matter shift quite a bit between the two. This guide is written for anyone considering the second.

@@ -2,6 +2,7 @@
 layout: article
 lang: es
 topic: Due diligence técnica
+category: comprar
 title: "Due diligence técnica inmobiliaria: qué es y por qué puede ahorrarte decenas de miles de euros"
 seo_title: "Due diligence técnica al comprar vivienda en España"
 description: "Qué es la due diligence técnica al comprar vivienda en España, qué revela que un anuncio nunca cuenta y cómo puede ahorrarte miles de euros."
@@ -12,15 +13,16 @@ translations:
   en: /en/blog/technical-due-diligence-property-explained/
   nl: /nl/blog/technische-due-diligence-vastgoed-uitgelegd/
   fr: /fr/blog/due-diligence-technique-immobiliere-explication/
-related:
-  - /es/blog/errores-legales-comprar-sin-abogado/
-  - /es/blog/cuanto-cuesta-reformar-casa-costa-catalana/
-  - /es/blog/comprar-masia-emporda-reformar/
 pillar: true
 pillar_order: 2
 footer_label: "Due diligence técnica"
 image: "https://images.unsplash.com/photo-1721244653627-90b840127a7a?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Antes de firmar arras por cualquier inmueble, hablemos de lo que una inspección técnica puede revelar sobre él."
+related:
+  - /es/blog/comprar-vivienda-costa-brava-extranjero/
+  - /es/blog/errores-legales-comprar-sin-abogado/
+  - /es/blog/cedula-de-habitabilidad-cataluna/
+start_here: true
 ---
 
 La mayoría de compradores tratan la inspección técnica como un paso opcional, algo que se hace "si hay tiempo" o "si el vendedor no se molesta". Es, probablemente, el error más caro que se puede cometer al comprar una vivienda —y especialmente al comprarla desde otro país, sin conocer de primera mano los estándares de construcción locales.

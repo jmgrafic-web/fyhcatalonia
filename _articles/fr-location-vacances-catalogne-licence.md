@@ -2,6 +2,7 @@
 layout: article
 lang: fr
 topic: Location saisonnière
+category: vivir
 title: "Location de vacances en Catalogne : la licence touristique et la réglementation à connaître"
 seo_title: "Location de vacances en Catalogne : licence et règles"
 description: "La licence de location touristique en Catalogne : conditions, quotas municipaux et fiscalité à vérifier avant d'acheter pour louer."
@@ -12,15 +13,15 @@ translations:
   en: /en/blog/vacation-rental-catalonia-licence/
   nl: /nl/blog/vakantieverhuur-catalonie-vergunning/
   fr: /fr/blog/location-vacances-catalogne-licence/
-related:
-  - /fr/blog/rentabilite-achat-locatif-cote-catalane/
-  - /fr/blog/impots-achat-immobilier-espagne-non-resident/
-  - /fr/blog/sitges-guide-achat-zone-cosmopolite/
 pillar: true
 pillar_order: 5
 footer_label: "Licence de location saisonnière"
 image: "https://images.pexels.com/photos/30051052/pexels-photo-30051052/free-photo-of-charming-sitges-beachfront-on-a-summer-day.jpeg?auto=compress&cs=tinysrgb&w=1800"
 cta_body: "Avant d'acheter dans l'optique de louer, nous pouvons vous aider à vérifier la situation des licences du bien et de la commune."
+related:
+  - /fr/blog/rentabilite-achat-locatif-cote-catalane/
+  - /fr/blog/cout-annuel-entretien-maison-costa-brava/
+  - /fr/blog/impots-achat-immobilier-espagne-non-resident/
 ---
 
 Un nombre important d'acheteurs étrangers envisagent, dès le départ, de louer leur bien sur la côte catalane pendant les périodes où ils ne l'occupent pas. C'est une attente raisonnable — mais la réglementation catalane sur le logement à usage touristique de courte durée est l'une des plus spécifiques d'Espagne, et mieux vaut la comprendre avant d'acheter, pas après.

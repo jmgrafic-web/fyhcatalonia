@@ -2,6 +2,7 @@
 layout: article
 lang: fr
 topic: Due diligence technique
+category: comprar
 title: "La due diligence technique : ce que c'est et pourquoi elle peut vous faire économiser des dizaines de milliers d'euros"
 seo_title: "Due diligence technique avant d'acheter un bien"
 description: "Ce qu'est la due diligence technique avant d'acheter en Espagne, ce que l'annonce ne dit pas et comment elle peut vous faire économiser."
@@ -12,15 +13,16 @@ translations:
   en: /en/blog/technical-due-diligence-property-explained/
   nl: /nl/blog/technische-due-diligence-vastgoed-uitgelegd/
   fr: /fr/blog/due-diligence-technique-immobiliere-explication/
-related:
-  - /fr/blog/erreurs-juridiques-achat-sans-avocat/
-  - /fr/blog/cout-renovation-cote-catalane-guide/
-  - /fr/blog/acheter-masia-emporda-renover-guide/
 pillar: true
 pillar_order: 2
 footer_label: "Due diligence technique"
 image: "https://images.unsplash.com/photo-1721244653627-90b840127a7a?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Avant de signer un compromis sur un bien, parlons de ce qu'une inspection technique pourrait en révéler."
+related:
+  - /fr/blog/acheter-maison-costa-brava-etranger-guide/
+  - /fr/blog/erreurs-juridiques-achat-sans-avocat/
+  - /fr/blog/certificat-habitabilite-catalogne/
+start_here: true
 ---
 
 La plupart des acheteurs traitent l'inspection technique comme une étape facultative — quelque chose qu'on fait "si on a le temps", ou "si le vendeur n'y voit pas d'inconvénient". C'est probablement l'erreur la plus coûteuse que l'on puisse commettre en achetant un bien — surtout en achetant depuis un autre pays, sans connaissance directe des standards de construction locaux.

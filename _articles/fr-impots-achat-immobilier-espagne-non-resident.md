@@ -2,6 +2,7 @@
 layout: article
 lang: fr
 topic: Fiscalité
+category: dinero
 title: "Impôts et frais pour acheter un bien en Espagne en tant que non-résident"
 seo_title: "Impôts et frais d'achat en Espagne pour non-résidents"
 description: "Impôts et frais d'un achat en Espagne pour non-résident : droits de mutation, notaire, enregistrement, IRNR et IBI expliqués."
@@ -12,15 +13,15 @@ translations:
   en: /en/blog/taxes-buying-property-spain-non-resident/
   nl: /nl/blog/belastingen-huis-kopen-spanje-niet-ingezetene/
   fr: /fr/blog/impots-achat-immobilier-espagne-non-resident/
-related:
-  - /fr/blog/hypotheque-financement-etrangers-espagne/
-  - /fr/blog/golden-visa-espagne-conditions/
-  - /fr/blog/notaire-espagne-jour-de-la-signature/
 pillar: true
 pillar_order: 3
 footer_label: "Impôts et frais"
 image: "https://images.unsplash.com/photo-1747405415026-f74f7e075090?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Nous coordonnons votre gestoria et votre conseiller fiscal dans le cadre du processus d'achat, pour que vous n'ayez pas à le gérer séparément."
+related:
+  - /fr/blog/hypotheque-financement-etrangers-espagne/
+  - /fr/blog/compte-bancaire-espagne-non-resident/
+  - /fr/blog/golden-visa-espagne-conditions/
 ---
 
 La fiscalité est l'un des sujets qui génère le plus d'incertitude chez les acheteurs étrangers : que paie-t-on, quand, et quelles obligations subsistent après la signature. Ce guide passe en revue les principaux concepts pour que vous abordiez la conversation avec votre conseiller fiscal avec les bonnes questions — il ne remplace pas ce conseil, car les montants exacts dépendent de la région autonome, du type de bien et de votre situation personnelle, et doivent toujours être confirmés par un professionnel avant de signer quoi que ce soit.

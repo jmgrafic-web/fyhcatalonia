@@ -2,6 +2,7 @@
 layout: article
 lang: nl
 topic: Koopgidsen
+category: reformar
 title: "Boerderij om te renoveren of nieuwbouwvilla: welke tweede woning kies je"
 seo_title: "Boerderij renoveren of nieuwbouwvilla: wat kies je?"
 description: "Boerderij om te restaureren of nieuwbouwvilla aan de Catalaanse kust: verschillen in budget, tijdlijn, karakter en wat elk vraagt."
@@ -12,12 +13,12 @@ translations:
   en: /en/blog/farmhouse-or-new-build-villa/
   nl: /nl/blog/boerderij-of-nieuwbouwvilla/
   fr: /fr/blog/masia-ou-villa-neuve/
+image: "https://images.unsplash.com/photo-1557393120-d3ee552f3736?auto=format&fit=crop&w=1800&q=75"
+cta_body: "Vertel ons wat voor project je voor ogen hebt en we helpen je beoordelen of een boerderij of een nieuwbouw beter past."
 related:
   - /nl/blog/boerderij-kopen-emporda-renoveren-gids/
   - /nl/blog/renovatiekosten-catalaanse-kust-gids/
-  - /nl/blog/technische-due-diligence-vastgoed-uitgelegd/
-image: "https://images.unsplash.com/photo-1557393120-d3ee552f3736?auto=format&fit=crop&w=1800&q=75"
-cta_body: "Vertel ons wat voor project je voor ogen hebt en we helpen je beoordelen of een boerderij of een nieuwbouw beter past."
+  - /nl/blog/bouwvergunning-catalonie-kleine-grote-werken/
 ---
 
 Het is een van de eerste, en meest bepalende, keuzes die een koper maakt bij het begin van zijn zoektocht aan de Catalaanse kust: iets met geschiedenis restaureren, of iets volledig nieuws bouwen — of al gebouwd kopen? Geen van beide opties is in het algemeen beter. Elke optie vraagt om een ander type koper.

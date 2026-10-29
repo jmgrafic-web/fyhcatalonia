@@ -2,6 +2,7 @@
 layout: article
 lang: en
 topic: Area comparisons
+category: zonas
 title: "The Maresme vs the Costa Brava: the alternative gaining ground"
 seo_title: "The Maresme vs the Costa Brava: An Alternative to Consider"
 description: "Why the Maresme is gaining ground: closeness to Barcelona, train and motorway links, property types and prices versus the Costa Brava."
@@ -12,12 +13,12 @@ translations:
   en: /en/blog/maresme-costa-brava-alternative/
   nl: /nl/blog/maresme-alternatief-costa-brava/
   fr: /fr/blog/maresme-alternative-costa-brava/
+image: "https://images.unsplash.com/photo-1734834442785-f2f10c0913f4?auto=format&fit=crop&w=1800&q=75"
+cta_body: "If the Maresme catches your eye, we'll prepare a real selection of villages and homes with the same technical rigour."
 related:
   - /en/blog/sitges-or-costa-brava-comparison/
   - /en/blog/costa-daurada-buying-guide/
   - /en/blog/living-year-round-costa-brava/
-image: "https://images.unsplash.com/photo-1734834442785-f2f10c0913f4?auto=format&fit=crop&w=1800&q=75"
-cta_body: "If the Maresme catches your eye, we'll prepare a real selection of villages and homes with the same technical rigour."
 ---
 
 For years, the Maresme has been the coast of the people of Barcelona: the one you ride out to by train on a Sunday and that few outsiders really know. Today it's one of the areas most worth a look if you want the sea without giving up Barcelona.
@@ -54,4 +55,4 @@ It suits you if you want to be close to Barcelona, live in a real town and enjoy
 
 ## Our recommendation
 
-Visit several Maresme towns unhurriedly, and do it outside summer too. At Find Your Haven we prepare a Preliminary Report with curated properties in the towns that best fit what you're after. You can see the other areas in [our territories]({{ site.baseurl }}/en/#areas) and how we work in [our process]({{ site.baseurl }}/en/#process). If you're comparing with the south of the coast, don't miss our [Costa Daurada guide]({{ site.baseurl }}/en/blog/costa-daurada-buying-guide/).
+Visit several Maresme towns unhurriedly, and do it outside summer too. At Find Your Haven we prepare a Preliminary Report with curated properties in the towns that best fit what you're after. You can see the other areas in [our territories]({{ site.baseurl }}/en/blog/topic/areas/) and how we work in [our process]({{ site.baseurl }}/en/#process). If you're comparing with the south of the coast, don't miss our [Costa Daurada guide]({{ site.baseurl }}/en/blog/costa-daurada-buying-guide/).

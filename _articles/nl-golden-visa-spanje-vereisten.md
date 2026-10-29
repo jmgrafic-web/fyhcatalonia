@@ -2,6 +2,7 @@
 layout: article
 lang: nl
 topic: Verblijf & visa
+category: dinero
 title: "Golden Visa in Spanje: wat het was, wat er veranderd is, en welke alternatieven er zijn"
 seo_title: "Golden Visa Spanje: wat veranderde en wat zijn de opties"
 description: "Wat het Spaanse vastgoed-Golden Visa was, wat er veranderde na de afschaffing en welke andere verblijfsroutes er voor kopers zijn."
@@ -12,12 +13,12 @@ translations:
   en: /en/blog/golden-visa-spain-requirements/
   nl: /nl/blog/golden-visa-spanje-vereisten/
   fr: /fr/blog/golden-visa-espagne-conditions/
-related:
-  - /nl/blog/belastingen-huis-kopen-spanje-niet-ingezetene/
-  - /nl/blog/het-hele-jaar-wonen-costa-brava/
-  - /nl/blog/huis-kopen-costa-brava-buitenlander-gids/
 image: "https://images.unsplash.com/photo-1721244653627-90b840127a7a?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Als verblijfsrecht onderdeel is van je reden om te kopen, brengen we je vanaf het eerste gesprek in contact met een immigratieadvocaat."
+related:
+  - /nl/blog/nie-nummer-huis-kopen-spanje-stappenplan/
+  - /nl/blog/belastingen-huis-kopen-spanje-niet-ingezetene/
+  - /nl/blog/het-hele-jaar-wonen-costa-brava/
 ---
 
 Weinig termen hebben voor zoveel verwarring gezorgd onder internationale kopers als "Golden Visa". Jarenlang was het de bekendste route naar Spaans verblijfsrecht via het kopen van een woning. Maar het regelgevend kader is veranderd, en het is goed om met actuele informatie het gesprek in te gaan, niet met wat een paar jaar geleden op forums circuleerde.

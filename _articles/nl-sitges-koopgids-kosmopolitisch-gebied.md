@@ -2,6 +2,7 @@
 layout: article
 lang: nl
 topic: Koopgidsen
+category: zonas
 title: "Sitges: koopgids voor het meest kosmopolitische gebied van de Catalaanse kust"
 seo_title: "Een woning kopen in Sitges: de complete koopgids"
 description: "Wat Sitges anders maakt, welke woningen je er vindt en wat je moet weten voordat je koopt in het meest kosmopolitische gebied van de kust."
@@ -12,12 +13,12 @@ translations:
   en: /en/blog/sitges-buying-guide-cosmopolitan-area/
   nl: /nl/blog/sitges-koopgids-kosmopolitisch-gebied/
   fr: /fr/blog/sitges-guide-achat-zone-cosmopolite/
+image: "https://images.pexels.com/photos/30051052/pexels-photo-30051052/free-photo-of-charming-sitges-beachfront-on-a-summer-day.jpeg?auto=compress&cs=tinysrgb&w=1800"
+cta_body: "Is Sitges jouw gebied? Dan stellen we een gecureerde selectie samen met dezelfde technische zorgvuldigheid die we overal langs de kust toepassen."
 related:
   - /nl/blog/sitges-of-costa-brava-vergelijking/
   - /nl/blog/maresme-alternatief-costa-brava/
   - /nl/blog/rendement-kopen-om-te-verhuren-catalaanse-kust/
-image: "https://images.pexels.com/photos/30051052/pexels-photo-30051052/free-photo-of-charming-sitges-beachfront-on-a-summer-day.jpeg?auto=compress&cs=tinysrgb&w=1800"
-cta_body: "Is Sitges jouw gebied? Dan stellen we een gecureerde selectie samen met dezelfde technische zorgvuldigheid die we overal langs de kust toepassen."
 ---
 
 Van alle gebieden waarin we werken, heeft Sitges waarschijnlijk de minste introductie nodig — en tegelijk de meeste misvattingen onder kopers die het alleen in het voorbijgaan kennen. Deze gids is geschreven voor wie serieus overweegt hier te kopen, niet alleen een weekend op bezoek te gaan.

@@ -2,6 +2,7 @@
 layout: article
 lang: fr
 topic: Guides d'achat
+category: reformar
 title: "Masia à rénover ou villa neuve : quelle résidence secondaire choisir"
 seo_title: "Masia à rénover ou villa neuve : quel choix faire ?"
 description: "Masia à restaurer ou villa neuve sur la côte catalane : différences de budget, de délais, de caractère et ce qu'exige chaque option."
@@ -12,12 +13,12 @@ translations:
   en: /en/blog/farmhouse-or-new-build-villa/
   nl: /nl/blog/boerderij-of-nieuwbouwvilla/
   fr: /fr/blog/masia-ou-villa-neuve/
+image: "https://images.unsplash.com/photo-1557393120-d3ee552f3736?auto=format&fit=crop&w=1800&q=75"
+cta_body: "Dites-nous le type de projet que vous imaginez et nous vous aiderons à évaluer si une masia ou une construction neuve convient mieux."
 related:
   - /fr/blog/acheter-masia-emporda-renover-guide/
   - /fr/blog/cout-renovation-cote-catalane-guide/
-  - /fr/blog/due-diligence-technique-immobiliere-explication/
-image: "https://images.unsplash.com/photo-1557393120-d3ee552f3736?auto=format&fit=crop&w=1800&q=75"
-cta_body: "Dites-nous le type de projet que vous imaginez et nous vous aiderons à évaluer si une masia ou une construction neuve convient mieux."
+  - /fr/blog/permis-de-construire-catalogne-travaux-mineurs-majeurs/
 ---
 
 C'est l'une des premières décisions, et des plus déterminantes, qu'un acheteur prend en commençant à chercher sur la côte catalane : restaurer quelque chose chargé d'histoire, ou construire — ou acheter déjà construit — quelque chose d'entièrement neuf ? Aucune option n'est meilleure dans l'absolu. Chacune convient à un profil d'acheteur différent.

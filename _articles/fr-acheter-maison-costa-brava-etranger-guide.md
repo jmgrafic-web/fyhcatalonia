@@ -2,6 +2,7 @@
 layout: article
 lang: fr
 topic: Guides d'achat
+category: comprar
 title: "Acheter sur la Costa Brava en tant qu'étranger : le guide étape par étape"
 seo_title: "Acheter sur la Costa Brava en tant qu'étranger"
 description: "Guide pas à pas pour acheter sur la Costa Brava en tant qu'étranger : NIE, budget réel, visites à distance, notaire et erreurs à éviter."
@@ -12,15 +13,16 @@ translations:
   en: /en/blog/buying-property-costa-brava-foreigner-guide/
   nl: /nl/blog/huis-kopen-costa-brava-buitenlander-gids/
   fr: /fr/blog/acheter-maison-costa-brava-etranger-guide/
-related:
-  - /fr/blog/due-diligence-technique-immobiliere-explication/
-  - /fr/blog/erreurs-juridiques-achat-sans-avocat/
-  - /fr/blog/notaire-espagne-jour-de-la-signature/
 pillar: true
 pillar_order: 1
 footer_label: "Acheter sur la Costa Brava"
 image: "https://images.unsplash.com/photo-1702655358646-12a7b5be0bbe?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Si vous envisagez d'acheter sur la Costa Brava, parlons de votre projet avant de faire le premier pas. Sans engagement."
+related:
+  - /fr/blog/due-diligence-technique-immobiliere-explication/
+  - /fr/blog/nie-acheter-bien-espagne-etape-par-etape/
+  - /fr/blog/notaire-espagne-jour-de-la-signature/
+start_here: true
 ---
 
 Chaque année, des centaines d'acheteurs étrangers — britanniques et néerlandais en tête — tombent sous le charme d'un coin de la Costa Brava : une crique à Begur, une ruelle pavée à Pals, la lumière sur la mer à Cadaqués. L'envie est simple. La concrétiser, un peu moins.

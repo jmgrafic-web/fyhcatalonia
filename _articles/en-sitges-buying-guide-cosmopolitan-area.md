@@ -2,6 +2,7 @@
 layout: article
 lang: en
 topic: Buying guides
+category: zonas
 title: "Sitges: a buying guide to the most cosmopolitan area of the Catalan coast"
 seo_title: "Buying in Sitges: Guide to the Most Cosmopolitan Area"
 description: "What makes Sitges different, the homes you'll find there and what to know before buying in the most cosmopolitan area of the Catalan coast."
@@ -12,12 +13,12 @@ translations:
   en: /en/blog/sitges-buying-guide-cosmopolitan-area/
   nl: /nl/blog/sitges-koopgids-kosmopolitisch-gebied/
   fr: /fr/blog/sitges-guide-achat-zone-cosmopolite/
+image: "https://images.pexels.com/photos/30051052/pexels-photo-30051052/free-photo-of-charming-sitges-beachfront-on-a-summer-day.jpeg?auto=compress&cs=tinysrgb&w=1800"
+cta_body: "If Sitges is your area, we'll put together a curated selection with the same technical rigour we apply across the whole coast."
 related:
   - /en/blog/sitges-or-costa-brava-comparison/
   - /en/blog/maresme-costa-brava-alternative/
   - /en/blog/buy-to-let-profitability-catalan-coast/
-image: "https://images.pexels.com/photos/30051052/pexels-photo-30051052/free-photo-of-charming-sitges-beachfront-on-a-summer-day.jpeg?auto=compress&cs=tinysrgb&w=1800"
-cta_body: "If Sitges is your area, we'll put together a curated selection with the same technical rigour we apply across the whole coast."
 ---
 
 Of all the areas we work in, Sitges is probably the one that needs the least introduction — and, at the same time, the one that carries the most misconceptions among buyers who only know it in passing. This guide is written for anyone seriously considering buying here, not just visiting for a weekend.
