@@ -226,3 +226,36 @@ document.addEventListener('DOMContentLoaded', function () {
   }
 
 });
+
+/* ---------- Capa de impacto: barra de progreso y CTA flotante (móvil) ---------- */
+document.addEventListener('DOMContentLoaded', function () {
+  var bar = document.createElement('div');
+  bar.className = 'scroll-progress';
+  bar.setAttribute('aria-hidden', 'true');
+  document.body.appendChild(bar);
+  var cta = null, hero = document.querySelector('[data-hero-slider]'), contact = null;
+  var src = document.querySelector('.hero-cta .btn-primary');
+  if (hero && src) {
+    contact = document.querySelector(src.getAttribute('href'));
+    cta = document.createElement('a');
+    cta.className = 'float-cta';
+    cta.href = src.getAttribute('href');
+    cta.textContent = src.textContent.trim();
+    document.body.appendChild(cta);
+  }
+  var ticking = false;
+  function update() {
+    ticking = false;
+    var h = document.documentElement;
+    var max = h.scrollHeight - window.innerHeight;
+    bar.style.transform = 'scaleX(' + (max > 0 ? Math.min(1, window.scrollY / max) : 0) + ')';
+    if (cta) {
+      var pastHero = window.scrollY > hero.offsetHeight * 0.8;
+      var inContact = contact && contact.getBoundingClientRect().top < window.innerHeight * 0.6;
+      cta.classList.toggle('is-on', pastHero && !inContact);
+    }
+  }
+  window.addEventListener('scroll', function () { if (!ticking) { ticking = true; requestAnimationFrame(update); } }, { passive: true });
+  window.addEventListener('resize', update);
+  update();
+});

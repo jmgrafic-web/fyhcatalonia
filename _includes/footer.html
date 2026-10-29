@@ -22,7 +22,7 @@
       </div>
       {% endif %}
       <div class="footer-col">
-        <h4>Contact</h4>
+        <h4>{{ t.footer_contact }}</h4>
         <a href="mailto:hello@findyourhaven.com">hello@findyourhaven.com</a>
         <a href="{{ site.baseurl }}/{{ lang }}/#{{ t.a_contact }}">{{ t.cta_contact }}</a>
       </div>
@@ -30,6 +30,6 @@
   </div>
   <div class="wrap footer-bottom">
     <span>© {{ site.time | date: "%Y" }} Find Your Haven. {{ t.footer_rights }}</span>
-    <span>Mediterranean Coast · Catalonia</span>
+    <span><a href="{{ t.privacy_url | relative_url }}">{{ t.privacy_label }}</a> &nbsp;·&nbsp; Mediterranean Coast · Catalonia</span>
   </div>
 </footer>

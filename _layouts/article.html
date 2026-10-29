@@ -7,6 +7,8 @@ layout: default
 {% assign mi = page.date | date: "%-m" | minus: 1 %}
 {% assign mon = t.months[mi] %}
 {% assign yy = page.date | date: "%Y" %}
+{% assign cd = site.data.topics.cats[page.category][lang] %}
+{% assign hub = '/' | append: lang | append: '/blog/' | append: site.data.topics.seg[lang] | append: '/' | append: cd.slug | append: '/' %}
 {% assign nice_date = t.date_format | replace: "{d}", dd | replace: "{m}", mon | replace: "{y}", yy %}
 
 <script type="application/ld+json">
@@ -32,7 +34,8 @@ layout: default
   "itemListElement": [
     { "@type": "ListItem", "position": 1, "name": {{ t.crumb_home | jsonify }}, "item": {{ lang | prepend: '/' | append: '/' | absolute_url | jsonify }} },
     { "@type": "ListItem", "position": 2, "name": {{ t.nav_blog | jsonify }}, "item": {{ lang | prepend: '/' | append: '/blog/' | absolute_url | jsonify }} },
-    { "@type": "ListItem", "position": 3, "name": {{ page.title | jsonify }}, "item": {{ page.url | absolute_url | jsonify }} }
+    {% if cd %}{ "@type": "ListItem", "position": 3, "name": {{ cd.name | jsonify }}, "item": {{ hub | absolute_url | jsonify }} },
+    { "@type": "ListItem", "position": 4, "name": {{ page.title | jsonify }}, "item": {{ page.url | absolute_url | jsonify }} }{% else %}{ "@type": "ListItem", "position": 3, "name": {{ page.title | jsonify }}, "item": {{ page.url | absolute_url | jsonify }} }{% endif %}
   ]
 }
 </script>
@@ -45,9 +48,10 @@ layout: default
     <div class="wrap">
       <nav class="crumbs" aria-label="Breadcrumb">
         <a href="{{ lang | prepend: '/' | append: '/' | relative_url }}">{{ t.crumb_home }}</a><span>/</span>
-        <a href="{{ lang | prepend: '/' | append: '/blog/' | relative_url }}">{{ t.nav_blog }}</a>
+        <a href="{{ lang | prepend: '/' | append: '/blog/' | relative_url }}">{{ t.nav_blog }}</a>{% if cd %}<span>/</span>
+        <a href="{{ hub | relative_url }}">{{ cd.name }}</a>{% endif %}
       </nav>
-      <p class="meta"><time datetime="{{ page.date | date_to_xmlschema }}">{{ nice_date }}</time> · {{ page.topic }}</p>
+      <p class="meta"><time datetime="{{ page.date | date_to_xmlschema }}">{{ nice_date }}</time> · {% if cd %}<a class="meta-topic" href="{{ hub | relative_url }}">{{ page.topic }}</a>{% else %}{{ page.topic }}{% endif %}</p>
       <h1>{{ page.title }}</h1>
     </div>
   </div>
@@ -62,7 +66,7 @@ layout: default
         <a class="btn btn-outline" href="{{ site.baseurl }}/{{ lang }}/#{{ t.a_contact }}">{{ t.cta_contact }} →</a>
       </div>
 
-      <p class="mt-lg"><a href="{{ site.baseurl }}/{{ lang }}/blog/">← {{ t.blog_back }}</a></p>
+      <p class="mt-lg">{% if cd %}<a href="{{ hub | relative_url }}">← {{ cd.name }}</a> · {% endif %}<a href="{{ site.baseurl }}/{{ lang }}/blog/">{{ t.blog_back }}</a></p>
     </div>
   </div>
 </article>

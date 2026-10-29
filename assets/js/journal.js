@@ -1,75 +1,34 @@
+/* Journal search: typing a query swaps the browse sections (topics, start here, latest)
+   for a flat list of matching articles. Clearing the query restores the browse view. */
 document.addEventListener('DOMContentLoaded', function () {
+  var input = document.querySelector('[data-journal-search]');
+  var browse = document.querySelector('[data-browse]');
+  var results = document.querySelector('[data-journal-results]');
   var grid = document.querySelector('[data-journal-grid]');
-  if (!grid) return;
-
-  var perPage = parseInt(grid.getAttribute('data-per-page'), 10) || 6;
-  var allCards = Array.prototype.slice.call(grid.querySelectorAll('.card'));
-  var pagination = document.querySelector('[data-journal-pagination]');
-  var searchInput = document.querySelector('[data-journal-search]');
+  if (!input || !browse || !results || !grid) return;
+  var cards = Array.prototype.slice.call(grid.querySelectorAll('.card'));
   var emptyMsg = document.querySelector('[data-journal-empty]');
-  var currentPage = 1;
 
-  function normalize(s) {
-    return (s || '').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+  function norm(s) {
+    return (s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
   }
 
-  function getVisibleSet() {
-    var q = searchInput ? normalize(searchInput.value.trim()) : '';
-    if (!q) return allCards;
-    return allCards.filter(function (card) {
-      return normalize(card.getAttribute('data-search')).indexOf(q) > -1;
+  function update() {
+    var q = norm(input.value.trim());
+    if (!q) { browse.hidden = false; results.hidden = true; return; }
+    var terms = q.split(/\s+/);
+    var n = 0;
+    cards.forEach(function (c) {
+      var hay = norm(c.getAttribute('data-search'));
+      var ok = terms.every(function (t) { return hay.indexOf(t) > -1; });
+      c.hidden = !ok;
+      if (ok) n++;
     });
+    browse.hidden = true;
+    results.hidden = false;
+    if (emptyMsg) emptyMsg.classList.toggle('is-visible', n === 0);
   }
 
-  function render() {
-    var matched = getVisibleSet();
-    var totalPages = Math.max(1, Math.ceil(matched.length / perPage));
-    if (currentPage > totalPages) currentPage = totalPages;
-
-    allCards.forEach(function (card) { card.hidden = true; });
-    var start = (currentPage - 1) * perPage;
-    matched.slice(start, start + perPage).forEach(function (card) { card.hidden = false; });
-
-    if (emptyMsg) emptyMsg.classList.toggle('is-visible', matched.length === 0);
-
-    if (pagination) {
-      pagination.innerHTML = '';
-      if (totalPages <= 1) {
-        pagination.hidden = true;
-      } else {
-        pagination.hidden = false;
-        pagination.appendChild(navBtn('‹', currentPage - 1, currentPage === 1));
-        for (var i = 1; i <= totalPages; i++) {
-          var b = navBtn(String(i), i, false);
-          if (i === currentPage) b.classList.add('is-active');
-          pagination.appendChild(b);
-        }
-        pagination.appendChild(navBtn('›', currentPage + 1, currentPage === totalPages));
-      }
-    }
-
-    grid.scrollIntoView({ block: 'nearest' });
-  }
-
-  function navBtn(label, page, disabled) {
-    var b = document.createElement('button');
-    b.type = 'button';
-    b.textContent = label;
-    if (label === '‹' || label === '›') b.classList.add('is-arrow');
-    b.disabled = disabled;
-    b.addEventListener('click', function () {
-      currentPage = page;
-      render();
-    });
-    return b;
-  }
-
-  if (searchInput) {
-    searchInput.addEventListener('input', function () {
-      currentPage = 1;
-      render();
-    });
-  }
-
-  render();
+  input.addEventListener('input', update);
+  update();
 });
