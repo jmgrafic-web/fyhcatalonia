@@ -3,7 +3,7 @@ layout: default
 hero_slider: true
 lang: nl
 title: "Find Your Haven — Jouw Property Partner aan de Catalaanse kust"
-description: "Architecten die internationale kopers helpen bij het vinden, beoordelen en transformeren van uitzonderlijke woningen aan de Catalaanse kust."
+description: "Architecten en vastgoedprofessionals die je helpen je woning aan de Catalaanse kust te vinden en te transformeren: Costa Brava, Maresme en Costa Daurada."
 translations:
   en: /en/
   es: /es/
@@ -11,9 +11,9 @@ translations:
   fr: /fr/
 ---
 
-<section class="hero" data-hero-slider data-interval="10000" data-label-prev="Vorige afbeelding" data-label-next="Volgende afbeelding" data-label-slide="Afbeelding">
-  <div class="hero-bg" data-parallax>
-    <div class="hero-slide hero-slide--light is-active">
+<section class="hero" id="home" data-hero-slider data-interval="10000" data-label-prev="Vorige afbeelding" data-label-next="Volgende afbeelding" data-label-slide="Afbeelding">
+  <div class="hero-bg">
+    <div class="hero-slide is-active">
       <picture>
         <source media="(max-width: 640px) and (orientation: portrait)" srcset="{{ '/assets/img/hero/hero-sea-mobile.webp' | relative_url }}" type="image/webp">
         <source media="(max-width: 1100px) and (orientation: portrait)" srcset="{{ '/assets/img/hero/hero-sea-tablet.webp' | relative_url }}" type="image/webp">
@@ -26,198 +26,155 @@ translations:
     </div>
   </div>
   <div class="wrap">
-    <p class="eyebrow">Catalaanse kust, Spanje</p>
-    <h1>Vind jouw mediterrane <em>toevluchtsoord</em></h1>
-    <p class="lede"><span class="claim">Geworteld in architectuur. Volledig gericht op jou.</span> Wij vinden, controleren en transformeren woningen aan de Catalaanse kust — voor internationale kopers, van eerste zoektocht tot de sleutel.</p>
+    <h1><span>Vind jouw</span> <span>mediterrane toevluchtsoord.</span></h1>
+    <p class="hero-sub"><span>Geworteld in architectuur.</span> <span>Gericht op jou.</span></p>
+    <p class="hero-text">We begeleiden je bij elke stap om een plek te vinden en te transformeren die echt als de jouwe voelt.</p>
     <div class="hero-cta">
-      <a class="btn btn-primary" href="#contact">Begin het gesprek →</a>
-      <a class="btn btn-outline" href="#proces">Hoe wij werken</a>
+      <a class="btn btn-primary" href="#contact" data-float-label="Laten we praten">Vertel ons wat je zoekt <span class="arr" aria-hidden="true">→</span></a>
+      <a class="text-link" href="#proces">Ontdek hoe wij werken <span aria-hidden="true">→</span></a>
     </div>
   </div>
-  <div class="scroll-cue"><span>Ontdekken</span><div class="line"></div></div>
 </section>
 
-<div class="trust-strip" id="over-ons"><div class="wrap"><ul><li>Geleid door een architect</li><li>Off-market toegang</li><li>Eén partner, van begin tot eind</li><li>EN · NL · FR · ES</li></ul></div></div>
-
-<section class="section section--sand model" id="modelo-nl">
+<div class="hero-points">
   <div class="wrap">
-    <div class="reveal model-head">
+    <ul>
+      <li><span class="n">01</span>Eén aanspreekpunt</li>
+      <li><span class="n">02</span>Zonder kosten voor jou</li>
+      <li><span class="n">03</span>Betrouwbare professionals</li>
+    </ul>
+  </div>
+</div>
+
+<section class="section model" id="over-ons">
+  <div class="wrap model-grid">
+    <div class="model-copy reveal">
       <p class="eyebrow">Ons model</p>
-      <h2>Een eenvoudig model. <em>Altijd aan jouw kant.</em></h2>
-      <p class="lede">Onze begeleiding kost je niets extra. Wij worden betaald door ons geselecteerde partnernetwerk — nooit via verborgen opslagen op jouw rekening.</p>
+      <h2>Als architecten staan we naast je. <em>Altijd aan jouw kant.</em></h2>
+      <p>Een woning kopen aan de Middellandse Zee is veel meer dan een mooi huis vinden. Het is een plek kiezen, het potentieel ervan begrijpen en met vertrouwen beslissingen nemen. Daarom brengen we architectonische kennis, vastgoedervaring en een netwerk van geselecteerde partners samen om je te begeleiden van het eerste idee tot het laatste detail.</p>
+      <p class="model-free"><strong>Onze begeleiding kost jou niets.</strong> We werken met geselecteerde partners om je te helpen vooruit te gaan met inzicht, transparantie en gemoedsrust.</p>
     </div>
-    <div class="model-flow reveal" role="img" aria-label="Jij ⇄ FYH ⇄ Partners">
-      <div class="model-node model-node--you"><span class="model-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><circle cx="12" cy="8" r="3.2"/><path d="M5.5 19.5c.8-3.6 3.4-5.5 6.5-5.5s5.7 1.9 6.5 5.5"/></svg></span><b>Jij</b><small>Jouw huis aan de Middellandse Zee</small></div>
-      <div class="model-link model-link--blue"><span class="lbl">Jouw project</span><i class="ln ln-r"></i><i class="ln ln-l"></i><span class="lbl lbl--b">Zonder extra kosten</span></div>
-      <div class="model-node model-node--fyh"><img src="{{ '/assets/img/brand/fyh-mark-white.png' | relative_url }}" alt="" width="44" height="44"><b>FYH</b><small>Jouw enige aanspreekpunt,<br>van begin tot eind</small></div>
-      <div class="model-link model-link--accent"><span class="lbl">Gekwalificeerde klanten</span><i class="ln ln-r dashed"></i><i class="ln ln-l dashed"></i><span class="lbl lbl--b">Zij vergoeden ons</span></div>
-      <div class="model-node model-node--par"><span class="model-ico model-ico--accent"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><circle cx="12" cy="5.5" r="1.8"/><circle cx="5.5" cy="17.5" r="1.8"/><circle cx="18.5" cy="17.5" r="1.8"/><path d="M11 7.2 6.4 15.9M13 7.2l4.6 8.7M7.3 17.5h9.4"/></svg></span><b>Partners</b><small>Geselecteerd door FYH</small></div>
-    </div>
-    <div class="model-pts reveal"><div class="model-pt"><span class="model-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M3.5 12.2V4.5h7.7l9 9a1.5 1.5 0 0 1 0 2.1l-5.6 5.6a1.5 1.5 0 0 1-2.1 0z"/><circle cx="8" cy="9" r="1.1"/></svg></span><div><h4>Geen extra kosten</h4><p>Onze coördinatie, ervaring en tijd komen niet bovenop jouw factuur.</p></div></div><div class="model-pt"><span class="model-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M6 3.5h8l4 4v13H6z"/><path d="M14 3.5v4h4M9 12h6M9 15.5h6"/></svg></span><div><h4>Geen verrassingen</h4><p>Geen verborgen opslagen in de begrotingen. Vanaf het begin helder.</p></div></div><div class="model-pt"><span class="model-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M12 3.5 5 6v5.5c0 4.2 2.8 7.4 7 9 4.2-1.6 7-4.8 7-9V6z"/><path d="m9 12 2.2 2.2L15.2 10"/></svg></span><div><h4>Veeleisende partners</h4><p>Elke partner verbindt zich aan onze normen voor kwaliteit en transparantie.</p></div></div></div>
+    <figure class="model-photo reveal">
+      <img src="{{ '/assets/img/home/nuestro-modelo.jpg' | relative_url }}" alt="Eetkamer van een mediterraan huis met zicht op zee" width="482" height="995" loading="lazy" decoding="async">
+    </figure>
+    <ol class="model-flow reveal" aria-label="Jij, Find Your Haven en onze partners">
+      <li class="flow-item"><div class="flow-top"><span class="flow-n">01.</span><i class="flow-arrow" aria-hidden="true"></i></div><h3>Jij</h3><p>We begrijpen je behoeften, je prioriteiten en de manier waarop je wilt leven.</p></li>
+      <li class="flow-item"><div class="flow-top"><span class="flow-n">02.</span><i class="flow-arrow" aria-hidden="true"></i></div><h3>Find Your Haven</h3><p>We geven je richting en coördineren het proces met een architectonische én vastgoedblik.</p></li>
+      <li class="flow-item"><div class="flow-top"><span class="flow-n">03.</span></div><h3>Onze partners</h3><p>We werken samen met geselecteerde professionals wanneer een project daarom vraagt.</p></li>
+    </ol>
+    <a class="text-link model-cta" href="#contact">Laten we praten over wat je voor ogen hebt <span aria-hidden="true">→</span></a>
   </div>
 </section>
 
-<section class="section" id="diensten">
-  <div class="wrap">
-    <div class="reveal svc-head">
-      <p class="eyebrow">Ons aanbod</p>
-      <h2>Van eerste zoektocht tot de sleutel.</h2>
-      <p class="svc-sub">Zeven diensten. Eén partner.</p>
+<section class="section services" id="diensten">
+  <div class="wrap svc-grid">
+    <div class="split-head reveal">
+      <div>
+        <p class="eyebrow">Onze diensten</p>
+        <h2>Van de eerste zoektocht tot de sleutels. <em>Zeven diensten. Eén aanspreekpunt.</em></h2>
+      </div>
+      <p class="sec-intro">We helpen je in elke fase weloverwogen beslissingen te nemen, met een architectonische visie, marktkennis en persoonlijke begeleiding.</p>
     </div>
     <ol class="svc-list reveal">
-<li class="svc"><span class="svc-n">01</span><h3>Voorlopig Rapport</h3><p>3 tot 5 woningen die bij jou passen, binnen 72 uur.</p><a class="svc-go" href="#contact" aria-label="Lees meer: Voorlopig Rapport">→</a></li>
-<li class="svc"><span class="svc-n">02</span><h3>Woningzoektocht</h3><p>Ook woningen die nooit online verschijnen.</p><a class="svc-go" href="{{ '/nl/blog/huis-kopen-costa-brava-buitenlander-gids/' | relative_url }}" aria-label="Lees meer: Woningzoektocht">→</a></li>
-<li class="svc"><span class="svc-n">03</span><h3>Technische Due Diligence</h3><p>Een volledige inspectie vóór je tekent. De enige stap met kosten — verrekend als je koopt.</p><a class="svc-go" href="{{ '/nl/blog/technische-due-diligence-vastgoed-uitgelegd/' | relative_url }}" aria-label="Lees meer: Technische Due Diligence">→</a></li>
-<li class="svc"><span class="svc-n">04</span><h3>Kopersvertegenwoordiging</h3><p>Wij onderhandelen voor jou en regelen elk document, tot bij de notaris.</p><a class="svc-go" href="{{ '/nl/blog/juridische-fouten-kopen-zonder-advocaat/' | relative_url }}" aria-label="Lees meer: Kopersvertegenwoordiging">→</a></li>
-<li class="svc"><span class="svc-n">05</span><h3>Architectuur & Renovatie</h3><p>Ontwerp, vergunningen, aannemers en toezicht. Jij kiest de afwerking.</p><a class="svc-go" href="{{ '/nl/blog/renovatiekosten-catalaanse-kust-gids/' | relative_url }}" aria-label="Lees meer: Architectuur & Renovatie">→</a></li>
-<li class="svc"><span class="svc-n">06</span><h3>Interieurontwerp</h3><p>Mediterraan licht, eerlijke materialen, ruimtes gemaakt voor hoe jij leeft.</p><span class="svc-go svc-go--none"></span></li>
-<li class="svc"><span class="svc-n">07</span><h3>Woningbeheer</h3><p>Jouw huis, goed verzorgd — of je er nu bent of niet.</p><a class="svc-go" href="{{ '/nl/blog/vakantieverhuur-catalonie-vergunning/' | relative_url }}" aria-label="Lees meer: Woningbeheer">→</a></li>
+      <li class="svc"><a class="svc-row" href="#contact"><span class="svc-n">01</span><h3>Voorlopig rapport</h3><p>We analyseren je behoeften, je prioriteiten en de context van je zoektocht om een helder en realistisch vertrekpunt te bepalen.</p><span class="svc-go" aria-hidden="true">→</span></a></li>
+      <li class="svc"><a class="svc-row" href="{{ '/nl/blog/huis-kopen-costa-brava-buitenlander-gids/' | relative_url }}"><span class="svc-n">02</span><h3>Zoektocht</h3><p>We zoeken opties die passen bij je levensstijl, je criteria en je doelen. We helpen je verder te kijken dan de foto's.</p><span class="svc-go" aria-hidden="true">→</span></a></li>
+      <li class="svc"><a class="svc-row" href="{{ '/nl/blog/technische-due-diligence-vastgoed-uitgelegd/' | relative_url }}"><span class="svc-n">03</span><h3>Technische due diligence</h3><p>We controleren de relevante technische aspecten van de woning, zodat je de staat, de mogelijkheden en de aandachtspunten begrijpt voordat je beslist.</p><span class="svc-go" aria-hidden="true">→</span></a></li>
+      <li class="svc"><a class="svc-row" href="{{ '/nl/blog/juridische-fouten-kopen-zonder-advocaat/' | relative_url }}"><span class="svc-n">04</span><h3>Vertegenwoordiging</h3><p>We behartigen je belangen tijdens het hele proces, vergemakkelijken de communicatie tussen de partijen en helpen je met meer duidelijkheid vooruit.</p><span class="svc-go" aria-hidden="true">→</span></a></li>
+      <li class="svc"><a class="svc-row" href="{{ '/nl/blog/renovatiekosten-catalaanse-kust-gids/' | relative_url }}"><span class="svc-n">05</span><h3>Architectuur &amp; renovatie</h3><p>We beoordelen het potentieel van elke ruimte en begeleiden je bij het bepalen van verbeteringen, renovaties en oplossingen op maat.</p><span class="svc-go" aria-hidden="true">→</span></a></li>
+      <li class="svc"><a class="svc-row" href="#contact"><span class="svc-n">06</span><h3>Interieurontwerp</h3><p>We geven vorm aan functionele, serene interieurs met natuurlijke materialen, zorgvuldige verhoudingen en een esthetiek verbonden met de Middellandse Zee.</p><span class="svc-go" aria-hidden="true">→</span></a></li>
+      <li class="svc"><a class="svc-row" href="{{ '/nl/blog/kosten-onderhoud-tweede-woning-costa-brava-per-jaar/' | relative_url }}"><span class="svc-n">07</span><h3>Beheer</h3><p>We coördineren de professionals en de verschillende fasen van het project, zodat het proces eenvoudiger, overzichtelijker en samenhangender verloopt.</p><span class="svc-go" aria-hidden="true">→</span></a></li>
     </ol>
+    <figure class="svc-photo reveal">
+      <img src="{{ '/assets/img/home/servicios.jpg' | relative_url }}" alt="Licht interieur met uitzicht op een mediterrane baai" width="695" height="1150" loading="lazy" decoding="async">
+    </figure>
+    <div class="svc-cta reveal"><a class="btn btn-dark" href="#contact">Vertel ons over je project <span class="arr" aria-hidden="true">→</span></a></div>
   </div>
 </section>
 
-<section class="media-section band" data-parallax>
-  <div class="hero-bg"><img src="https://images.unsplash.com/photo-1702655358646-12a7b5be0bbe?auto=format&fit=crop&w=2400&q=75" alt="" loading="lazy"></div>
-  <div class="wrap reveal"><p class="band-claim">Geworteld in architectuur. <em>Volledig gericht op jou.</em></p></div>
-</section>
-
-<section class="section section--sand" id="proces">
+<section class="section process" id="proces">
   <div class="wrap">
-    <div class="reveal" style="text-align:center; margin-bottom:3em;">
+    <div class="sec-head reveal">
       <p class="eyebrow">Hoe wij werken</p>
-      <h2>Vier stappen. Niets om je zorgen over te maken.</h2>
+      <h2>Een helder proces. <em>Beslissingen met vertrouwen.</em></h2>
+      <p class="sec-intro">Elke zoektocht is anders. Onze methode helpt je stap voor stap vooruit, met een totaalbeeld en professionele begeleiding gedurende het hele traject.</p>
     </div>
-    <ol class="steps reveal"><li class="step"><span class="step-n">01</span><h3>Vertel het ons</h3><p>Jouw regio, jouw budget, jouw manier van leven.</p></li><li class="step"><span class="step-n">02</span><h3>Kies</h3><p>Jouw persoonlijke selectie binnen 72 uur. We bezoeken samen.</p></li><li class="step"><span class="step-n">03</span><h3>Koop met vertrouwen</h3><p>Inspectie, onderhandeling, notaris. Alles geregeld.</p></li><li class="step"><span class="step-n">04</span><h3>Maak het van jou</h3><p>Renovatie, interieur en beheer</p></li></ol>
+    <ol class="steps reveal">
+      <li class="step"><div class="step-img"><img src="{{ '/assets/img/home/paso-01.jpg' | relative_url }}" alt="" width="406" height="312" loading="lazy" decoding="async"></div><div class="step-top"><span class="step-n">01</span><i class="step-line" aria-hidden="true"></i></div><h3>We luisteren</h3><p>We beginnen met je te leren kennen: wat je zoekt, hoe je wilt leven en wat voor jou belangrijk is.</p></li>
+      <li class="step"><div class="step-img"><img src="{{ '/assets/img/home/paso-02.jpg' | relative_url }}" alt="" width="413" height="312" loading="lazy" decoding="async"></div><div class="step-top"><span class="step-n">02</span><i class="step-line" aria-hidden="true"></i></div><h3>We bepalen de koers</h3><p>We vertalen je prioriteiten naar heldere criteria om de zoektocht te sturen en de opties zinvol te beoordelen.</p></li>
+      <li class="step"><div class="step-img"><img src="{{ '/assets/img/home/paso-03.jpg' | relative_url }}" alt="" width="410" height="312" loading="lazy" decoding="async"></div><div class="step-top"><span class="step-n">03</span><i class="step-line" aria-hidden="true"></i></div><h3>We analyseren en beslissen</h3><p>We bestuderen elke kans vanuit een architectonisch en vastgoedperspectief, zodat je met meer informatie kunt beslissen.</p></li>
+      <li class="step"><div class="step-img"><img src="{{ '/assets/img/home/paso-04.jpg' | relative_url }}" alt="" width="410" height="312" loading="lazy" decoding="async"></div><div class="step-top"><span class="step-n">04</span><i class="step-line" aria-hidden="true"></i></div><h3>We begeleiden je naar de volgende stap</h3><p>We coördineren de nodige professionals en helpen je op weg naar de aankoop, de renovatie of het klaarmaken van de ruimte.</p></li>
+    </ol>
+    <div class="center-cta reveal"><a class="btn btn-primary" href="#contact">Laten we beginnen met een gesprek <span class="arr" aria-hidden="true">→</span></a></div>
   </div>
 </section>
 
-{% assign lang = page.lang %}{% assign t = site.data.strings[lang] %}{% assign items = site.articles | where: "lang", lang | sort: "date" | reverse %}{% assign starts = items | where: "start_here", true | sort: "date" %}
-<section class="section" id="revista-home">
+<section class="section mag" id="journal-home">
   <div class="wrap">
-    <div class="reveal mag-head">
+    <div class="split-head reveal">
       <div>
-        <p class="eyebrow">{{ t.nav_blog }}</p>
-        <h2>{{ t.blog_index_subtitle }}</h2>
+        <p class="eyebrow">Journal</p>
+        <h2>Ideeën, plekken en blikken op de Middellandse Zee.</h2>
       </div>
-      <a class="card-link" href="{{ '/' | append: lang | append: '/blog/' | relative_url }}">{{ t.hub_back }} →</a>
+      <p class="sec-intro">Een selectie verhalen om de lokale architectuur, materialen, interieurs en manieren van leven te ontdekken die deze kust bijzonder maken. Inspiratie en kennis om elke ruimte met andere ogen te bekijken.</p>
     </div>
-    <div class="article-grid reveal">
-      {% for a in starts %}{% include card.html a=a t=t badge=false %}{% endfor %}
-      {% assign shown = 0 %}{% for a in items %}{% unless a.start_here %}{% if shown < 3 %}{% include card.html a=a t=t badge=false %}{% assign shown = shown | plus: 1 %}{% endif %}{% endunless %}{% endfor %}
-    </div>
-    <div class="reveal mag-topics">
-      {% for c in site.data.topics.order %}{% assign cd = site.data.topics.cats[c][lang] %}<a class="chip" href="{{ '/' | append: lang | append: '/blog/' | append: site.data.topics.seg[lang] | append: '/' | append: cd.slug | append: '/' | relative_url }}">{{ cd.name }}</a>{% endfor %}
+    {% include home-magazine.html all="Alles" read="Lees artikel" %}
+    <div class="center-cta reveal"><a class="btn btn-outline" href="{{ '/nl/blog/' | relative_url }}">Ontdek het journal <span class="arr" aria-hidden="true">→</span></a></div>
+
+    <div class="guide-band reveal">
+      <div>
+        <p class="eyebrow">Gratis gids</p>
+        <h3>De Costa Brava Koopgids · Editie 2026</h3>
+        <p>Laat je e-mailadres achter en we sturen hem je toe, af en toe met nieuws van de kust.</p>
+      </div>
+      <form class="guide-form" action="https://formspree.io/f/YOUR_FORMSPREE_ID" method="POST">
+        <input type="hidden" name="_next" value="{{ '/nl/bedankt-gids/' | absolute_url }}">
+        <input type="hidden" name="_subject" value="Nieuwe abonnee — Costa Brava Gids 2026">
+        <input type="email" name="Email" placeholder="Jouw e-mail" aria-label="Jouw e-mail" autocomplete="email" required>
+        <button class="btn btn-dark" type="submit">Ontvang de gids</button>
+        <p class="privacy-note">Door je in te schrijven ga je akkoord met ons <a href="{{ '/nl/privacy/' | relative_url }}">privacybeleid</a>.</p>
+      </form>
     </div>
   </div>
 </section>
 
-<section class="section newsletter-section">
-  <div class="wrap reveal">
-    <p class="eyebrow" style="color:rgba(247,245,242,.65);">Blijf op de hoogte</p>
-    <h2>Ontvang exclusieve woningen en lokale inzichten</h2>
-    <p class="lede">Schrijf je in en ontvang onze gratis gids.</p>
-    <div class="newsletter-badge"><b>↓ Gratis</b>De Costa Brava Koopgids · Editie 2026</div>
-    <form class="newsletter-form" action="https://formspree.io/f/YOUR_FORMSPREE_ID" method="POST">
-      <input type="hidden" name="_next" value="{{ '/nl/bedankt-gids/' | absolute_url }}">
-      <input type="hidden" name="_subject" value="Nieuwe abonnee — Costa Brava Gids 2026">
-      <input type="email" name="Email" placeholder="Jouw email" required>
-      <button type="submit">Inschrijven →</button>
-    </form>
-    <p class="privacy-note">Door je in te schrijven ga je akkoord met ons <a href="{{ '/nl/privacy/' | relative_url }}" style="text-decoration:underline;">privacybeleid</a>.</p>
-  </div>
-</section>
+<section class="section contact" id="contact">
+  <div class="wrap contact-grid">
+    <div class="contact-copy reveal">
+      <p class="eyebrow">Contact</p>
+      <h2>Je volgende hoofdstuk kan hier beginnen.</h2>
+      <p>Vertel ons wat je zoekt of welk project je voor ogen hebt. We luisteren naar je ideeën en laten je weten hoe we je kunnen helpen.</p>
 
-<section class="section" id="contact">
-  <div class="wrap">
-    <p class="eyebrow">Laten we beginnen</p>
-    <h2>Klaar om jouw <em>plek</em> te vinden?</h2>
-    <p class="lede">Vertel ons over jouw ideale woning. Je hoort binnen 24 uur van ons — vrijblijvend.</p>
-
-    <div class="wizard" data-formspree="https://formspree.io/f/YOUR_FORMSPREE_ID" data-error-msg="Het formulier kon niet worden verzonden. Probeer het opnieuw of mail ons op hello@findyourhaven.com.">
-      <div class="wizard-body">
-        <div class="wizard-progress"><div class="wizard-progress-bar"></div></div>
-        <p class="wizard-stepcount">Stap <span data-cur>1</span> van <span data-total>5</span></p>
-
-        <div class="wizard-step" data-step="1">
-          <h3>Welk gebied heeft jouw interesse?</h3>
-          <p class="step-hint">Je mag er meerdere kiezen, of "nog niet zeker" als je advies wilt.</p>
-          <div class="choice-grid" data-name="Gebied" data-multi="true">
-            <button type="button" class="choice-chip" data-value="Costa Brava">Costa Brava</button>
-            <button type="button" class="choice-chip" data-value="Costa Barcelona-Maresme">Costa Barcelona-Maresme</button>
-            <button type="button" class="choice-chip" data-value="Costa Daurada">Costa Daurada</button>
-            <button type="button" class="choice-chip" data-value="Nog niet zeker">Nog niet zeker</button>
-          </div>
+      <form class="contact-form" action="https://formspree.io/f/YOUR_FORMSPREE_ID" method="POST" data-contact-form data-error-msg="Je bericht kon niet worden verzonden. Probeer het opnieuw of mail ons op hello@findyourhaven.com.">
+        <input type="hidden" name="_subject" value="Nieuwe aanvraag via de website (NL)">
+        <input type="hidden" name="Idioma" value="NL">
+        <div class="hp-field" aria-hidden="true"><label>Niet invullen <input type="text" name="_gotcha" tabindex="-1" autocomplete="off"></label></div>
+        <div class="field"><label for="c-name">Naam</label><input id="c-name" type="text" name="Nombre" autocomplete="name" required></div>
+        <div class="field"><label for="c-email">E-mailadres</label><input id="c-email" type="email" name="Email" autocomplete="email" required></div>
+        <div class="field"><label for="c-phone">Telefoon <small>(optioneel)</small></label><input id="c-phone" type="tel" name="Teléfono" autocomplete="tel"></div>
+        <div class="field"><label for="c-topic">Waarmee kunnen we je helpen?</label>
+          <select id="c-topic" name="Consulta" required>
+            <option value="" selected disabled>Kies een optie</option>
+            <option>Een woning kopen</option>
+            <option>Renoveren of restaureren</option>
+            <option>Interieurontwerp</option>
+            <option>Beheer van mijn woning</option>
+            <option>Iets anders</option>
+          </select>
         </div>
-
-        <div class="wizard-step" data-step="2" hidden>
-          <h3>Welk type woning zoek je?</h3>
-          <div class="choice-grid" data-name="Woningtype" data-multi="false">
-            <button type="button" class="choice-chip" data-value="Villa met tuin">Villa met tuin</button>
-            <button type="button" class="choice-chip" data-value="Boerderij om te renoveren">Boerderij om te renoveren</button>
-            <button type="button" class="choice-chip" data-value="Dorpshuis">Dorpshuis</button>
-            <button type="button" class="choice-chip" data-value="Penthouse / appartement">Penthouse / appartement</button>
-            <button type="button" class="choice-chip" data-value="Nog niet zeker">Nog niet zeker</button>
-          </div>
+        <div class="field field--full"><label for="c-msg">Bericht</label><textarea id="c-msg" name="Mensaje" rows="5" required></textarea></div>
+        <p class="form-consent">Door dit formulier te verzenden, ga je ermee akkoord dat we contact met je opnemen om je vraag te beantwoorden. Lees ons <a href="{{ '/nl/privacy/' | relative_url }}">privacybeleid</a> voor meer informatie.</p>
+        <div class="form-actions">
+          <button class="btn btn-dark" type="submit" data-sending-label="Verzenden…">Verstuur aanvraag <span class="arr" aria-hidden="true">→</span></button>
+          <p class="form-error" role="alert" hidden></p>
         </div>
-
-        <div class="wizard-step" data-step="3" hidden>
-          <h3>Wat is je richtbudget?</h3>
-          <p class="step-hint">Inclusief de woning; het renovatiebudget verfijnen we later als dat van toepassing is.</p>
-          <div class="choice-grid" data-name="Budget" data-multi="false">
-            <button type="button" class="choice-chip" data-value="300k – 500k €">300k – 500k €</button>
-            <button type="button" class="choice-chip" data-value="500k – 800k €">500k – 800k €</button>
-            <button type="button" class="choice-chip" data-value="800k – 1,5M €">800k – 1,5M €</button>
-            <button type="button" class="choice-chip" data-value="1,5M € +">1,5M € +</button>
-          </div>
-        </div>
-
-        <div class="wizard-step" data-step="4" hidden>
-          <h3>Overweeg je een renovatie?</h3>
-          <div class="choice-grid" data-name="Renovatie" data-multi="false">
-            <button type="button" class="choice-chip" data-value="Ja, volledig">Ja, volledig</button>
-            <button type="button" class="choice-chip" data-value="Ja, iets kleins">Ja, iets kleins</button>
-            <button type="button" class="choice-chip" data-value="Liever al gerenoveerd">Liever al gerenoveerd</button>
-            <button type="button" class="choice-chip" data-value="Nog niet zeker">Nog niet zeker</button>
-          </div>
-          <h3 class="mt-lg">Binnen welke termijn wil je vooruitgaan?</h3>
-          <div class="choice-grid" data-name="Termijn" data-multi="false">
-            <button type="button" class="choice-chip" data-value="Minder dan 6 maanden">Minder dan 6 maanden</button>
-            <button type="button" class="choice-chip" data-value="6-12 maanden">6-12 maanden</button>
-            <button type="button" class="choice-chip" data-value="Meer dan 12 maanden / verkennend">Meer dan 12 maanden / verkennend</button>
-          </div>
-        </div>
-
-        <div class="wizard-step" data-step="5" hidden>
-          <h3>Tot slot, hoe bereiken we je?</h3>
-          <div class="wizard-field">
-            <label for="fyh-name">Naam</label>
-            <input type="text" id="fyh-name" name="Naam" required>
-          </div>
-          <div class="wizard-field">
-            <label for="fyh-email">Email</label>
-            <input type="email" id="fyh-email" name="Email" required>
-          </div>
-          <div class="wizard-field">
-            <label for="fyh-phone">Telefoon (optioneel, met landcode)</label>
-            <input type="tel" id="fyh-phone" name="Telefoon">
-          </div>
-          <label class="wizard-consent">
-            <input type="checkbox" name="Toestemming" required>
-            <span>Ik ga ermee akkoord dat Find Your Haven mij over deze aanvraag contacteert (<a href="{{ '/nl/privacy/' | relative_url }}" style="text-decoration:underline;">privacybeleid</a>).</span>
-          </label>
-        </div>
-      </div>
-
-      <div class="wizard-nav">
-        <button type="button" class="wizard-back">← Terug</button>
-        <button type="button" class="wizard-next" data-next-label="Volgende →" data-submit-label="Vraag mijn Voorlopig Rapport aan →" data-sending-label="Versturen…">Volgende →</button>
-      </div>
-
-      <div class="wizard-success" hidden>
-        <div class="mark">✓</div>
-        <h3>Ontvangen!</h3>
-        <p>Binnen 72 uur ontvang je per email je Voorlopig Rapport. Heb je haast? Mail ons op <a href="mailto:hello@findyourhaven.com" style="text-decoration:underline;">hello@findyourhaven.com</a>.</p>
+      </form>
+      <div class="form-success" role="status" tabindex="-1" hidden>
+        <h3>Bedankt voor je bericht.</h3>
+        <p>We hebben je bericht ontvangen en nemen snel contact met je op.</p>
       </div>
     </div>
+    <figure class="contact-photo reveal">
+      <img src="{{ '/assets/img/home/contacto.jpg' | relative_url }}" alt="Stenen terras met een olijfboom aan zee" width="695" height="1010" loading="lazy" decoding="async">
+    </figure>
   </div>
 </section>

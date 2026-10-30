@@ -3,7 +3,7 @@ layout: default
 hero_slider: true
 lang: es
 title: "Find Your Haven — Tu partner inmobiliario en la Costa Catalana"
-description: "Arquitectos que ayudan a compradores internacionales a encontrar, evaluar y transformar viviendas excepcionales en la Costa Catalana. Costa Brava, Maresme, Costa Daurada."
+description: "Arquitectos y profesionales inmobiliarios que te acompañan a encontrar y transformar tu vivienda en la Costa Catalana: Costa Brava, Maresme y Costa Daurada."
 translations:
   en: /en/
   es: /es/
@@ -11,9 +11,9 @@ translations:
   fr: /fr/
 ---
 
-<section class="hero" data-hero-slider data-interval="10000" data-label-prev="Imagen anterior" data-label-next="Imagen siguiente" data-label-slide="Imagen">
-  <div class="hero-bg" data-parallax>
-    <div class="hero-slide hero-slide--light is-active">
+<section class="hero" id="inicio" data-hero-slider data-interval="10000" data-label-prev="Imagen anterior" data-label-next="Imagen siguiente" data-label-slide="Imagen">
+  <div class="hero-bg">
+    <div class="hero-slide is-active">
       <picture>
         <source media="(max-width: 640px) and (orientation: portrait)" srcset="{{ '/assets/img/hero/hero-sea-mobile.webp' | relative_url }}" type="image/webp">
         <source media="(max-width: 1100px) and (orientation: portrait)" srcset="{{ '/assets/img/hero/hero-sea-tablet.webp' | relative_url }}" type="image/webp">
@@ -26,198 +26,155 @@ translations:
     </div>
   </div>
   <div class="wrap">
-    <p class="eyebrow">Costa Catalana, España</p>
-    <h1>Encuentra tu <em>refugio</em> mediterráneo</h1>
-    <p class="lede"><span class="claim">Arraigados en la arquitectura. Centrados en ti.</span> Encontramos, revisamos y transformamos viviendas en la costa catalana para compradores internacionales. De la primera búsqueda a las llaves.</p>
+    <h1><span>Encuentra tu</span> <span>refugio mediterráneo.</span></h1>
+    <p class="hero-sub"><span>Arraigados en la arquitectura.</span> <span>Centrados en ti.</span></p>
+    <p class="hero-text">Te acompañamos en cada paso para encontrar y transformar un lugar que sientas como propio.</p>
     <div class="hero-cta">
-      <a class="btn btn-primary" href="#contacto">Hablemos →</a>
-      <a class="btn btn-outline" href="#proceso">Cómo trabajamos</a>
+      <a class="btn btn-primary" href="#contacto" data-float-label="Hablemos">Cuéntanos qué estás buscando <span class="arr" aria-hidden="true">→</span></a>
+      <a class="text-link" href="#proceso">Descubre cómo trabajamos <span aria-hidden="true">→</span></a>
     </div>
   </div>
-  <div class="scroll-cue"><span>Descubrir</span><div class="line"></div></div>
 </section>
 
-<div class="trust-strip" id="quienes-somos"><div class="wrap"><ul><li>Liderado por una arquitecta</li><li>Acceso off-market</li><li>Un solo interlocutor</li><li>EN · NL · FR · ES</li></ul></div></div>
-
-<section class="section section--sand model" id="modelo-es">
+<div class="hero-points">
   <div class="wrap">
-    <div class="reveal model-head">
+    <ul>
+      <li><span class="n">01</span>Un solo interlocutor</li>
+      <li><span class="n">02</span>Sin coste para ti</li>
+      <li><span class="n">03</span>Profesionales de confianza</li>
+    </ul>
+  </div>
+</div>
+
+<section class="section model" id="quienes-somos">
+  <div class="wrap model-grid">
+    <div class="model-copy reveal">
       <p class="eyebrow">Nuestro modelo</p>
-      <h2>Un modelo sencillo. <em>Siempre de tu lado.</em></h2>
-      <p class="lede">Nuestro acompañamiento no te cuesta nada extra. Nos retribuye nuestra red de partners seleccionados — nunca con sobrecostes ocultos en tu factura.</p>
+      <h2>Como arquitectos, te acompañamos. <em>Siempre de tu lado.</em></h2>
+      <p>Comprar una vivienda en el Mediterráneo es mucho más que encontrar una casa bonita. Es elegir un lugar, entender su potencial y tomar decisiones con confianza. Por eso reunimos conocimiento arquitectónico, experiencia inmobiliaria y una red de colaboradores seleccionados para acompañarte desde la primera idea hasta el último detalle.</p>
+      <p class="model-free"><strong>Nuestro servicio de acompañamiento no tiene coste para ti.</strong> Trabajamos con partners seleccionados para ayudarte a avanzar con criterio, transparencia y tranquilidad.</p>
     </div>
-    <div class="model-flow reveal" role="img" aria-label="Tú ⇄ FYH ⇄ Partners">
-      <div class="model-node model-node--you"><span class="model-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><circle cx="12" cy="8" r="3.2"/><path d="M5.5 19.5c.8-3.6 3.4-5.5 6.5-5.5s5.7 1.9 6.5 5.5"/></svg></span><b>Tú</b><small>Tu hogar en el Mediterráneo</small></div>
-      <div class="model-link model-link--blue"><span class="lbl">Tu proyecto</span><i class="ln ln-r"></i><i class="ln ln-l"></i><span class="lbl lbl--b">Sin coste extra</span></div>
-      <div class="model-node model-node--fyh"><img src="{{ '/assets/img/brand/fyh-mark-white.png' | relative_url }}" alt="" width="44" height="44"><b>FYH</b><small>Tu único interlocutor,<br>de principio a fin</small></div>
-      <div class="model-link model-link--accent"><span class="lbl">Clientes cualificados</span><i class="ln ln-r dashed"></i><i class="ln ln-l dashed"></i><span class="lbl lbl--b">Nos retribuyen</span></div>
-      <div class="model-node model-node--par"><span class="model-ico model-ico--accent"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><circle cx="12" cy="5.5" r="1.8"/><circle cx="5.5" cy="17.5" r="1.8"/><circle cx="18.5" cy="17.5" r="1.8"/><path d="M11 7.2 6.4 15.9M13 7.2l4.6 8.7M7.3 17.5h9.4"/></svg></span><b>Partners</b><small>Seleccionados por FYH</small></div>
-    </div>
-    <div class="model-pts reveal"><div class="model-pt"><span class="model-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M3.5 12.2V4.5h7.7l9 9a1.5 1.5 0 0 1 0 2.1l-5.6 5.6a1.5 1.5 0 0 1-2.1 0z"/><circle cx="8" cy="9" r="1.1"/></svg></span><div><h4>Sin coste extra</h4><p>Nuestra coordinación, experiencia y tiempo no se suman a tu factura.</p></div></div><div class="model-pt"><span class="model-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M6 3.5h8l4 4v13H6z"/><path d="M14 3.5v4h4M9 12h6M9 15.5h6"/></svg></span><div><h4>Sin sorpresas</h4><p>Ningún sobrecoste escondido en los presupuestos. Todo claro desde el inicio.</p></div></div><div class="model-pt"><span class="model-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M12 3.5 5 6v5.5c0 4.2 2.8 7.4 7 9 4.2-1.6 7-4.8 7-9V6z"/><path d="m9 12 2.2 2.2L15.2 10"/></svg></span><div><h4>Partners exigentes</h4><p>Cada partner se compromete con nuestros estándares de calidad y transparencia.</p></div></div></div>
+    <figure class="model-photo reveal">
+      <img src="{{ '/assets/img/home/nuestro-modelo.jpg' | relative_url }}" alt="Comedor de una casa mediterránea abierto al mar" width="482" height="995" loading="lazy" decoding="async">
+    </figure>
+    <ol class="model-flow reveal" aria-label="Tú, Find Your Haven y nuestros partners">
+      <li class="flow-item"><div class="flow-top"><span class="flow-n">01.</span><i class="flow-arrow" aria-hidden="true"></i></div><h3>Tú</h3><p>Entendemos tus necesidades, tus prioridades y la forma en la que quieres vivir.</p></li>
+      <li class="flow-item"><div class="flow-top"><span class="flow-n">02.</span><i class="flow-arrow" aria-hidden="true"></i></div><h3>Find Your Haven</h3><p>Te orientamos y coordinamos el proceso con una mirada arquitectónica e inmobiliaria.</p></li>
+      <li class="flow-item"><div class="flow-top"><span class="flow-n">03.</span></div><h3>Nuestros partners</h3><p>Colaboramos con profesionales seleccionados cuando cada proyecto lo necesita.</p></li>
+    </ol>
+    <a class="text-link model-cta" href="#contacto">Hablemos de lo que tienes en mente <span aria-hidden="true">→</span></a>
   </div>
 </section>
 
-<section class="section" id="servicios">
-  <div class="wrap">
-    <div class="reveal svc-head">
-      <p class="eyebrow">Nuestra propuesta</p>
-      <h2>De la primera búsqueda a las llaves.</h2>
-      <p class="svc-sub">Siete servicios. Un solo interlocutor.</p>
+<section class="section services" id="servicios">
+  <div class="wrap svc-grid">
+    <div class="split-head reveal">
+      <div>
+        <p class="eyebrow">Nuestros servicios</p>
+        <h2>De la primera búsqueda a las llaves. <em>Siete servicios. Un solo interlocutor.</em></h2>
+      </div>
+      <p class="sec-intro">Te ayudamos a tomar decisiones informadas en cada etapa, combinando visión arquitectónica, conocimiento del mercado y acompañamiento personal.</p>
     </div>
     <ol class="svc-list reveal">
-<li class="svc"><span class="svc-n">01</span><h3>Informe Preliminar</h3><p>De 3 a 5 inmuebles a tu medida, en 72 horas.</p><a class="svc-go" href="#contacto" aria-label="Leer más: Informe Preliminar">→</a></li>
-<li class="svc"><span class="svc-n">02</span><h3>Búsqueda</h3><p>También inmuebles que nunca llegan a los portales.</p><a class="svc-go" href="{{ '/es/blog/comprar-vivienda-costa-brava-extranjero/' | relative_url }}" aria-label="Leer más: Búsqueda">→</a></li>
-<li class="svc"><span class="svc-n">03</span><h3>Due Diligence Técnica</h3><p>Una inspección completa antes de firmar. El único paso con coste — se descuenta si compras.</p><a class="svc-go" href="{{ '/es/blog/due-diligence-tecnica-inmobiliaria/' | relative_url }}" aria-label="Leer más: Due Diligence Técnica">→</a></li>
-<li class="svc"><span class="svc-n">04</span><h3>Representación</h3><p>Negociamos por ti y revisamos cada documento, hasta la notaría.</p><a class="svc-go" href="{{ '/es/blog/errores-legales-comprar-sin-abogado/' | relative_url }}" aria-label="Leer más: Representación">→</a></li>
-<li class="svc"><span class="svc-n">05</span><h3>Arquitectura y Reforma</h3><p>Proyecto, licencias, constructora y dirección de obra. Tú eliges los acabados.</p><a class="svc-go" href="{{ '/es/blog/cuanto-cuesta-reformar-casa-costa-catalana/' | relative_url }}" aria-label="Leer más: Arquitectura y Reforma">→</a></li>
-<li class="svc"><span class="svc-n">06</span><h3>Interiorismo</h3><p>Luz mediterránea, materiales honestos, espacios pensados para tu forma de vivir.</p><span class="svc-go svc-go--none"></span></li>
-<li class="svc"><span class="svc-n">07</span><h3>Gestión</h3><p>Tu casa, cuidada — estés o no estés.</p><a class="svc-go" href="{{ '/es/blog/alquiler-vacacional-cataluna-licencia/' | relative_url }}" aria-label="Leer más: Gestión">→</a></li>
+      <li class="svc"><a class="svc-row" href="#contacto"><span class="svc-n">01</span><h3>Informe preliminar</h3><p>Analizamos tus necesidades, tus prioridades y el contexto de la búsqueda para definir un punto de partida claro y realista.</p><span class="svc-go" aria-hidden="true">→</span></a></li>
+      <li class="svc"><a class="svc-row" href="{{ '/es/blog/comprar-vivienda-costa-brava-extranjero/' | relative_url }}"><span class="svc-n">02</span><h3>Búsqueda</h3><p>Buscamos opciones alineadas con tu estilo de vida, tus criterios y tus objetivos. Te ayudamos a mirar más allá de las fotografías.</p><span class="svc-go" aria-hidden="true">→</span></a></li>
+      <li class="svc"><a class="svc-row" href="{{ '/es/blog/due-diligence-tecnica-inmobiliaria/' | relative_url }}"><span class="svc-n">03</span><h3>Due diligence técnica</h3><p>Revisamos los aspectos técnicos relevantes de la vivienda para ayudarte a comprender su estado, sus posibilidades y los puntos que conviene estudiar antes de decidir.</p><span class="svc-go" aria-hidden="true">→</span></a></li>
+      <li class="svc"><a class="svc-row" href="{{ '/es/blog/errores-legales-comprar-sin-abogado/' | relative_url }}"><span class="svc-n">04</span><h3>Representación</h3><p>Defendemos tus intereses durante el proceso, facilitamos la comunicación entre las partes y te ayudamos a avanzar con mayor claridad.</p><span class="svc-go" aria-hidden="true">→</span></a></li>
+      <li class="svc"><a class="svc-row" href="{{ '/es/blog/cuanto-cuesta-reformar-casa-costa-catalana/' | relative_url }}"><span class="svc-n">05</span><h3>Arquitectura y reforma</h3><p>Valoramos el potencial de cada espacio y te acompañamos en la definición de mejoras, reformas y soluciones adaptadas a tus necesidades.</p><span class="svc-go" aria-hidden="true">→</span></a></li>
+      <li class="svc"><a class="svc-row" href="#contacto"><span class="svc-n">06</span><h3>Interiorismo</h3><p>Damos forma a interiores funcionales y serenos, con materiales naturales, proporciones cuidadas y una estética conectada con el Mediterráneo.</p><span class="svc-go" aria-hidden="true">→</span></a></li>
+      <li class="svc"><a class="svc-row" href="{{ '/es/blog/cuanto-cuesta-mantener-casa-costa-brava-al-ano/' | relative_url }}"><span class="svc-n">07</span><h3>Gestión</h3><p>Coordinamos los profesionales y las distintas fases del proyecto para que el proceso sea más sencillo, ordenado y coherente.</p><span class="svc-go" aria-hidden="true">→</span></a></li>
     </ol>
+    <figure class="svc-photo reveal">
+      <img src="{{ '/assets/img/home/servicios.jpg' | relative_url }}" alt="Interior luminoso con vistas a una cala mediterránea" width="695" height="1150" loading="lazy" decoding="async">
+    </figure>
+    <div class="svc-cta reveal"><a class="btn btn-dark" href="#contacto">Cuéntanos tu proyecto <span class="arr" aria-hidden="true">→</span></a></div>
   </div>
 </section>
 
-<section class="media-section band" data-parallax>
-  <div class="hero-bg"><img src="https://images.unsplash.com/photo-1702655358646-12a7b5be0bbe?auto=format&fit=crop&w=2400&q=75" alt="" loading="lazy"></div>
-  <div class="wrap reveal"><p class="band-claim">Arraigados en la arquitectura. <em>Centrados en ti.</em></p></div>
-</section>
-
-<section class="section section--sand" id="proceso">
+<section class="section process" id="proceso">
   <div class="wrap">
-    <div class="reveal" style="text-align:center; margin-bottom:3em;">
+    <div class="sec-head reveal">
       <p class="eyebrow">Cómo trabajamos</p>
-      <h2>Cuatro pasos. Nada de qué preocuparte.</h2>
+      <h2>Un proceso claro. <em>Decisiones con confianza.</em></h2>
+      <p class="sec-intro">Cada búsqueda es diferente. Nuestro método te ayuda a avanzar paso a paso, con una visión global y acompañamiento profesional durante todo el recorrido.</p>
     </div>
-    <ol class="steps reveal"><li class="step"><span class="step-n">01</span><h3>Cuéntanos</h3><p>Tu zona, tu presupuesto, tu forma de vivir.</p></li><li class="step"><span class="step-n">02</span><h3>Elige</h3><p>Tu selección en 72 horas. Visitamos juntos.</p></li><li class="step"><span class="step-n">03</span><h3>Compra con tranquilidad</h3><p>Inspección, negociación, notaría. Todo cubierto.</p></li><li class="step"><span class="step-n">04</span><h3>Hazlo tuyo</h3><p>Reforma, interiorismo y cuidado</p></li></ol>
+    <ol class="steps reveal">
+      <li class="step"><div class="step-img"><img src="{{ '/assets/img/home/paso-01.jpg' | relative_url }}" alt="" width="406" height="312" loading="lazy" decoding="async"></div><div class="step-top"><span class="step-n">01</span><i class="step-line" aria-hidden="true"></i></div><h3>Te escuchamos</h3><p>Empezamos por conocerte: qué buscas, cómo quieres vivir y qué es importante para ti.</p></li>
+      <li class="step"><div class="step-img"><img src="{{ '/assets/img/home/paso-02.jpg' | relative_url }}" alt="" width="413" height="312" loading="lazy" decoding="async"></div><div class="step-top"><span class="step-n">02</span><i class="step-line" aria-hidden="true"></i></div><h3>Definimos el rumbo</h3><p>Convertimos tus prioridades en criterios claros para orientar la búsqueda y valorar las opciones con sentido.</p></li>
+      <li class="step"><div class="step-img"><img src="{{ '/assets/img/home/paso-03.jpg' | relative_url }}" alt="" width="410" height="312" loading="lazy" decoding="async"></div><div class="step-top"><span class="step-n">03</span><i class="step-line" aria-hidden="true"></i></div><h3>Analizamos y decidimos</h3><p>Estudiamos cada oportunidad desde una perspectiva arquitectónica e inmobiliaria para que puedas decidir con más información.</p></li>
+      <li class="step"><div class="step-img"><img src="{{ '/assets/img/home/paso-04.jpg' | relative_url }}" alt="" width="410" height="312" loading="lazy" decoding="async"></div><div class="step-top"><span class="step-n">04</span><i class="step-line" aria-hidden="true"></i></div><h3>Te acompañamos hasta el siguiente paso</h3><p>Coordinamos a los profesionales necesarios y te ayudamos a avanzar hacia la compra, la reforma o la puesta a punto del espacio.</p></li>
+    </ol>
+    <div class="center-cta reveal"><a class="btn btn-primary" href="#contacto">Empecemos por una conversación <span class="arr" aria-hidden="true">→</span></a></div>
   </div>
 </section>
 
-{% assign lang = page.lang %}{% assign t = site.data.strings[lang] %}{% assign items = site.articles | where: "lang", lang | sort: "date" | reverse %}{% assign starts = items | where: "start_here", true | sort: "date" %}
-<section class="section" id="revista-home">
+<section class="section mag" id="revista-home">
   <div class="wrap">
-    <div class="reveal mag-head">
+    <div class="split-head reveal">
       <div>
-        <p class="eyebrow">{{ t.nav_blog }}</p>
-        <h2>{{ t.blog_index_subtitle }}</h2>
+        <p class="eyebrow">Revista</p>
+        <h2>Ideas, lugares y miradas sobre el Mediterráneo.</h2>
       </div>
-      <a class="card-link" href="{{ '/' | append: lang | append: '/blog/' | relative_url }}">{{ t.hub_back }} →</a>
+      <p class="sec-intro">Una selección de historias para descubrir la arquitectura local, los materiales, los interiores y las formas de vivir que hacen especial a esta costa. Inspiración y conocimiento para mirar cada espacio con otros ojos.</p>
     </div>
-    <div class="article-grid reveal">
-      {% for a in starts %}{% include card.html a=a t=t badge=false %}{% endfor %}
-      {% assign shown = 0 %}{% for a in items %}{% unless a.start_here %}{% if shown < 3 %}{% include card.html a=a t=t badge=false %}{% assign shown = shown | plus: 1 %}{% endif %}{% endunless %}{% endfor %}
-    </div>
-    <div class="reveal mag-topics">
-      {% for c in site.data.topics.order %}{% assign cd = site.data.topics.cats[c][lang] %}<a class="chip" href="{{ '/' | append: lang | append: '/blog/' | append: site.data.topics.seg[lang] | append: '/' | append: cd.slug | append: '/' | relative_url }}">{{ cd.name }}</a>{% endfor %}
+    {% include home-magazine.html all="Todos" read="Leer artículo" %}
+    <div class="center-cta reveal"><a class="btn btn-outline" href="{{ '/es/blog/' | relative_url }}">Explora la revista <span class="arr" aria-hidden="true">→</span></a></div>
+
+    <div class="guide-band reveal">
+      <div>
+        <p class="eyebrow">Guía gratuita</p>
+        <h3>Comprar en la Costa Brava · Edición 2026</h3>
+        <p>Déjanos tu email y te la enviamos. De vez en cuando, también alguna novedad de la costa.</p>
+      </div>
+      <form class="guide-form" action="https://formspree.io/f/TU_ID_FORMSPREE" method="POST">
+        <input type="hidden" name="_next" value="{{ '/es/gracias-guia/' | absolute_url }}">
+        <input type="hidden" name="_subject" value="Nueva suscripción — Guía Costa Brava 2026">
+        <input type="email" name="Email" placeholder="Tu email" aria-label="Tu email" autocomplete="email" required>
+        <button class="btn btn-dark" type="submit">Recibir la guía</button>
+        <p class="privacy-note">Al suscribirte aceptas nuestra <a href="{{ '/es/privacidad/' | relative_url }}">política de privacidad</a>.</p>
+      </form>
     </div>
   </div>
 </section>
 
-<section class="section newsletter-section">
-  <div class="wrap reveal">
-    <p class="eyebrow" style="color:rgba(247,245,242,.65);">Mantente informado</p>
-    <h2>Recibe propiedades exclusivas e insights locales</h2>
-    <p class="lede">Suscríbete y recibe nuestra guía gratuita.</p>
-    <div class="newsletter-badge"><b>↓ Gratis</b>Guía para comprar en la Costa Brava · Edición 2026</div>
-    <form class="newsletter-form" action="https://formspree.io/f/TU_ID_FORMSPREE" method="POST">
-      <input type="hidden" name="_next" value="{{ '/es/gracias-guia/' | absolute_url }}">
-      <input type="hidden" name="_subject" value="Nueva suscripción — Guía Costa Brava 2026">
-      <input type="email" name="Email" placeholder="Tu email" required>
-      <button type="submit">Suscribirse →</button>
-    </form>
-    <p class="privacy-note">Al suscribirte aceptas nuestra <a href="{{ '/es/privacidad/' | relative_url }}" style="text-decoration:underline;">política de privacidad</a>.</p>
-  </div>
-</section>
+<section class="section contact" id="contacto">
+  <div class="wrap contact-grid">
+    <div class="contact-copy reveal">
+      <p class="eyebrow">Contacto</p>
+      <h2>Tu próximo capítulo puede empezar aquí.</h2>
+      <p>Cuéntanos qué estás buscando o qué proyecto tienes en mente. Escucharemos tus ideas y te orientaremos sobre cómo podemos ayudarte.</p>
 
-<section class="section" id="contacto">
-  <div class="wrap">
-    <p class="eyebrow">Empecemos</p>
-    <h2>¿Buscamos tu <em>refugio?</em></h2>
-    <p class="lede">Cuéntanos cómo es tu hogar ideal. Te respondemos en 24 horas, sin compromiso.</p>
-
-    <div class="wizard" data-formspree="https://formspree.io/f/TU_ID_FORMSPREE" data-error-msg="No hemos podido enviar el formulario. Inténtalo de nuevo o escríbenos a hello@findyourhaven.com.">
-      <div class="wizard-body">
-        <div class="wizard-progress"><div class="wizard-progress-bar"></div></div>
-        <p class="wizard-stepcount">Paso <span data-cur>1</span> de <span data-total>5</span></p>
-
-        <div class="wizard-step" data-step="1">
-          <h3>¿Qué zona te interesa?</h3>
-          <p class="step-hint">Puedes elegir varias, o marcar "aún no lo sé" si quieres que te orientemos.</p>
-          <div class="choice-grid" data-name="Zona de interés" data-multi="true">
-            <button type="button" class="choice-chip" data-value="Costa Brava">Costa Brava</button>
-            <button type="button" class="choice-chip" data-value="Costa Barcelona-Maresme">Costa Barcelona-Maresme</button>
-            <button type="button" class="choice-chip" data-value="Costa Daurada">Costa Daurada</button>
-            <button type="button" class="choice-chip" data-value="Aún no lo sé">Aún no lo sé</button>
-          </div>
+      <form class="contact-form" action="https://formspree.io/f/TU_ID_FORMSPREE" method="POST" data-contact-form data-error-msg="No hemos podido enviar el mensaje. Inténtalo de nuevo o escríbenos a hello@findyourhaven.com.">
+        <input type="hidden" name="_subject" value="Nueva consulta desde la web (ES)">
+        <input type="hidden" name="Idioma" value="ES">
+        <div class="hp-field" aria-hidden="true"><label>No rellenar <input type="text" name="_gotcha" tabindex="-1" autocomplete="off"></label></div>
+        <div class="field"><label for="c-name">Nombre</label><input id="c-name" type="text" name="Nombre" autocomplete="name" required></div>
+        <div class="field"><label for="c-email">Correo electrónico</label><input id="c-email" type="email" name="Email" autocomplete="email" required></div>
+        <div class="field"><label for="c-phone">Teléfono <small>(opcional)</small></label><input id="c-phone" type="tel" name="Teléfono" autocomplete="tel"></div>
+        <div class="field"><label for="c-topic">¿En qué podemos ayudarte?</label>
+          <select id="c-topic" name="Consulta" required>
+            <option value="" selected disabled>Elige una opción</option>
+            <option>Comprar una vivienda</option>
+            <option>Reformar o rehabilitar</option>
+            <option>Interiorismo</option>
+            <option>Gestión de mi vivienda</option>
+            <option>Otra consulta</option>
+          </select>
         </div>
-
-        <div class="wizard-step" data-step="2" hidden>
-          <h3>¿Qué tipo de inmueble buscas?</h3>
-          <div class="choice-grid" data-name="Tipo de inmueble" data-multi="false">
-            <button type="button" class="choice-chip" data-value="Villa con jardín">Villa con jardín</button>
-            <button type="button" class="choice-chip" data-value="Masía para reformar">Masía para reformar</button>
-            <button type="button" class="choice-chip" data-value="Casa de pueblo">Casa de pueblo</button>
-            <button type="button" class="choice-chip" data-value="Ático / apartamento">Ático / apartamento</button>
-            <button type="button" class="choice-chip" data-value="Aún no lo sé">Aún no lo sé</button>
-          </div>
+        <div class="field field--full"><label for="c-msg">Mensaje</label><textarea id="c-msg" name="Mensaje" rows="5" required></textarea></div>
+        <p class="form-consent">Al enviar este formulario, aceptas que contactemos contigo para responder a tu consulta. Consulta nuestra <a href="{{ '/es/privacidad/' | relative_url }}">Política de privacidad</a> para obtener más información.</p>
+        <div class="form-actions">
+          <button class="btn btn-dark" type="submit" data-sending-label="Enviando…">Enviar consulta <span class="arr" aria-hidden="true">→</span></button>
+          <p class="form-error" role="alert" hidden></p>
         </div>
-
-        <div class="wizard-step" data-step="3" hidden>
-          <h3>¿Cuál es tu presupuesto orientativo?</h3>
-          <p class="step-hint">Incluyendo inmueble; la reforma la afinamos más adelante si aplica.</p>
-          <div class="choice-grid" data-name="Presupuesto" data-multi="false">
-            <button type="button" class="choice-chip" data-value="300k – 500k €">300k – 500k €</button>
-            <button type="button" class="choice-chip" data-value="500k – 800k €">500k – 800k €</button>
-            <button type="button" class="choice-chip" data-value="800k – 1,5M €">800k – 1,5M €</button>
-            <button type="button" class="choice-chip" data-value="1,5M € +">1,5M € +</button>
-          </div>
-        </div>
-
-        <div class="wizard-step" data-step="4" hidden>
-          <h3>¿Contemplas hacer reforma?</h3>
-          <div class="choice-grid" data-name="Reforma" data-multi="false">
-            <button type="button" class="choice-chip" data-value="Sí, integral">Sí, integral</button>
-            <button type="button" class="choice-chip" data-value="Sí, algo puntual">Sí, algo puntual</button>
-            <button type="button" class="choice-chip" data-value="Prefiero que esté ya reformada">Prefiero que esté ya reformada</button>
-            <button type="button" class="choice-chip" data-value="Aún no lo sé">Aún no lo sé</button>
-          </div>
-          <h3 class="mt-lg">¿En qué plazo te gustaría avanzar?</h3>
-          <div class="choice-grid" data-name="Plazo" data-multi="false">
-            <button type="button" class="choice-chip" data-value="Menos de 6 meses">Menos de 6 meses</button>
-            <button type="button" class="choice-chip" data-value="6-12 meses">6-12 meses</button>
-            <button type="button" class="choice-chip" data-value="Más de 12 meses / explorando">Más de 12 meses / explorando</button>
-          </div>
-        </div>
-
-        <div class="wizard-step" data-step="5" hidden>
-          <h3>Por último, ¿cómo te contactamos?</h3>
-          <div class="wizard-field">
-            <label for="fyh-name">Nombre</label>
-            <input type="text" id="fyh-name" name="Nombre" required>
-          </div>
-          <div class="wizard-field">
-            <label for="fyh-email">Email</label>
-            <input type="email" id="fyh-email" name="Email" required>
-          </div>
-          <div class="wizard-field">
-            <label for="fyh-phone">Teléfono (opcional, con prefijo)</label>
-            <input type="tel" id="fyh-phone" name="Teléfono">
-          </div>
-          <label class="wizard-consent">
-            <input type="checkbox" name="Consentimiento" required>
-            <span>Acepto que Find Your Haven me contacte para responder a esta consulta (<a href="{{ '/es/privacidad/' | relative_url }}" style="text-decoration:underline;">política de privacidad</a>).</span>
-          </label>
-        </div>
-      </div>
-
-      <div class="wizard-nav">
-        <button type="button" class="wizard-back">← Atrás</button>
-        <button type="button" class="wizard-next" data-next-label="Siguiente →" data-submit-label="Solicitar mi Informe Preliminar →" data-sending-label="Enviando…">Siguiente →</button>
-      </div>
-
-      <div class="wizard-success" hidden>
-        <div class="mark">✓</div>
-        <h3>¡Recibido!</h3>
-        <p>En menos de 72 horas te enviaremos tu Informe Preliminar por email. Si tienes prisa, escríbenos a <a href="mailto:hello@findyourhaven.com" style="text-decoration:underline;">hello@findyourhaven.com</a>.</p>
+      </form>
+      <div class="form-success" role="status" tabindex="-1" hidden>
+        <h3>Gracias por escribirnos.</h3>
+        <p>Hemos recibido tu mensaje y nos pondremos en contacto contigo pronto.</p>
       </div>
     </div>
+    <figure class="contact-photo reveal">
+      <img src="{{ '/assets/img/home/contacto.jpg' | relative_url }}" alt="Terraza de piedra con un olivo frente al mar" width="695" height="1010" loading="lazy" decoding="async">
+    </figure>
   </div>
 </section>

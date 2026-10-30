@@ -240,7 +240,7 @@ document.addEventListener('DOMContentLoaded', function () {
     cta = document.createElement('a');
     cta.className = 'float-cta';
     cta.href = src.getAttribute('href');
-    cta.textContent = src.textContent.trim();
+    cta.textContent = src.getAttribute('data-float-label') || src.textContent.trim();
     document.body.appendChild(cta);
   }
   var ticking = false;
