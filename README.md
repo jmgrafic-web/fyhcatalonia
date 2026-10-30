@@ -19,13 +19,21 @@ index.html            página raíz: selector de idioma + redirección automáti
 ARTICLES-GUIA.md      cómo añadir un artículo nuevo — léelo antes de publicar el primero
 ```
 
-## Identidad visual (colores y tipografía)
+## Identidad visual (colores y tipografía) — v6
 
-- **Azul corporativo: `#405C70`** (el del imagotipo y el dossier de colaboradores). Está en `assets/css/main.css`
-  como `--med`; de él salen `--med-deep` (#22333F, bloques oscuros y menú móvil) y `--med-light` (#6D94B0).
-  Al cambiar esas tres líneas cambia el azul de toda la web. Los valores anteriores (#2B5F7A / #163B4E / #4A8BA8)
-  quedan anotados en un comentario justo debajo, por si hay que volver atrás.
-- Tipografía: Cormorant Garamond (títulos) y DM Sans (texto). Acento cálido: `--accent` #C4956A.
+Sigue el documento «Presentación visual de la web». Todo está en `assets/css/main.css`, al principio (`:root`):
+
+| Color | Uso | Valor | Variable |
+|---|---|---|---|
+| Marfil cálido | Fondos principales | `#F5F1E8` | `--ivory` |
+| Azul pizarra | Titulares, navegación y botones | `#20384A` | `--ink` / `--med` |
+| Terracota | CTA secundarios, numeración y detalles | `#B85F42` | `--accent` |
+| Gris piedra | Texto secundario y separadores | `#65717A` | `--stone` |
+
+- Tipografía: Cormorant Garamond (titulares, serif) y DM Sans (lectura e interfaz).
+- Cabecera siempre clara (marfil) con el botón «Contacto» en azul pizarra, en todas las páginas.
+- Sin iconos decorativos ni tarjetas en arco: numeración en terracota, separadores finos y fotografía.
+- Los valores de la v5 quedan anotados en un comentario en `:root`, por si hay que volver atrás.
 - La **página raíz** (`index.html`, selector de idioma) usa ahora la misma foto, imagotipo y tipografías que la web.
   El navegador entra directo al primer idioma preferido del usuario que esté disponible (EN, ES, NL, FR).
 - **Página 404** de marca (`404.html`), en los 4 idiomas y marcada como `noindex`.
@@ -54,8 +62,8 @@ por los controles y no cambian solas si el usuario tiene activado "reducir movim
 - Para cambiar la velocidad: `data-interval="10000"` (milisegundos) en `<section class="hero">`.
 - Para añadir una tercera imagen: copia un bloque `<div class="hero-slide">…</div>` dentro de
   `.hero-bg` en los 4 `index.html`. Los indicadores y flechas se ajustan solos.
-- Si una imagen es muy clara (como la del mar), añade la clase `hero-slide--light` a su
-  diapositiva: aplica un velo azul más firme para que el texto blanco se lea.
+- El texto del hero es azul pizarra sobre un velo marfil (a la izquierda en escritorio, abajo en
+  móvil), así se lee bien sea cual sea la foto.
 
 ## SEO: cómo está montado
 
@@ -102,24 +110,17 @@ Cada `git push` a la rama principal reconstruye el sitio entero automáticamente
 
 El sitio tiene **dos formularios**, ambos por Formspree (gratis, sin backend propio):
 
-### 1. Formulario principal — "Solicita tu Informe Preliminar" (en la sección de contacto de cada home)
-Es la vía principal de captación: un asistente interactivo de 5 pasos (zona, tipo de inmueble,
-presupuesto, reforma y plazo, y datos de contacto) que termina en "En menos de 72h te enviaremos
-tu Informe Preliminar". El envío del dossier en sí (con los inmuebles off-market, análisis de zona
-y pre-propuesta) lo prepara el equipo de FYH manualmente a partir de las respuestas — este
-formulario solo captura el brief de forma ágil y lo manda por email.
+### 1. Formulario de contacto (sección «Contacto» de cada home)
+Formulario mínimo y sin presión comercial: nombre, correo electrónico, teléfono (opcional),
+«¿En qué podemos ayudarte?» (desplegable) y mensaje, con el botón «Enviar consulta». Se envía con
+JavaScript (`assets/js/contact.js`) sin recargar la página y muestra el mensaje de confirmación
+(«Gracias por escribirnos…»). Sin JavaScript se envía igualmente de forma normal a Formspree.
+Incluye un campo trampa (`_gotcha`) contra spam.
 
-Para activarlo:
-1. Crea una cuenta gratuita en [formspree.io](https://formspree.io) y un formulario nuevo (uno para
-   este uso, o reutiliza el mismo en las 4 versiones si prefieres verlo todo en un solo sitio).
-2. Copia su endpoint (`https://formspree.io/f/xxxxxxxx`).
-3. Sustitúyelo en el atributo `data-formspree="..."` del `<div class="wizard">` en
-   `en/index.html`, `es/index.html`, `nl/index.html` y `fr/index.html`.
-
-El formulario envía vía JavaScript (fetch), sin recargar la página, y muestra el mensaje de
-confirmación en el sitio. Las respuestas te llegan por email de Formspree con todas las
-respuestas del brief ya legibles (zona, presupuesto, etc.), listas para que el equipo prepare el
-Informe Preliminar.
+Para activarlo: crea un formulario en [formspree.io](https://formspree.io) y pon su endpoint en el
+atributo `action` del `<form class="contact-form">` de `es/`, `en/`, `nl/` y `fr/index.html`
+(ahora pone `TU_ID_FORMSPREE` / `YOUR_FORMSPREE_ID`). Cada envío llega con el asunto
+«Nueva consulta desde la web (ES/EN/NL/FR)» y el idioma de la página.
 
 ### 2. Guía gratuita — lead magnet ("Comprar en la Costa Brava 2026")
 Hay un PDF por idioma (`assets/downloads/`): `guia-costa-brava-2026.pdf` (ES), `costa-brava-buying-guide-2026.pdf` (EN),
@@ -146,8 +147,8 @@ Esa carpeta empieza por `_`, así que Jekyll no la publica.
 
 ### Antes de lanzar
 - Antes de recoger datos personales de verdad (nombre, email, teléfono) en producción, conviene
-  tener una política de privacidad enlazada desde el aviso de consentimiento del wizard — de
-  momento el texto es genérico y no enlaza a ninguna página legal.
+  validar la política de privacidad y el texto de consentimiento del formulario (ya enlaza a la
+  política de cada idioma; el texto es orientativo, como indica el documento de textos).
 - El endpoint de Formspree en el plan gratuito tiene un límite mensual de envíos; revisa el plan
   si esperas mucho volumen.
 
@@ -182,13 +183,35 @@ Lee **ARTICLES-GUIA.md**: explica el encabezado de cada artículo (incluido el b
 y las 3 "lecturas relacionadas"), cómo enlazar entre artículos y a la home, y qué hace el sitio automáticamente
 (migas de pan, datos estructurados, columna "Guías" del pie, sitemap). Hoy hay 96 artículos: 24 por idioma.
 
-## Home (textos v5)
+## Home (v6 — «Nova proposta» de textos + propuesta visual)
 
-La home sigue `FindYourHaven_Textos_Web_v5`: hero + franja de confianza, Nuestro modelo (esquema), 7 servicios en lista numerada, 4 pasos, Revista (3 guías «Empieza aquí» + 3 últimas + temas), guía gratuita y contacto. Los textos de cada idioma están en `{es,en,nl,fr}/index.html`.
+Secciones, en este orden: hero (titular, subtítulo, texto y dos llamadas) + tres argumentos
+(un solo interlocutor · sin coste para ti · profesionales de confianza), Nuestro modelo (Tú → Find
+Your Haven → Nuestros partners), Servicios (7, lista numerada con flecha a más información y foto
+lateral), Cómo trabajamos (4 pasos con foto), Revista (pestañas por tema, 3 artículos por pestaña,
+generadas solas desde `_articles/`; include `_includes/home-magazine.html`), guía gratuita y Contacto.
+**No** hay sección de inmuebles destacados (así lo indica el documento de textos).
+Los textos de cada idioma están en `{es,en,nl,fr}/index.html`.
+
+### Fotografías provisionales — sustituir antes de publicar
+Las fotos de la portada (`assets/img/home/`) son recortes ampliados de los mockups conceptuales de la
+propuesta visual, que el propio documento indica sustituir por fotografía final. Basta con reemplazar
+cada archivo por otro con el **mismo nombre** (JPG, calidad ~80):
+
+| Archivo | Dónde sale | Formato recomendado |
+|---|---|---|
+| `nuestro-modelo.jpg` | Nuestro modelo (interior cálido) | vertical, ≥ 1000 × 1800 px |
+| `servicios.jpg` | Servicios, foto lateral | vertical, ≥ 1000 × 1650 px |
+| `paso-01.jpg` … `paso-04.jpg` | Cómo trabajamos | 4:3, ≥ 900 × 675 px |
+| `contacto.jpg` | Contacto (solo escritorio) | vertical, ≥ 1000 × 1450 px |
+
+El hero sigue usando las imágenes de `assets/img/hero/` (y la segunda diapositiva del carrusel).
 
 ## Antes de publicar (lista de comprobación)
 
-1. **Formspree:** crear el formulario en formspree.io y sustituir `TU_ID_FORMSPREE` / `YOUR_FORMSPREE_ID` por el ID real en los 4 `index.html`, los 4 `blog/index.html` y las páginas de gracias (búsqueda global en el repo).
-2. **Datos legales:** la política de privacidad (`/es/privacidad/`, `/en/privacy/`, `/nl/privacy/`, `/fr/confidentialite/`) identifica al responsable solo por nombre comercial y email. Si Find Your Haven opera como sociedad o autónoma, añadir razón social, NIF y domicilio (exigido por la LSSI) y revisarla con un asesor.
-3. **Subir al repo `jmgrafic-web/fyhcatalonia`** y activar GitHub Pages (rama `main`, carpeta raíz).
-4. Tras publicar: probar el formulario, la descarga de la guía, el cambio de idioma y validar los datos estructurados en search.google.com/test/rich-results; enviar `sitemap.xml` en Search Console.
+1. **Formspree:** crear el formulario en formspree.io y sustituir `TU_ID_FORMSPREE` / `YOUR_FORMSPREE_ID` por el ID real en los 4 `index.html` (formulario de contacto y guía) y los 4 `blog/index.html` (búsqueda global en el repo).
+2. **Validar dos textos (lo pide el documento de textos):** la frase «Nuestro servicio de acompañamiento no tiene coste para ti» (y el argumento «Sin coste para ti» bajo el hero) debe describir bien el modelo comercial, y el texto legal del formulario debe revisarse antes de publicar.
+3. **Fotografía final** de la portada (ver «Fotografías provisionales»).
+4. **Datos legales:** la política de privacidad (`/es/privacidad/`, `/en/privacy/`, `/nl/privacy/`, `/fr/confidentialite/`) identifica al responsable solo por nombre comercial y email. Si Find Your Haven opera como sociedad o autónoma, añadir razón social, NIF y domicilio (exigido por la LSSI) y revisarla con un asesor.
+5. **Subir al repo `jmgrafic-web/fyhcatalonia`** y activar GitHub Pages (rama `main`, carpeta raíz).
+6. Tras publicar: probar el formulario, la descarga de la guía, el cambio de idioma y validar los datos estructurados en search.google.com/test/rich-results; enviar `sitemap.xml` en Search Console.
