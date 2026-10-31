@@ -22,9 +22,9 @@
 {% endif %}
 {% if page.hero_slider %}
 <!-- Precarga de la primera imagen del hero (la que se ve al entrar), según dispositivo -->
-<link rel="preload" as="image" type="image/webp" fetchpriority="high" href="{{ '/assets/img/hero/hero-sea-mobile.webp' | relative_url }}" media="(max-width: 640px) and (orientation: portrait)">
-<link rel="preload" as="image" type="image/webp" fetchpriority="high" href="{{ '/assets/img/hero/hero-sea-tablet.webp' | relative_url }}" media="(min-width: 641px) and (max-width: 1100px) and (orientation: portrait)">
-<link rel="preload" as="image" type="image/webp" fetchpriority="high" href="{{ '/assets/img/hero/hero-sea-desktop.webp' | relative_url }}" media="(orientation: landscape), (min-width: 1101px)">
+<link rel="preload" as="image" type="image/webp" fetchpriority="high" href="{{ '/assets/img/hero/hero-terraza-mobile.webp' | relative_url }}" media="(max-width: 760px)">
+<link rel="preload" as="image" type="image/webp" fetchpriority="high" href="{{ '/assets/img/hero/hero-terraza-tablet.webp' | relative_url }}" media="(min-width: 761px) and (max-width: 1100px) and (orientation: portrait)">
+<link rel="preload" as="image" type="image/webp" fetchpriority="high" href="{{ '/assets/img/hero/hero-terraza-desktop.webp' | relative_url }}" media="(min-width: 761px) and (orientation: landscape), (min-width: 1101px)">
 {% endif %}
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
