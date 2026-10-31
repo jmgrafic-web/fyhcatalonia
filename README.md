@@ -49,21 +49,20 @@ se ve en la cabecera; la grande se carga solo en pantallas de muy alta densidad.
 Los favicons (`favicon-32.png`, `favicon-192.png`, `apple-touch-icon.png`) están hechos con ese
 mismo imagotipo sobre fondo blanco cálido, para que se vean bien también en pestañas oscuras.
 
-## Carrusel de imágenes del hero (portada)
+## Imagen del hero (portada)
 
-La portada de cada idioma alterna dos imágenes de fondo: primero la del mar desde la terraza
-(la de la marca) y después la cala de la Costa Brava. Cambian solas cada 10 segundos, o cuando
-el usuario pulsa las flechas, los indicadores o desliza el dedo; se pausan al pasar el ratón
-por los controles y no cambian solas si el usuario tiene activado "reducir movimiento".
+La portada usa la foto de la terraza con piscina (`assets/img/hero/`), en tres encuadres que el
+navegador elige solo:
 
-- La imagen del mar tiene una versión por dispositivo (`assets/img/hero/`): escritorio (16:9),
-  tablet vertical (3:4) y móvil vertical (9:16), cada una en WebP y JPG. El navegador elige la
-  que corresponde; en horizontal (incluido un móvil girado) usa la de escritorio.
-- Para cambiar la velocidad: `data-interval="10000"` (milisegundos) en `<section class="hero">`.
-- Para añadir una tercera imagen: copia un bloque `<div class="hero-slide">…</div>` dentro de
-  `.hero-bg` en los 4 `index.html`. Los indicadores y flechas se ajustan solos.
-- El texto del hero es azul pizarra sobre un velo marfil (a la izquierda en escritorio, abajo en
-  móvil), así se lee bien sea cual sea la foto.
+- **Escritorio** (`hero-terraza-desktop`, 16:9): foto a todo el ancho; el texto va a la izquierda
+  sobre un velo marfil, en azul pizarra.
+- **Tablet en vertical** (`hero-terraza-tablet`, 3:4) y **móvil** (`hero-terraza-mobile`, 4:5):
+  encuadre centrado en la casa y el mar (columna de piedra, piscina, cala). La foto va arriba y el
+  texto debajo, sobre marfil, para que la imagen se vea entera y el texto se lea bien.
+
+Cada encuadre está en WebP y JPG. Para cambiar la foto, sustituye los tres archivos manteniendo los
+nombres. El carrusel sigue disponible: si añades otro bloque `<div class="hero-slide">…</div>`
+dentro de `.hero-bg` en los 4 `index.html`, aparecen solas las flechas y los indicadores.
 
 ## SEO: cómo está montado
 
@@ -171,7 +170,7 @@ en GitHub Pages y revisar los cambios ahí, como comentabas que harías.
 - [ ] Activar los dos formularios con Formspree (ver sección "Formularios" arriba).
 - [ ] Sustituir el email `hello@findyourhaven.com` si el definitivo es otro
       (aparece en el pie de página y en las 4 páginas de inicio).
-- [x] Imagen para compartir en redes (`assets/img/og-cover.jpg`, 1200×630): ya creada a partir de la foto del mar.
+- [x] Imagen para compartir en redes (`assets/img/og-cover.jpg`, 1200×630): creada a partir de la foto del hero (terraza con piscina).
 - [ ] Revisar los textos legales (política de privacidad, cookies) antes de recoger datos
       reales a través de los formularios.
 
@@ -193,25 +192,23 @@ generadas solas desde `_articles/`; include `_includes/home-magazine.html`), gu�
 **No** hay sección de inmuebles destacados (así lo indica el documento de textos).
 Los textos de cada idioma están en `{es,en,nl,fr}/index.html`.
 
-### Fotografías provisionales — sustituir antes de publicar
-Las fotos de la portada (`assets/img/home/`) son recortes ampliados de los mockups conceptuales de la
-propuesta visual, que el propio documento indica sustituir por fotografía final. Basta con reemplazar
-cada archivo por otro con el **mismo nombre** (JPG, calidad ~80):
+### Fotografías de la portada (`assets/img/home/`)
 
-| Archivo | Dónde sale | Formato recomendado |
-|---|---|---|
-| `nuestro-modelo.jpg` | Nuestro modelo (interior cálido) | vertical, ≥ 1000 × 1800 px |
-| `servicios.jpg` | Servicios, foto lateral | vertical, ≥ 1000 × 1650 px |
-| `paso-01.jpg` … `paso-04.jpg` | Cómo trabajamos | 4:3, ≥ 900 × 675 px |
-| `contacto.jpg` | Contacto (solo escritorio) | vertical, ≥ 1000 × 1450 px |
+| Archivo | Dónde sale |
+|---|---|
+| `nuestro-modelo.jpg` | Nuestro modelo (salón abierto al mar) |
+| `servicios.jpg` | Servicios, foto lateral (casa de piedra entre olivos) |
+| `paso-01.jpg` … `paso-04.jpg` | Cómo trabajamos (salón, comedor, dormitorio, baño) |
+| `contacto.jpg` | Contacto, solo en escritorio (casa con buganvilla) |
 
-El hero sigue usando las imágenes de `assets/img/hero/` (y la segunda diapositiva del carrusel).
+Las fotos se recortan solas según el hueco. El punto de encuadre de las verticales se ajusta en
+`main.css` con `object-position` (`.model-photo img`, `.svc-photo img`, `.contact-photo img`).
+La imagen para compartir en redes (`assets/img/og-cover.jpg`) también sale de la foto del hero.
 
 ## Antes de publicar (lista de comprobación)
 
 1. **Formspree:** crear el formulario en formspree.io y sustituir `TU_ID_FORMSPREE` / `YOUR_FORMSPREE_ID` por el ID real en los 4 `index.html` (formulario de contacto y guía) y los 4 `blog/index.html` (búsqueda global en el repo).
 2. **Validar dos textos (lo pide el documento de textos):** la frase «Nuestro servicio de acompañamiento no tiene coste para ti» (y el argumento «Sin coste para ti» bajo el hero) debe describir bien el modelo comercial, y el texto legal del formulario debe revisarse antes de publicar.
-3. **Fotografía final** de la portada (ver «Fotografías provisionales»).
-4. **Datos legales:** la política de privacidad (`/es/privacidad/`, `/en/privacy/`, `/nl/privacy/`, `/fr/confidentialite/`) identifica al responsable solo por nombre comercial y email. Si Find Your Haven opera como sociedad o autónoma, añadir razón social, NIF y domicilio (exigido por la LSSI) y revisarla con un asesor.
-5. **Subir al repo `jmgrafic-web/fyhcatalonia`** y activar GitHub Pages (rama `main`, carpeta raíz).
-6. Tras publicar: probar el formulario, la descarga de la guía, el cambio de idioma y validar los datos estructurados en search.google.com/test/rich-results; enviar `sitemap.xml` en Search Console.
+3. **Datos legales:** la política de privacidad (`/es/privacidad/`, `/en/privacy/`, `/nl/privacy/`, `/fr/confidentialite/`) identifica al responsable solo por nombre comercial y email. Si Find Your Haven opera como sociedad o autónoma, añadir razón social, NIF y domicilio (exigido por la LSSI) y revisarla con un asesor.
+4. **Subir al repo `jmgrafic-web/fyhcatalonia`** y activar GitHub Pages (rama `main`, carpeta raíz).
+5. Tras publicar: probar el formulario, la descarga de la guía, el cambio de idioma y validar los datos estructurados en search.google.com/test/rich-results; enviar `sitemap.xml` en Search Console.
