@@ -121,6 +121,12 @@ atributo `action` del `<form class="contact-form">` de `es/`, `en/`, `nl/` y `fr
 (ahora pone `TU_ID_FORMSPREE` / `YOUR_FORMSPREE_ID`). Cada envío llega con el asunto
 «Nueva consulta desde la web (ES/EN/NL/FR)» y el idioma de la página.
 
+### 1b. Formulario de partners (sección «Partners», justo antes del pie)
+Para profesionales que quieren colaborar: nombre, empresa o estudio, email, especialidad y un
+mensaje opcional. Funciona igual que el de contacto (`data-contact-form`); llega con el asunto
+«Nueva solicitud de partner (ES/EN/NL/FR)» y el campo `Tipo: Partner`. Usa el mismo endpoint
+de Formspree (o uno propio si prefieres separarlos).
+
 ### 2. Guía gratuita — lead magnet ("Comprar en la Costa Brava 2026")
 Hay un PDF por idioma (`assets/downloads/`): `guia-costa-brava-2026.pdf` (ES), `costa-brava-buying-guide-2026.pdf` (EN),
 `costa-brava-koopgids-2026.pdf` (NL) y `guide-achat-costa-brava-2026.pdf` (FR). Se entregan a quien deja su email en
@@ -186,9 +192,9 @@ y las 3 "lecturas relacionadas"), cómo enlazar entre artículos y a la home, y 
 
 Secciones, en este orden: hero (titular, subtítulo, texto y dos llamadas) + tres argumentos
 (un solo interlocutor · sin coste para ti · profesionales de confianza), Nuestro modelo (Tú → Find
-Your Haven → Nuestros partners), Servicios (7, lista numerada con flecha a más información y foto
+Your Haven → Nuestros partners), Servicios (6, lista numerada con flecha a más información y foto
 lateral), Cómo trabajamos (4 pasos con foto), Revista (pestañas por tema, 3 artículos por pestaña,
-generadas solas desde `_articles/`; include `_includes/home-magazine.html`), guía gratuita y Contacto.
+generadas solas desde `_articles/`; include `_includes/home-magazine.html`), guía gratuita, Contacto y Partners.
 **No** hay sección de inmuebles destacados (así lo indica el documento de textos).
 Los textos de cada idioma están en `{es,en,nl,fr}/index.html`.
 
@@ -205,10 +211,20 @@ Las fotos se recortan solas según el hueco. El punto de encuadre de las vertica
 `main.css` con `object-position` (`.model-photo img`, `.svc-photo img`, `.contact-photo img`).
 La imagen para compartir en redes (`assets/img/og-cover.jpg`) también sale de la foto del hero.
 
+## Páginas legales
+
+En los 4 idiomas, enlazadas desde el pie: **Aviso legal** (`/es/aviso-legal/`, `/en/legal-notice/`,
+`/nl/juridische-informatie/`, `/fr/mentions-legales/`), **Política de privacidad** y **Política de
+cookies** (`/{idioma}/cookies/`). La de cookies dice que ahora no se instala ninguna; si se añade
+analítica (p. ej. Google Analytics), hay que poner un banner de consentimiento y completar la tabla.
+En el aviso legal, los datos del titular que faltan salen marcados en terracota entre corchetes
+(`<span class="todo">`): razón social, NIF, domicilio, datos registrales y, si procede, el colegio
+profesional. Sustitúyelos por el texto real (y quita el `span`).
+
 ## Antes de publicar (lista de comprobación)
 
 1. **Formspree:** crear el formulario en formspree.io y sustituir `TU_ID_FORMSPREE` / `YOUR_FORMSPREE_ID` por el ID real en los 4 `index.html` (formulario de contacto y guía) y los 4 `blog/index.html` (búsqueda global en el repo).
 2. **Validar dos textos (lo pide el documento de textos):** la frase «Nuestro servicio de acompañamiento no tiene coste para ti» (y el argumento «Sin coste para ti» bajo el hero) debe describir bien el modelo comercial, y el texto legal del formulario debe revisarse antes de publicar.
-3. **Datos legales:** la política de privacidad (`/es/privacidad/`, `/en/privacy/`, `/nl/privacy/`, `/fr/confidentialite/`) identifica al responsable solo por nombre comercial y email. Si Find Your Haven opera como sociedad o autónoma, añadir razón social, NIF y domicilio (exigido por la LSSI) y revisarla con un asesor.
+3. **Datos legales:** completar los campos entre corchetes del aviso legal (4 idiomas). La política de privacidad (`/es/privacidad/`, `/en/privacy/`, `/nl/privacy/`, `/fr/confidentialite/`) identifica al responsable solo por nombre comercial y email. Si Find Your Haven opera como sociedad o autónoma, añadir razón social, NIF y domicilio (exigido por la LSSI) y revisarla con un asesor.
 4. **Subir al repo `jmgrafic-web/fyhcatalonia`** y activar GitHub Pages (rama `main`, carpeta raíz).
 5. Tras publicar: probar el formulario, la descarga de la guía, el cambio de idioma y validar los datos estructurados en search.google.com/test/rich-results; enviar `sitemap.xml` en Search Console.
