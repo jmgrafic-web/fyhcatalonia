@@ -58,7 +58,16 @@ layout: default
 
   <div class="section">
     <div class="wrap article-body">
+      {%- comment -%} Imagen interior: se coloca antes del segundo apartado (h2) del artículo {%- endcomment -%}
+      {%- capture fig -%}<figure class="article-figure"><img src="{{ page.image_inline }}" alt="{{ page.image_inline_alt }}" loading="lazy" decoding="async"><figcaption>{{ page.image_inline_alt }}</figcaption></figure>{%- endcapture -%}
+      {%- assign parts = content | split: '<h2' -%}
+      {%- if page.image_inline and parts.size > 2 -%}
+      {{ parts[0] }}<h2{{ parts[1] }}{{ fig }}{% for part in parts offset: 2 %}<h2{{ part }}{% endfor %}
+      {%- elsif page.image_inline -%}
+      {{ content }}{{ fig }}
+      {%- else -%}
       {{ content }}
+      {%- endif %}
 
       <div class="article-cta">
         <h3>{{ page.cta_title | default: t.cta_contact }}</h3>
