@@ -535,3 +535,27 @@ a.svc-row:hover .svc-go{ transform: translateX(4px); }
   .is-visible .flow-arrow{ transform: scaleX(1); }
 }
 h1,h2,.sec-head p{ text-wrap: balance; }
+
+/* ---- Partners (antes del pie) ---- */
+.partners{ background: var(--sand); }
+.partners-grid{ display:grid; grid-template-columns: minmax(0,1fr) minmax(0,1.15fr); gap: clamp(2.4rem, 6vw, 6rem); align-items:start; }
+.partners-copy > p:not(.eyebrow){ font-size:1.02rem; line-height:1.75; color: var(--stone-dark); max-width: 52ch; margin-top:1.2em; }
+.partners-points{ list-style:none; margin-top: 2rem; border-top:1px solid var(--line); max-width: 420px; }
+.partners-points li{ display:flex; align-items:baseline; gap:.9em; padding: .85em 0; border-bottom:1px solid var(--line); font-family: var(--font-display); font-size: 1.22rem; color: var(--ink); }
+.partners-points .n{ font-size:.9rem; color: var(--accent); letter-spacing:.06em; }
+.partners-box{ background: var(--paper); border:1px solid var(--line); padding: clamp(1.4rem, 3vw, 2.4rem); }
+.partners-box .contact-form{ margin-top:0; }
+.partners-box .form-success{ margin-top:0; border:none; border-left:3px solid var(--accent); padding: 1em 1.4em; }
+.partners .field textarea{ min-height: 96px; }
+@media (max-width: 960px){ .partners-grid{ grid-template-columns:1fr; } }
+
+/* ---- Páginas legales: listas, tablas y datos pendientes ---- */
+.legal-list{ list-style:none; margin: .8em 0 0; border-top:1px solid var(--line); }
+.legal-list li{ padding:.65em 0; border-bottom:1px solid var(--line); line-height:1.6; color: var(--stone-dark); }
+.legal-list strong{ color: var(--ink); font-weight:600; }
+.legal .todo{ background: rgba(184,95,66,.1); color: var(--accent-deep); padding: 0 .3em; }
+.legal-table{ width:100%; border-collapse:collapse; margin-top: 1em; font-size:.92rem; }
+.legal-table th, .legal-table td{ text-align:left; padding:.75em .8em .75em 0; border-bottom:1px solid var(--line); vertical-align:top; }
+.legal-table th{ font-size:.72rem; letter-spacing:.14em; text-transform:uppercase; color: var(--accent); font-weight:600; }
+.legal-table td{ color: var(--stone-dark); }
+.footer-legal{ display:inline-block; }

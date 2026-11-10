@@ -25,11 +25,12 @@
         <h4>{{ t.footer_contact }}</h4>
         <a href="mailto:hello@findyourhaven.com">hello@findyourhaven.com</a>
         <a href="{{ site.baseurl }}/{{ lang }}/#{{ t.a_contact }}">{{ t.cta_contact }}</a>
+        <a href="{{ site.baseurl }}/{{ lang }}/#{{ t.a_partners }}">{{ t.partners_label }}</a>
       </div>
     </div>
   </div>
   <div class="wrap footer-bottom">
     <span>© {{ site.time | date: "%Y" }} Find Your Haven. {{ t.footer_rights }}</span>
-    <span><a href="{{ t.privacy_url | relative_url }}">{{ t.privacy_label }}</a> &nbsp;·&nbsp; Mediterranean Coast · Catalonia</span>
+    <span class="footer-legal"><a href="{{ t.legal_url | relative_url }}">{{ t.legal_label }}</a> &nbsp;·&nbsp; <a href="{{ t.privacy_url | relative_url }}">{{ t.privacy_label }}</a> &nbsp;·&nbsp; <a href="{{ t.cookies_url | relative_url }}">{{ t.cookies_label }}</a> &nbsp;·&nbsp; Mediterranean Coast · Catalonia</span>
   </div>
 </footer>
