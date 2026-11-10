@@ -13,13 +13,15 @@ translations:
   en: /en/blog/nie-number-buying-property-spain-step-by-step/
   nl: /nl/blog/nie-nummer-huis-kopen-spanje-stappenplan/
   fr: /fr/blog/nie-acheter-bien-espagne-etape-par-etape/
-image: "https://images.unsplash.com/photo-1664463760781-f159dfe3af30?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1564846824194-346b7871b855?auto=format&fit=crop&w=1800&q=75"
 cta_body: "We coordinate your NIE with your lawyer or administrator so it doesn't delay your purchase."
 related:
   - /en/blog/spanish-bank-account-non-resident/
   - /en/blog/buying-property-costa-brava-foreigner-guide/
   - /en/blog/spanish-notary-completion-day/
 start_here: true
+image_inline: "https://images.unsplash.com/photo-1768055104910-8c8d213835fb?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Checklist of paperwork in a notebook"
 ---
 
 The NIE is the first document any foreign buyer needs, and the one that delays the most purchases when it's left until the end. This guide explains what it is, how to get it and how to avoid the most common bottlenecks.

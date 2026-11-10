@@ -13,12 +13,14 @@ translations:
   en: /en/blog/farmhouse-or-new-build-villa/
   nl: /nl/blog/boerderij-of-nieuwbouwvilla/
   fr: /fr/blog/masia-ou-villa-neuve/
-image: "https://images.unsplash.com/photo-1557393120-d3ee552f3736?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Cuéntanos qué tipo de proyecto imaginas y te ayudamos a valorar si una masía o una obra nueva encajan mejor con lo que buscas."
 related:
   - /es/blog/comprar-masia-emporda-reformar/
   - /es/blog/cuanto-cuesta-reformar-casa-costa-catalana/
   - /es/blog/licencia-obras-cataluna-menor-mayor/
+image_inline: "https://images.unsplash.com/photo-1691345215365-b8d9742b6826?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Edificio de piedra con escalinata"
 ---
 
 Es una de las primeras decisiones, y de las más determinantes, que toma un comprador al empezar a buscar en la costa catalana: ¿restaurar algo con historia, o construir — o comprar ya construido — algo completamente nuevo? Ninguna opción es mejor en abstracto. Cada una exige un tipo de comprador distinto.

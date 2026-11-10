@@ -13,12 +13,14 @@ translations:
   en: /en/blog/spanish-bank-account-non-resident/
   nl: /nl/blog/spaanse-bankrekening-niet-ingezetene/
   fr: /fr/blog/compte-bancaire-espagne-non-resident/
-image: "https://images.unsplash.com/photo-1664463760781-f159dfe3af30?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1611125832047-1d7ad1e8e48f?auto=format&fit=crop&w=1800&q=75"
 cta_body: "We introduce you to banks used to working with foreign buyers."
 related:
   - /en/blog/nie-number-buying-property-spain-step-by-step/
   - /en/blog/mortgage-financing-foreigners-spain/
   - /en/blog/running-costs-holiday-home-costa-brava/
+image_inline: "https://images.unsplash.com/photo-1763729625610-f356196f587a?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Notes and paperwork beside a laptop"
 ---
 
 Buying a home without opening a bank account in Spain is possible, but almost nobody does it: property tax, community fees and utility bills are far easier to pay from a local account. This guide explains how to open one and what to look at.

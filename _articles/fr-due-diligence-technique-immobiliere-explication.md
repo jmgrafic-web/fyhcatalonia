@@ -16,13 +16,15 @@ translations:
 pillar: true
 pillar_order: 2
 footer_label: "Due diligence technique"
-image: "https://images.unsplash.com/photo-1763076470404-23554ef26747?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1772442198624-4fc4d7281e89?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Avant de signer un compromis sur un bien, parlons de ce qu'une inspection technique pourrait en révéler."
 related:
   - /fr/blog/acheter-maison-costa-brava-etranger-guide/
   - /fr/blog/erreurs-juridiques-achat-sans-avocat/
   - /fr/blog/certificat-habitabilite-catalogne/
 start_here: true
+image_inline: "https://images.unsplash.com/photo-1444419988131-046ed4e5ffd6?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Pièce aux murs humides et au sol abîmé"
 ---
 
 La plupart des acheteurs traitent l'inspection technique comme une étape facultative — quelque chose qu'on fait "si on a le temps", ou "si le vendeur n'y voit pas d'inconvénient". C'est probablement l'erreur la plus coûteuse que l'on puisse commettre en achetant un bien — surtout en achetant depuis un autre pays, sans connaissance directe des standards de construction locaux.

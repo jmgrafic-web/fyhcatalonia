@@ -13,12 +13,14 @@ translations:
   en: /en/blog/running-costs-holiday-home-costa-brava/
   nl: /nl/blog/kosten-onderhoud-tweede-woning-costa-brava-per-jaar/
   fr: /fr/blog/cout-annuel-entretien-maison-costa-brava/
-image: "https://images.unsplash.com/photo-1557393120-d3ee552f3736?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Nous vous aidons à calculer le coût annuel réel du bien que vous envisagez avant de faire une offre."
 related:
   - /fr/blog/location-vacances-catalogne-licence/
   - /fr/blog/impots-achat-immobilier-espagne-non-resident/
   - /fr/blog/vivre-toute-annee-costa-brava/
+image_inline: "https://images.unsplash.com/photo-1676311396794-f14881e9daaa?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Outils d’entretien sur une table"
 ---
 
 Le prix d'achat est le chiffre que tout le monde regarde ; le coût annuel de la détention est celui que l'on oublie. Il n'y a pas de chiffre unique — cela dépend de la valeur, de la taille, du jardin et de la piscine — mais il existe une liste fixe de postes qu'il vaut mieux additionner avant d'acheter.

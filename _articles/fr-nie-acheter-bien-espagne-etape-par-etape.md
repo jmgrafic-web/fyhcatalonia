@@ -13,13 +13,15 @@ translations:
   en: /en/blog/nie-number-buying-property-spain-step-by-step/
   nl: /nl/blog/nie-nummer-huis-kopen-spanje-stappenplan/
   fr: /fr/blog/nie-acheter-bien-espagne-etape-par-etape/
-image: "https://images.unsplash.com/photo-1664463760781-f159dfe3af30?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1564846824194-346b7871b855?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Nous coordonnons votre NIE avec votre avocat ou votre gestor pour qu'il ne retarde pas votre achat."
 related:
   - /fr/blog/compte-bancaire-espagne-non-resident/
   - /fr/blog/acheter-maison-costa-brava-etranger-guide/
   - /fr/blog/notaire-espagne-jour-de-la-signature/
 start_here: true
+image_inline: "https://images.unsplash.com/photo-1768055104910-8c8d213835fb?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Liste des démarches dans un carnet"
 ---
 
 Le NIE est le premier document dont tout acheteur étranger a besoin, et celui qui retarde le plus d'achats quand on le laisse pour la fin. Ce guide explique ce que c'est, comment l'obtenir et comment éviter les blocages les plus fréquents.

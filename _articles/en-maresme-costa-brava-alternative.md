@@ -13,12 +13,14 @@ translations:
   en: /en/blog/maresme-costa-brava-alternative/
   nl: /nl/blog/maresme-alternatief-costa-brava/
   fr: /fr/blog/maresme-alternative-costa-brava/
-image: "https://images.unsplash.com/photo-1734834442785-f2f10c0913f4?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1759941030224-6eef10acf141?auto=format&fit=crop&w=1800&q=75"
 cta_body: "If the Maresme catches your eye, we'll prepare a real selection of villages and homes with the same technical rigour."
 related:
   - /en/blog/sitges-or-costa-brava-comparison/
   - /en/blog/costa-daurada-buying-guide/
   - /en/blog/living-year-round-costa-brava/
+image_inline: "https://images.unsplash.com/photo-1511097344333-4e471f5664f2?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Harbour with white boats"
 ---
 
 For years, the Maresme has been the coast of the people of Barcelona: the one you ride out to by train on a Sunday and that few outsiders really know. Today it's one of the areas most worth a look if you want the sea without giving up Barcelona.

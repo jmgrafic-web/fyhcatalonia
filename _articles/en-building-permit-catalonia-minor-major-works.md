@@ -13,12 +13,14 @@ translations:
   en: /en/blog/building-permit-catalonia-minor-major-works/
   nl: /nl/blog/bouwvergunning-catalonie-kleine-grote-werken/
   fr: /fr/blog/permis-de-construire-catalogne-travaux-mineurs-majeurs/
-image: "https://images.unsplash.com/photo-1763076470404-23554ef26747?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1762146828422-50a8bd416d3c?auto=format&fit=crop&w=1800&q=75"
 cta_body: "We assess which permit your renovation needs before you buy the property."
 related:
   - /en/blog/renovation-cost-catalan-coast-guide/
   - /en/blog/buying-farmhouse-emporda-renovate-guide/
   - /en/blog/habitability-certificate-catalonia/
+image_inline: "https://images.unsplash.com/photo-1608303588026-884930af2559?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Reviewing project drawings"
 ---
 
 A well-budgeted renovation can fail for a reason that isn't in the budget: the permit. Knowing in advance which permit your works need, and how long it takes, is part of deciding whether a property is right for you.

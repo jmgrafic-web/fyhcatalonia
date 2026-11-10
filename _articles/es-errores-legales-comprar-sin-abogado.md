@@ -13,12 +13,14 @@ translations:
   en: /en/blog/legal-mistakes-buying-without-lawyer/
   nl: /nl/blog/juridische-fouten-kopen-zonder-advocaat/
   fr: /fr/blog/erreurs-juridiques-achat-sans-avocat/
-image: "https://images.unsplash.com/photo-1664463760781-f159dfe3af30?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Coordinamos la revisión legal de tu operación con un abogado especializado en compradores extranjeros, como parte del proceso."
 related:
   - /es/blog/notaria-espana-dia-de-la-firma/
   - /es/blog/cedula-de-habitabilidad-cataluna/
   - /es/blog/due-diligence-tecnica-inmobiliaria/
+image_inline: "https://images.unsplash.com/photo-1562564055-71e051d33c19?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Revisión de documentos antes de firmar"
 ---
 
 "El notario ya revisa que todo esté en orden, ¿no hace falta también un abogado?" Es una pregunta razonable, y la respuesta es no: el notario da fe del acto y verifica determinados aspectos formales, pero no defiende los intereses del comprador frente al vendedor, ni negocia en su nombre, ni detecta necesariamente todo lo que a un comprador le convendría saber antes de firmar. Esa función la cumple un abogado propio — y prescindir de él es, con diferencia, el ahorro más caro que hemos visto intentar a compradores extranjeros.

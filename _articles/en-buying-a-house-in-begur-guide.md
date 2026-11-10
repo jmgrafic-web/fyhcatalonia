@@ -13,12 +13,14 @@ translations:
   en: /en/blog/buying-a-house-in-begur-guide/
   nl: /nl/blog/huis-kopen-in-begur-gids/
   fr: /fr/blog/acheter-maison-a-begur-guide/
-image: "https://images.unsplash.com/photo-1702655358646-12a7b5be0bbe?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1778342840177-2f2c984e916d?auto=format&fit=crop&w=1800&q=75"
 cta_body: "If Begur interests you, we'll prepare a real selection of homes by area with a technical assessment."
 related:
   - /en/blog/cadaques-begur-llafranc-differences/
   - /en/blog/sitges-buying-guide-cosmopolitan-area/
   - /en/blog/living-year-round-costa-brava/
+image_inline: "https://images.unsplash.com/photo-1641492599677-eb904ad3dc75?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Cobbled street in an old village"
 ---
 
 Begur is one of the most sought-after towns on the Costa Brava, and also one of the most misunderstood: it isn't one place, but an old town, several coves and different developments with very different lives. This guide helps you understand what's in each area.

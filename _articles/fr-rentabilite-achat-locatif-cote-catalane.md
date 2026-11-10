@@ -13,12 +13,14 @@ translations:
   en: /en/blog/buy-to-let-profitability-catalan-coast/
   nl: /nl/blog/rendement-kopen-om-te-verhuren-catalaanse-kust/
   fr: /fr/blog/rentabilite-achat-locatif-cote-catalane/
-image: "https://images.unsplash.com/photo-1768321902290-54497eeb9cf6?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1564501049412-61c2a3083791?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Avant d'acheter à des fins d'investissement, nous pouvons vous aider à calculer une rentabilité réaliste pour le bien envisagé."
 related:
   - /fr/blog/location-vacances-catalogne-licence/
   - /fr/blog/cout-annuel-entretien-maison-costa-brava/
   - /fr/blog/costa-daurada-guide-achat/
+image_inline: "https://images.unsplash.com/photo-1736320011788-a95a11524fe0?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Porte-clés en forme de maison à côté de billets"
 ---
 
 Une partie des acheteurs internationaux avec qui nous travaillons ne cherche pas seulement une résidence secondaire : ils veulent que ce bien génère aussi des revenus lorsqu'ils ne l'utilisent pas. C'est un objectif légitime — mais les chiffres de rentabilité qui circulent sur les portails et dans les articles génériques reflètent rarement ce qu'un propriétaire empoche réellement en fin d'année.

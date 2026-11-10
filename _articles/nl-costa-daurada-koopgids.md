@@ -13,12 +13,14 @@ translations:
   en: /en/blog/costa-daurada-buying-guide/
   nl: /nl/blog/costa-daurada-koopgids/
   fr: /fr/blog/costa-daurada-guide-achat/
-image: "https://images.unsplash.com/photo-1630609977911-1e6c9d3c9147?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1600818767171-fde3f6e1d275?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Interesseert het zuiden van de Catalaanse kust je? Dan helpen we je specifieke plaatsen en gebouwen te vergelijken voordat je je vastlegt."
 related:
   - /nl/blog/maresme-alternatief-costa-brava/
   - /nl/blog/rendement-kopen-om-te-verhuren-catalaanse-kust/
   - /nl/blog/vakantieverhuur-catalonie-vergunning/
+image_inline: "https://images.unsplash.com/photo-1722520592113-1f681393cd8d?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Romeins amfitheater aan zee"
 ---
 
 De Costa Daurada is de Catalaanse kust die het vaakst buiten de eerste zoektochten van internationale kopers valt en, voor veel profielen, die met de beste verhouding tussen prijs en levenskwaliteit. Deze gids legt uit wat er werkelijk is.

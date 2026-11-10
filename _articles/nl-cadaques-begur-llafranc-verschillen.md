@@ -13,12 +13,14 @@ translations:
   en: /en/blog/cadaques-begur-llafranc-differences/
   nl: /nl/blog/cadaques-begur-llafranc-verschillen/
   fr: /fr/blog/cadaques-begur-llafranc-differences/
-image: "https://images.unsplash.com/photo-1557393120-d3ee552f3736?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1761659662634-61c24d7c045b?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Vertel ons wat je zoekt en we helpen je specifieke dorpen te vergelijken met een echte selectie woningen."
 related:
   - /nl/blog/huis-kopen-in-begur-gids/
   - /nl/blog/sitges-of-costa-brava-vergelijking/
   - /nl/blog/het-hele-jaar-wonen-costa-brava/
+image_inline: "https://images.unsplash.com/photo-1571278103921-ca18155162e2?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Witte bootjes voor anker langs de kust"
 ---
 
 "Costa Brava" is geen plek, het zijn tientallen dorpen met heel verschillende persoonlijkheden. Voor wie het gebied voor het eerst bezoekt, is het verschil tussen Cadaqués, Begur en Llafranc misschien niet meteen duidelijk uit de foto's. Voor wie er gaat kopen, is dat verschil alles.

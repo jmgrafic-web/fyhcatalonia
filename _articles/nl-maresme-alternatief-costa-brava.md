@@ -13,12 +13,14 @@ translations:
   en: /en/blog/maresme-costa-brava-alternative/
   nl: /nl/blog/maresme-alternatief-costa-brava/
   fr: /fr/blog/maresme-alternative-costa-brava/
-image: "https://images.unsplash.com/photo-1734834442785-f2f10c0913f4?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1759941030224-6eef10acf141?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Trekt de Maresme je aan? Dan stellen wij een echte selectie dorpen en woningen voor je samen, met dezelfde technische zorgvuldigheid."
 related:
   - /nl/blog/sitges-of-costa-brava-vergelijking/
   - /nl/blog/costa-daurada-koopgids/
   - /nl/blog/het-hele-jaar-wonen-costa-brava/
+image_inline: "https://images.unsplash.com/photo-1511097344333-4e471f5664f2?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Haven met witte boten"
 ---
 
 Jarenlang was de Maresme de kust van de Barcelonezen: die je op zondag met de trein bezoekt en die van buitenaf weinig bekend is. Vandaag is het een van de gebieden die de moeite van het bekijken waard zijn als je de zee wilt zonder Barcelona op te geven.

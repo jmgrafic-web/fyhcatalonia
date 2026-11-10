@@ -19,6 +19,8 @@ related:
   - /en/blog/legal-mistakes-buying-without-lawyer/
   - /en/blog/nie-number-buying-property-spain-step-by-step/
   - /en/blog/habitability-certificate-catalonia/
+image_inline: "https://images.unsplash.com/photo-1681505531034-8d67054e07f6?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Handshake after signing"
 ---
 
 For many foreign buyers, completion day is the most intimidating moment of the whole process: a language they don't speak, a long document and a lot of money at stake. It's far simpler than it looks, as long as you arrive prepared.

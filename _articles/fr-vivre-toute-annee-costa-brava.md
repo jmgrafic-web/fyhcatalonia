@@ -13,12 +13,14 @@ translations:
   en: /en/blog/living-year-round-costa-brava/
   nl: /nl/blog/het-hele-jaar-wonen-costa-brava/
   fr: /fr/blog/vivre-toute-annee-costa-brava/
-image: "https://images.unsplash.com/photo-1702655358646-12a7b5be0bbe?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1634545803854-69aec0272dc7?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Si votre projet est de vous installer durablement, nous pouvons vous aider à trouver la zone adaptée à votre vie quotidienne, pas seulement à vos vacances."
 related:
   - /fr/blog/cadaques-begur-llafranc-differences/
   - /fr/blog/cout-annuel-entretien-maison-costa-brava/
   - /fr/blog/golden-visa-espagne-conditions/
+image_inline: "https://images.unsplash.com/photo-1758818710855-b60cf3b74de6?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Olives sur la branche sous un ciel bleu"
 ---
 
 Il y a une différence notable entre acheter une résidence secondaire pour passer juillet et août sur la Costa Brava, et s'y installer de façon permanente. Chaque année, nous recevons des demandes d'acheteurs dans les deux situations, et les questions qui comptent changent sensiblement de l'une à l'autre. Ce guide s'adresse à ceux qui envisagent la seconde option.

@@ -13,12 +13,14 @@ translations:
   en: /en/blog/mortgage-financing-foreigners-spain/
   nl: /nl/blog/hypotheek-financiering-buitenlanders-spanje/
   fr: /fr/blog/hypotheque-financement-etrangers-espagne/
-image: "https://images.unsplash.com/photo-1664463760781-f159dfe3af30?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1626178793926-22b28830aa30?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Wij coördineren het contact met je financiële instelling als vanzelfsprekend onderdeel van het koopproces."
 related:
   - /nl/blog/belastingen-huis-kopen-spanje-niet-ingezetene/
   - /nl/blog/spaanse-bankrekening-niet-ingezetene/
   - /nl/blog/juridische-fouten-kopen-zonder-advocaat/
+image_inline: "https://images.unsplash.com/photo-1759429084833-334282cbd58d?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Huismodellen naast bankbiljetten"
 ---
 
 "Kan ik als buitenlander een hypotheek krijgen in Spanje?" is, met afstand, de financiële vraag die we het vaakst krijgen na een eerste bezichtiging. Het korte antwoord is ja. Het nuttige antwoord kent een paar nuances die goed zijn om te kennen voordat je een bod uitbrengt.

@@ -16,12 +16,14 @@ translations:
 pillar: true
 pillar_order: 4
 footer_label: "Renovation costs"
-image: "https://images.unsplash.com/photo-1768321902290-54497eeb9cf6?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1618832515490-e181c4794a45?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Before you buy, we can give you a renovation estimate across three levels for the property you're considering."
 related:
   - /en/blog/building-permit-catalonia-minor-major-works/
   - /en/blog/technical-due-diligence-property-explained/
   - /en/blog/farmhouse-or-new-build-villa/
+image_inline: "https://images.unsplash.com/photo-1731168273756-e02cae42265b?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Cutting a tile during a renovation"
 ---
 
 It's the question that comes up most often right after "which area should I buy in?": how much is the renovation going to cost me? The honest answer is that it depends on a lot of variables — size, structural condition, finish quality, whether the roof needs work — but it is possible to give indicative ranges that help you plan a budget from the very start, before you've even made an offer.

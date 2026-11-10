@@ -19,6 +19,8 @@ related:
   - /es/blog/errores-legales-comprar-sin-abogado/
   - /es/blog/nie-para-comprar-casa-espana-paso-a-paso/
   - /es/blog/cedula-de-habitabilidad-cataluna/
+image_inline: "https://images.unsplash.com/photo-1681505531034-8d67054e07f6?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Apretón de manos tras la firma"
 ---
 
 Para muchos compradores extranjeros, el día de la firma es el momento más intimidante de todo el proceso: un idioma que no dominan, un documento largo y una cantidad importante de dinero en juego. Es bastante más sencillo de lo que parece, siempre que se llegue preparado.

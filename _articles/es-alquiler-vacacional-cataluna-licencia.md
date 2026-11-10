@@ -16,12 +16,14 @@ translations:
 pillar: true
 pillar_order: 5
 footer_label: "Licencia de alquiler turístico"
-image: "https://images.pexels.com/photos/30051052/pexels-photo-30051052/free-photo-of-charming-sitges-beachfront-on-a-summer-day.jpeg?auto=compress&cs=tinysrgb&w=1800"
+image: "https://images.unsplash.com/photo-1613977257592-4871e5fcd7c4?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Antes de comprar pensando en alquilar, podemos ayudarte a verificar la situación de licencias del inmueble y del municipio concreto."
 related:
   - /es/blog/rentabilidad-comprar-para-alquilar-costa-catalana/
   - /es/blog/cuanto-cuesta-mantener-casa-costa-brava-al-ano/
   - /es/blog/impuestos-comprar-vivienda-espana-no-residente/
+image_inline: "https://images.unsplash.com/photo-1629078691977-dc51747c0263?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Dormitorio con ropa de cama blanca listo para huéspedes"
 ---
 
 Un número considerable de compradores extranjeros contempla, desde el primer momento, la posibilidad de alquilar su vivienda en la costa catalana durante los periodos del año que no la usan. Es una expectativa razonable — pero la normativa catalana de vivienda de uso turístico es una de las más específicas de España, y conviene entenderla antes de comprar, no después.

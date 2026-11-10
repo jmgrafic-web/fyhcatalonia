@@ -16,13 +16,15 @@ translations:
 pillar: true
 pillar_order: 2
 footer_label: "Technical due diligence"
-image: "https://images.unsplash.com/photo-1763076470404-23554ef26747?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1772442198624-4fc4d7281e89?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Before you sign a reservation contract on any property, let's talk about what a technical inspection could reveal about it."
 related:
   - /en/blog/buying-property-costa-brava-foreigner-guide/
   - /en/blog/legal-mistakes-buying-without-lawyer/
   - /en/blog/habitability-certificate-catalonia/
 start_here: true
+image_inline: "https://images.unsplash.com/photo-1444419988131-046ed4e5ffd6?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Room with damp walls and a damaged floor"
 ---
 
 Most buyers treat the technical inspection as an optional step — something you do "if there's time", or "if the seller doesn't mind". It's probably the most expensive mistake you can make when buying a home, especially when buying from another country, without first-hand knowledge of local building standards.

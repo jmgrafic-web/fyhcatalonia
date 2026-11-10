@@ -16,13 +16,15 @@ translations:
 pillar: true
 pillar_order: 1
 footer_label: "Kopen aan de Costa Brava"
-image: "https://images.unsplash.com/photo-1702655358646-12a7b5be0bbe?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1564818804911-58cfd9b18711?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Overweeg je te kopen aan de Costa Brava? Laten we je project bespreken voordat je de eerste stap zet. Geheel vrijblijvend."
 related:
   - /nl/blog/technische-due-diligence-vastgoed-uitgelegd/
   - /nl/blog/nie-nummer-huis-kopen-spanje-stappenplan/
   - /nl/blog/notaris-spanje-dag-van-de-ondertekening/
 start_here: true
+image_inline: "https://images.unsplash.com/photo-1741156386380-0236c72eb6f9?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Huissleutels voor de voordeur"
 ---
 
 Elk jaar vallen honderden buitenlandse kopers — vooral Britten en Nederlanders — voor een plekje aan de Costa Brava: een baai bij Begur, een kasseienstraatje in Pals, het licht over zee in Cadaqués. De wens is simpel. Het waarmaken ervan iets minder.

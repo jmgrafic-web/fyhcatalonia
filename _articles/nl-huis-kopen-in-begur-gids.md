@@ -13,12 +13,14 @@ translations:
   en: /en/blog/buying-a-house-in-begur-guide/
   nl: /nl/blog/huis-kopen-in-begur-gids/
   fr: /fr/blog/acheter-maison-a-begur-guide/
-image: "https://images.unsplash.com/photo-1702655358646-12a7b5be0bbe?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1778342840177-2f2c984e916d?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Interesseert Begur je? Dan stellen wij een echte selectie woningen per wijk samen, met technische beoordeling."
 related:
   - /nl/blog/cadaques-begur-llafranc-verschillen/
   - /nl/blog/sitges-koopgids-kosmopolitisch-gebied/
   - /nl/blog/het-hele-jaar-wonen-costa-brava/
+image_inline: "https://images.unsplash.com/photo-1641492599677-eb904ad3dc75?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Geplaveid straatje in een oud dorp"
 ---
 
 Begur is een van de meest gewilde plaatsen aan de Costa Brava, en ook een van de meest verkeerd begrepen: het is niet één plek, maar een oud centrum, meerdere baaien en verschillende urbanisaties met heel verschillende levens. Deze gids helpt te begrijpen wat er in elk gebied is.

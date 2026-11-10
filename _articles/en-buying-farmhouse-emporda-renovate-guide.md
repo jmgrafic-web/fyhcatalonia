@@ -13,12 +13,14 @@ translations:
   en: /en/blog/buying-farmhouse-emporda-renovate-guide/
   nl: /nl/blog/boerderij-kopen-emporda-renoveren-gids/
   fr: /fr/blog/acheter-masia-emporda-renover-guide/
-image: "https://images.unsplash.com/photo-1557393120-d3ee552f3736?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1653750934543-aebe598499f3?auto=format&fit=crop&w=1800&q=75"
 cta_body: "If you're looking for a farmhouse with potential in the Empordà, we have off-market properties that never reach the portals."
 related:
   - /en/blog/farmhouse-or-new-build-villa/
   - /en/blog/building-permit-catalonia-minor-major-works/
   - /en/blog/technical-due-diligence-property-explained/
+image_inline: "https://images.unsplash.com/photo-1768839725085-829e6ac7ac26?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Hands applying render to a wall"
 ---
 
 The inland Empordà isn't the Costa Brava, even though it's fifteen minutes away. It's a different kind of place entirely: eighteenth-century farmhouses, near-untouched medieval villages, vineyards and olive groves as far as you can see, and a stillness the seafront simply can't offer anymore. For anyone after a restoration project with real character, it's one of the few places left in Europe where you can still find that at a reasonable price.

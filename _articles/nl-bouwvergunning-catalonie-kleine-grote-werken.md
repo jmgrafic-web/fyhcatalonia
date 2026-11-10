@@ -13,12 +13,14 @@ translations:
   en: /en/blog/building-permit-catalonia-minor-major-works/
   nl: /nl/blog/bouwvergunning-catalonie-kleine-grote-werken/
   fr: /fr/blog/permis-de-construire-catalogne-travaux-mineurs-majeurs/
-image: "https://images.unsplash.com/photo-1763076470404-23554ef26747?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1762146828422-50a8bd416d3c?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Wij beoordelen welke vergunning je renovatie nodig heeft voordat je het pand koopt."
 related:
   - /nl/blog/renovatiekosten-catalaanse-kust-gids/
   - /nl/blog/boerderij-kopen-emporda-renoveren-gids/
   - /nl/blog/bewoonbaarheidscertificaat-catalonie/
+image_inline: "https://images.unsplash.com/photo-1608303588026-884930af2559?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Bouwtekeningen bespreken"
 ---
 
 Een goed begrote renovatie kan mislukken om een reden die niet in het budget staat: de vergunning. Vooraf weten welke vergunning je werken nodig hebben, en hoe lang het duurt, hoort bij de beslissing of een woning bij je past.

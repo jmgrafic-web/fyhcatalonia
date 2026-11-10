@@ -13,12 +13,14 @@ translations:
   en: /en/blog/spanish-bank-account-non-resident/
   nl: /nl/blog/spaanse-bankrekening-niet-ingezetene/
   fr: /fr/blog/compte-bancaire-espagne-non-resident/
-image: "https://images.unsplash.com/photo-1664463760781-f159dfe3af30?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1611125832047-1d7ad1e8e48f?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Wij brengen je in contact met banken die gewend zijn aan buitenlandse kopers."
 related:
   - /nl/blog/nie-nummer-huis-kopen-spanje-stappenplan/
   - /nl/blog/hypotheek-financiering-buitenlanders-spanje/
   - /nl/blog/kosten-onderhoud-tweede-woning-costa-brava-per-jaar/
+image_inline: "https://images.unsplash.com/photo-1763729625610-f356196f587a?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Notities en papierwerk naast een laptop"
 ---
 
 Een woning kopen zonder een bankrekening in Spanje te openen is mogelijk, maar bijna niemand doet het: onroerendgoedbelasting, gemeenschapsbijdrage en nutsrekeningen betaal je veel makkelijker vanaf een lokale rekening. Deze gids legt uit hoe je er een opent en waar je op let.

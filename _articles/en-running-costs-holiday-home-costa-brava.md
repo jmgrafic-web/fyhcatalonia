@@ -13,12 +13,14 @@ translations:
   en: /en/blog/running-costs-holiday-home-costa-brava/
   nl: /nl/blog/kosten-onderhoud-tweede-woning-costa-brava-per-jaar/
   fr: /fr/blog/cout-annuel-entretien-maison-costa-brava/
-image: "https://images.unsplash.com/photo-1557393120-d3ee552f3736?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?auto=format&fit=crop&w=1800&q=75"
 cta_body: "We help you work out the real annual cost of the home you're considering before you make an offer."
 related:
   - /en/blog/vacation-rental-catalonia-licence/
   - /en/blog/taxes-buying-property-spain-non-resident/
   - /en/blog/living-year-round-costa-brava/
+image_inline: "https://images.unsplash.com/photo-1676311396794-f14881e9daaa?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Maintenance tools on a table"
 ---
 
 The purchase price is the figure everyone looks at; the annual cost of owning the home is the one that gets forgotten. There's no single number — it depends on the value, the size, the garden and the pool — but there is a fixed list of items worth adding up before you buy.

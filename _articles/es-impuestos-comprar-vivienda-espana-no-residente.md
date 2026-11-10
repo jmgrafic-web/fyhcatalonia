@@ -16,12 +16,14 @@ translations:
 pillar: true
 pillar_order: 3
 footer_label: "Impuestos y gastos"
-image: "https://images.unsplash.com/photo-1664463760781-f159dfe3af30?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1762427354397-854a52e0ded7?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Coordinamos a tu gestor y asesor fiscal como parte del proceso de compra, para que no tengas que gestionarlo por separado."
 related:
   - /es/blog/hipoteca-financiacion-extranjero-espana/
   - /es/blog/cuenta-bancaria-no-residente-espana/
   - /es/blog/golden-visa-espana-requisitos/
+image_inline: "https://images.unsplash.com/photo-1648201637025-1c77b9be3013?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Calculadora y bolígrafo sobre unos papeles"
 ---
 
 Uno de los aspectos que más incertidumbre genera entre compradores extranjeros es la fiscalidad: qué se paga, cuándo, y qué obligaciones quedan después de la firma. Esta guía repasa los conceptos principales para que llegues a la conversación con tu asesor fiscal con las preguntas correctas — no sustituye ese asesoramiento, porque los importes exactos dependen de la comunidad autónoma, el tipo de inmueble y tu situación personal, y conviene confirmarlos con un profesional antes de firmar nada.

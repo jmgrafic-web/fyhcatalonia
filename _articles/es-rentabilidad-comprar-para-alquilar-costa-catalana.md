@@ -13,12 +13,14 @@ translations:
   en: /en/blog/buy-to-let-profitability-catalan-coast/
   nl: /nl/blog/rendement-kopen-om-te-verhuren-catalaanse-kust/
   fr: /fr/blog/rentabilite-achat-locatif-cote-catalane/
-image: "https://images.unsplash.com/photo-1768321902290-54497eeb9cf6?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1564501049412-61c2a3083791?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Antes de comprar con fines de inversión, podemos ayudarte a calcular una rentabilidad realista para el inmueble concreto que valoras."
 related:
   - /es/blog/alquiler-vacacional-cataluna-licencia/
   - /es/blog/cuanto-cuesta-mantener-casa-costa-brava-al-ano/
   - /es/blog/costa-daurada-guia-comprar/
+image_inline: "https://images.unsplash.com/photo-1736320011788-a95a11524fe0?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Llavero con forma de casa junto a billetes"
 ---
 
 Un porcentaje de los compradores internacionales con los que trabajamos no busca solo una segunda residencia: busca que esa vivienda, además, genere ingresos cuando no la usan. Es un objetivo legítimo, pero las cifras de rentabilidad que circulan en portales y artículos genéricos rara vez reflejan lo que realmente se embolsa un propietario al final del año.

@@ -13,12 +13,14 @@ translations:
   en: /en/blog/legal-mistakes-buying-without-lawyer/
   nl: /nl/blog/juridische-fouten-kopen-zonder-advocaat/
   fr: /fr/blog/erreurs-juridiques-achat-sans-avocat/
-image: "https://images.unsplash.com/photo-1664463760781-f159dfe3af30?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Wij coördineren de juridische controle van je transactie met een advocaat gespecialiseerd in buitenlandse kopers, als onderdeel van het proces."
 related:
   - /nl/blog/notaris-spanje-dag-van-de-ondertekening/
   - /nl/blog/bewoonbaarheidscertificaat-catalonie/
   - /nl/blog/technische-due-diligence-vastgoed-uitgelegd/
+image_inline: "https://images.unsplash.com/photo-1562564055-71e051d33c19?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Documenten nakijken voor het tekenen"
 ---
 
 "Controleert de notaris niet al of alles in orde is, dus is een advocaat niet ook nog nodig?" Een redelijke vraag, en het antwoord is nee: de notaris bevestigt de handeling en controleert bepaalde formele aspecten, maar behartigt niet de belangen van de koper tegenover de verkoper, onderhandelt niet namens hem, en signaleert niet per se alles wat een koper zou willen weten voordat hij tekent. Die functie vervult een eigen advocaat — en die overslaan is, met afstand, de duurste besparing die we buitenlandse kopers hebben zien proberen.

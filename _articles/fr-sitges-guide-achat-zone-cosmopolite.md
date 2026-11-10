@@ -13,12 +13,14 @@ translations:
   en: /en/blog/sitges-buying-guide-cosmopolitan-area/
   nl: /nl/blog/sitges-koopgids-kosmopolitisch-gebied/
   fr: /fr/blog/sitges-guide-achat-zone-cosmopolite/
-image: "https://images.pexels.com/photos/30051052/pexels-photo-30051052/free-photo-of-charming-sitges-beachfront-on-a-summer-day.jpeg?auto=compress&cs=tinysrgb&w=1800"
+image: "https://images.unsplash.com/photo-1616367201645-6f01b8987266?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Si Sitges est votre zone, nous vous préparons une sélection personnalisée avec la même rigueur technique que sur tout le littoral."
 related:
   - /fr/blog/sitges-ou-costa-brava-comparaison/
   - /fr/blog/maresme-alternative-costa-brava/
   - /fr/blog/rentabilite-achat-locatif-cote-catalane/
+image_inline: "https://images.unsplash.com/photo-1726269059327-e19d2e935121?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Ruelle étroite d’une ville méditerranéenne"
 ---
 
 Parmi toutes les zones où nous travaillons, Sitges est probablement celle qui a le moins besoin d'être présentée — et, en même temps, celle qui traîne le plus d'idées reçues chez les acheteurs qui ne la connaissent qu'en passant. Ce guide s'adresse à qui envisage sérieusement d'y acheter, pas seulement d'y passer un week-end.

@@ -13,12 +13,14 @@ translations:
   en: /en/blog/running-costs-holiday-home-costa-brava/
   nl: /nl/blog/kosten-onderhoud-tweede-woning-costa-brava-per-jaar/
   fr: /fr/blog/cout-annuel-entretien-maison-costa-brava/
-image: "https://images.unsplash.com/photo-1557393120-d3ee552f3736?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Wij helpen je de werkelijke jaarlijkse kosten van de woning die je overweegt te berekenen vóór je een bod doet."
 related:
   - /nl/blog/vakantieverhuur-catalonie-vergunning/
   - /nl/blog/belastingen-huis-kopen-spanje-niet-ingezetene/
   - /nl/blog/het-hele-jaar-wonen-costa-brava/
+image_inline: "https://images.unsplash.com/photo-1676311396794-f14881e9daaa?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Gereedschap voor onderhoud op een tafel"
 ---
 
 De koopprijs is het cijfer waar iedereen naar kijkt; de jaarlijkse kosten van het bezit zijn het cijfer dat vergeten wordt. Er bestaat geen enkel getal — het hangt af van de waarde, de grootte, de tuin en het zwembad — maar wel een vaste lijst posten die je vóór de aankoop beter optelt.

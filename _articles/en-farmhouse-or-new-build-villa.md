@@ -13,12 +13,14 @@ translations:
   en: /en/blog/farmhouse-or-new-build-villa/
   nl: /nl/blog/boerderij-of-nieuwbouwvilla/
   fr: /fr/blog/masia-ou-villa-neuve/
-image: "https://images.unsplash.com/photo-1557393120-d3ee552f3736?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Tell us what kind of project you have in mind and we'll help you weigh up whether a farmhouse or a new build fits better."
 related:
   - /en/blog/buying-farmhouse-emporda-renovate-guide/
   - /en/blog/renovation-cost-catalan-coast-guide/
   - /en/blog/building-permit-catalonia-minor-major-works/
+image_inline: "https://images.unsplash.com/photo-1691345215365-b8d9742b6826?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Stone building with steps"
 ---
 
 It's one of the first, and most defining, decisions a buyer makes when starting to search on the Catalan coast: restore something with history, or build — or buy already built — something entirely new? Neither option is better in the abstract. Each suits a different kind of buyer.

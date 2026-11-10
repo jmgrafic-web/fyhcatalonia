@@ -16,13 +16,15 @@ translations:
 pillar: true
 pillar_order: 1
 footer_label: "Comprar en la Costa Brava"
-image: "https://images.unsplash.com/photo-1702655358646-12a7b5be0bbe?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1564818804911-58cfd9b18711?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Si estás valorando comprar en la Costa Brava, hablemos de tu proyecto antes de dar el primer paso. Sin compromiso."
 related:
   - /es/blog/due-diligence-tecnica-inmobiliaria/
   - /es/blog/nie-para-comprar-casa-espana-paso-a-paso/
   - /es/blog/notaria-espana-dia-de-la-firma/
 start_here: true
+image_inline: "https://images.unsplash.com/photo-1741156386380-0236c72eb6f9?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Llaves de una casa ante la puerta de entrada"
 ---
 
 Cada año, cientos de compradores extranjeros —sobre todo británicos y holandeses— se enamoran de algún rincón de la Costa Brava: una cala en Begur, una calle empedrada en Pals, la luz sobre el mar en Cadaqués. El deseo es sencillo. El proceso para hacerlo realidad, no tanto.

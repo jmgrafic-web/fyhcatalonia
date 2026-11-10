@@ -16,12 +16,14 @@ translations:
 pillar: true
 pillar_order: 4
 footer_label: "Coût d'une rénovation"
-image: "https://images.unsplash.com/photo-1768321902290-54497eeb9cf6?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1618832515490-e181c4794a45?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Avant d'acheter, nous pouvons vous donner une estimation de rénovation sur trois niveaux pour le bien que vous envisagez."
 related:
   - /fr/blog/permis-de-construire-catalogne-travaux-mineurs-majeurs/
   - /fr/blog/due-diligence-technique-immobiliere-explication/
   - /fr/blog/masia-ou-villa-neuve/
+image_inline: "https://images.unsplash.com/photo-1731168273756-e02cae42265b?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Découpe d’un carreau pendant une rénovation"
 ---
 
 C'est la question qui revient le plus juste après "dans quelle zone acheter ?" : combien va coûter la rénovation ? La réponse honnête est que cela dépend de nombreuses variables — surface, état structurel, qualité des finitions, intervention ou non sur la toiture — mais il est possible de donner des fourchettes indicatives qui aident à planifier un budget dès le départ, avant même de faire une offre sur le bien.

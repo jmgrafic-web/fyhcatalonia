@@ -13,12 +13,14 @@ translations:
   en: /en/blog/building-permit-catalonia-minor-major-works/
   nl: /nl/blog/bouwvergunning-catalonie-kleine-grote-werken/
   fr: /fr/blog/permis-de-construire-catalogne-travaux-mineurs-majeurs/
-image: "https://images.unsplash.com/photo-1763076470404-23554ef26747?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1762146828422-50a8bd416d3c?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Valoramos qué licencia necesita tu reforma antes de que compres el inmueble."
 related:
   - /es/blog/cuanto-cuesta-reformar-casa-costa-catalana/
   - /es/blog/comprar-masia-emporda-reformar/
   - /es/blog/cedula-de-habitabilidad-cataluna/
+image_inline: "https://images.unsplash.com/photo-1608303588026-884930af2559?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Revisión de planos de proyecto"
 ---
 
 Una reforma bien presupuestada puede fracasar por un motivo que no figura en el presupuesto: la licencia. Saber de antemano qué licencia necesita tu obra, y cuánto tarda, es parte de decidir si una vivienda te conviene.

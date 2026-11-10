@@ -13,12 +13,14 @@ translations:
   en: /en/blog/farmhouse-or-new-build-villa/
   nl: /nl/blog/boerderij-of-nieuwbouwvilla/
   fr: /fr/blog/masia-ou-villa-neuve/
-image: "https://images.unsplash.com/photo-1557393120-d3ee552f3736?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Dites-nous le type de projet que vous imaginez et nous vous aiderons à évaluer si une masia ou une construction neuve convient mieux."
 related:
   - /fr/blog/acheter-masia-emporda-renover-guide/
   - /fr/blog/cout-renovation-cote-catalane-guide/
   - /fr/blog/permis-de-construire-catalogne-travaux-mineurs-majeurs/
+image_inline: "https://images.unsplash.com/photo-1691345215365-b8d9742b6826?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Bâtiment en pierre avec escalier"
 ---
 
 C'est l'une des premières décisions, et des plus déterminantes, qu'un acheteur prend en commençant à chercher sur la côte catalane : restaurer quelque chose chargé d'histoire, ou construire — ou acheter déjà construit — quelque chose d'entièrement neuf ? Aucune option n'est meilleure dans l'absolu. Chacune convient à un profil d'acheteur différent.

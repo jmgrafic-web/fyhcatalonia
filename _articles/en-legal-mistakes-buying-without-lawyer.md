@@ -13,12 +13,14 @@ translations:
   en: /en/blog/legal-mistakes-buying-without-lawyer/
   nl: /nl/blog/juridische-fouten-kopen-zonder-advocaat/
   fr: /fr/blog/erreurs-juridiques-achat-sans-avocat/
-image: "https://images.unsplash.com/photo-1664463760781-f159dfe3af30?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1800&q=75"
 cta_body: "We coordinate the legal review of your purchase with a lawyer who specialises in foreign buyers, as part of the process."
 related:
   - /en/blog/spanish-notary-completion-day/
   - /en/blog/habitability-certificate-catalonia/
   - /en/blog/technical-due-diligence-property-explained/
+image_inline: "https://images.unsplash.com/photo-1562564055-71e051d33c19?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Reviewing documents before signing"
 ---
 
 "Doesn't the notary already check everything's in order? Do I really need a lawyer too?" It's a fair question, and the answer is no: the notary certifies the act and verifies certain formal aspects, but doesn't act for the buyer against the seller, doesn't negotiate on their behalf, and doesn't necessarily flag everything a buyer would want to know before signing. That's the lawyer's job — and skipping it is, by some distance, the costliest saving we've seen foreign buyers attempt.

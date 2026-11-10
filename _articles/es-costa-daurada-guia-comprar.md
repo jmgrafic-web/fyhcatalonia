@@ -13,12 +13,14 @@ translations:
   en: /en/blog/costa-daurada-buying-guide/
   nl: /nl/blog/costa-daurada-koopgids/
   fr: /fr/blog/costa-daurada-guide-achat/
-image: "https://images.unsplash.com/photo-1630609977911-1e6c9d3c9147?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1600818767171-fde3f6e1d275?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Si te interesa el sur de la costa catalana, te ayudamos a comparar pueblos y edificios concretos antes de comprometerte."
 related:
   - /es/blog/maresme-alternativa-costa-brava/
   - /es/blog/rentabilidad-comprar-para-alquilar-costa-catalana/
   - /es/blog/alquiler-vacacional-cataluna-licencia/
+image_inline: "https://images.unsplash.com/photo-1722520592113-1f681393cd8d?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Anfiteatro romano junto al mar"
 ---
 
 La Costa Daurada es la costa catalana que más suele quedarse fuera de las primeras búsquedas de los compradores internacionales y, para muchos perfiles, la que ofrece mejor relación entre precio y calidad de vida. Esta guía explica qué hay realmente allí.

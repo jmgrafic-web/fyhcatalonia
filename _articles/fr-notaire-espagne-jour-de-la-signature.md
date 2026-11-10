@@ -19,6 +19,8 @@ related:
   - /fr/blog/erreurs-juridiques-achat-sans-avocat/
   - /fr/blog/nie-acheter-bien-espagne-etape-par-etape/
   - /fr/blog/certificat-habitabilite-catalogne/
+image_inline: "https://images.unsplash.com/photo-1681505531034-8d67054e07f6?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Poignée de main après la signature"
 ---
 
 Pour beaucoup d'acheteurs étrangers, le jour de la signature est le moment le plus intimidant de tout le processus : une langue qu'ils ne maîtrisent pas, un long document et une somme importante en jeu. C'est bien plus simple qu'il n'y paraît, à condition d'arriver préparé.

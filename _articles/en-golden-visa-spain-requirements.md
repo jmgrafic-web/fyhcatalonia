@@ -13,12 +13,14 @@ translations:
   en: /en/blog/golden-visa-spain-requirements/
   nl: /nl/blog/golden-visa-spanje-vereisten/
   fr: /fr/blog/golden-visa-espagne-conditions/
-image: "https://images.unsplash.com/photo-1763076470404-23554ef26747?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1723095136747-20a24afcee20?auto=format&fit=crop&w=1800&q=75"
 cta_body: "If residency is part of why you want to buy, we'll put you in touch with an immigration lawyer from the first conversation."
 related:
   - /en/blog/nie-number-buying-property-spain-step-by-step/
   - /en/blog/taxes-buying-property-spain-non-resident/
   - /en/blog/living-year-round-costa-brava/
+image_inline: "https://images.unsplash.com/photo-1779729686198-117c1307894d?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Desk with documents, calculator and glasses"
 ---
 
 Few terms have caused as much confusion among international buyers as "Golden Visa". For years, it was the best-known route to Spanish residency through buying a home. But the regulatory landscape has changed, and it's worth going into the conversation with current information, not what circulated on forums a couple of years ago.

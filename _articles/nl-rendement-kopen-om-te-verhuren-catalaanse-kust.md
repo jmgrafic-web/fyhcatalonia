@@ -13,12 +13,14 @@ translations:
   en: /en/blog/buy-to-let-profitability-catalan-coast/
   nl: /nl/blog/rendement-kopen-om-te-verhuren-catalaanse-kust/
   fr: /fr/blog/rentabilite-achat-locatif-cote-catalane/
-image: "https://images.unsplash.com/photo-1768321902290-54497eeb9cf6?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1564501049412-61c2a3083791?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Voordat je koopt met investering als doel, kunnen we je helpen een realistisch rendement te berekenen voor de specifieke woning."
 related:
   - /nl/blog/vakantieverhuur-catalonie-vergunning/
   - /nl/blog/kosten-onderhoud-tweede-woning-costa-brava-per-jaar/
   - /nl/blog/costa-daurada-koopgids/
+image_inline: "https://images.unsplash.com/photo-1736320011788-a95a11524fe0?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Huisvormige sleutelhanger naast bankbiljetten"
 ---
 
 Een deel van de internationale kopers met wie we werken, zoekt niet alleen een tweede woning: ze willen dat die woning ook inkomsten genereert wanneer ze er geen gebruik van maken. Een legitiem doel, maar de rendementscijfers die op portals en in generieke artikelen circuleren, weerspiegelen zelden wat een eigenaar aan het eind van het jaar werkelijk overhoudt.

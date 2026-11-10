@@ -13,12 +13,14 @@ translations:
   en: /en/blog/habitability-certificate-catalonia/
   nl: /nl/blog/bewoonbaarheidscertificaat-catalonie/
   fr: /fr/blog/certificat-habitabilite-catalogne/
-image: "https://images.unsplash.com/photo-1768321902290-54497eeb9cf6?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1764737734436-7eb904d3a4ab?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Wij controleren het certificaat en de rest van de documenten voordat je een reserveringscontract tekent."
 related:
   - /nl/blog/technische-due-diligence-vastgoed-uitgelegd/
   - /nl/blog/notaris-spanje-dag-van-de-ondertekening/
   - /nl/blog/bouwvergunning-catalonie-kleine-grote-werken/
+image_inline: "https://images.unsplash.com/photo-1520587393050-c5298e1a8486?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Trappenhuis van een woongebouw"
 ---
 
 Onder de documenten van een woningverkoop in Catalonië zit er één dat bijna elke buitenlandse koper verrast: het bewoonbaarheidscertificaat (cédula de habitabilidad). Het is geen bijzaak: zonder dit certificaat raken sommige aankopen op de dag van de overdracht zelf in de problemen.

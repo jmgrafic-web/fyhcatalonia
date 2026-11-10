@@ -13,12 +13,14 @@ translations:
   en: /en/blog/living-year-round-costa-brava/
   nl: /nl/blog/het-hele-jaar-wonen-costa-brava/
   fr: /fr/blog/vivre-toute-annee-costa-brava/
-image: "https://images.unsplash.com/photo-1702655358646-12a7b5be0bbe?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1634545803854-69aec0272dc7?auto=format&fit=crop&w=1800&q=75"
 cta_body: "If your plan is to relocate permanently, we can help you find the area that fits your daily life, not just your holidays."
 related:
   - /en/blog/cadaques-begur-llafranc-differences/
   - /en/blog/running-costs-holiday-home-costa-brava/
   - /en/blog/golden-visa-spain-requirements/
+image_inline: "https://images.unsplash.com/photo-1758818710855-b60cf3b74de6?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Olives on the branch under a blue sky"
 ---
 
 There's a real difference between buying a second home to spend July and August on the Costa Brava, and relocating there permanently. Every year we hear from buyers in both situations, and the questions that matter shift quite a bit between the two. This guide is written for anyone considering the second.

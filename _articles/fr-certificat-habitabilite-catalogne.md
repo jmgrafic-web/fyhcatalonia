@@ -13,12 +13,14 @@ translations:
   en: /en/blog/habitability-certificate-catalonia/
   nl: /nl/blog/bewoonbaarheidscertificaat-catalonie/
   fr: /fr/blog/certificat-habitabilite-catalogne/
-image: "https://images.unsplash.com/photo-1768321902290-54497eeb9cf6?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1764737734436-7eb904d3a4ab?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Nous vérifions le certificat et le reste des documents avant que vous ne signiez un compromis."
 related:
   - /fr/blog/due-diligence-technique-immobiliere-explication/
   - /fr/blog/notaire-espagne-jour-de-la-signature/
   - /fr/blog/permis-de-construire-catalogne-travaux-mineurs-majeurs/
+image_inline: "https://images.unsplash.com/photo-1520587393050-c5298e1a8486?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Escalier intérieur d’un immeuble résidentiel"
 ---
 
 Parmi les documents d'une vente en Catalogne, il y en a un qui surprend presque tous les acheteurs étrangers : le certificat d'habitabilité (cédula de habitabilidad). Ce n'est pas une formalité mineure : sans lui, certains achats se compliquent le jour même de la signature.

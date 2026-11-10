@@ -16,13 +16,15 @@ translations:
 pillar: true
 pillar_order: 2
 footer_label: "Due diligence técnica"
-image: "https://images.unsplash.com/photo-1763076470404-23554ef26747?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1772442198624-4fc4d7281e89?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Antes de firmar arras por cualquier inmueble, hablemos de lo que una inspección técnica puede revelar sobre él."
 related:
   - /es/blog/comprar-vivienda-costa-brava-extranjero/
   - /es/blog/errores-legales-comprar-sin-abogado/
   - /es/blog/cedula-de-habitabilidad-cataluna/
 start_here: true
+image_inline: "https://images.unsplash.com/photo-1444419988131-046ed4e5ffd6?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Habitación con humedades y suelo dañado"
 ---
 
 La mayoría de compradores tratan la inspección técnica como un paso opcional, algo que se hace "si hay tiempo" o "si el vendedor no se molesta". Es, probablemente, el error más caro que se puede cometer al comprar una vivienda —y especialmente al comprarla desde otro país, sin conocer de primera mano los estándares de construcción locales.

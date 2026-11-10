@@ -16,13 +16,15 @@ translations:
 pillar: true
 pillar_order: 1
 footer_label: "Buying on the Costa Brava"
-image: "https://images.unsplash.com/photo-1702655358646-12a7b5be0bbe?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1564818804911-58cfd9b18711?auto=format&fit=crop&w=1800&q=75"
 cta_body: "If you're weighing up a purchase on the Costa Brava, let's talk through your project before you take the first step. No obligation."
 related:
   - /en/blog/technical-due-diligence-property-explained/
   - /en/blog/nie-number-buying-property-spain-step-by-step/
   - /en/blog/spanish-notary-completion-day/
 start_here: true
+image_inline: "https://images.unsplash.com/photo-1741156386380-0236c72eb6f9?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "House keys in front of the front door"
 ---
 
 Every year, hundreds of foreign buyers — British and Dutch buyers especially — fall for some corner of the Costa Brava: a cove in Begur, a cobbled lane in Pals, the light over the water in [Cadaqués]({{ site.baseurl }}/en/blog/cadaques-begur-llafranc-differences/). The desire is simple. Making it happen is a little less so.

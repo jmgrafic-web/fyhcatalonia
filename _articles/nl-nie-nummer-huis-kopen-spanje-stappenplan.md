@@ -13,13 +13,15 @@ translations:
   en: /en/blog/nie-number-buying-property-spain-step-by-step/
   nl: /nl/blog/nie-nummer-huis-kopen-spanje-stappenplan/
   fr: /fr/blog/nie-acheter-bien-espagne-etape-par-etape/
-image: "https://images.unsplash.com/photo-1664463760781-f159dfe3af30?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1564846824194-346b7871b855?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Wij regelen je NIE samen met je advocaat of gestor, zodat het je aankoop niet vertraagt."
 related:
   - /nl/blog/spaanse-bankrekening-niet-ingezetene/
   - /nl/blog/huis-kopen-costa-brava-buitenlander-gids/
   - /nl/blog/notaris-spanje-dag-van-de-ondertekening/
 start_here: true
+image_inline: "https://images.unsplash.com/photo-1768055104910-8c8d213835fb?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Checklist van formaliteiten in een notitieboek"
 ---
 
 De NIE is het eerste document dat elke buitenlandse koper nodig heeft, en het document dat de meeste aankopen vertraagt als het tot het laatst wordt uitgesteld. Deze gids legt uit wat het is, hoe je eraan komt en hoe je de meest voorkomende vertragingen vermijdt.

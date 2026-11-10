@@ -13,12 +13,14 @@ translations:
   en: /en/blog/living-year-round-costa-brava/
   nl: /nl/blog/het-hele-jaar-wonen-costa-brava/
   fr: /fr/blog/vivre-toute-annee-costa-brava/
-image: "https://images.unsplash.com/photo-1702655358646-12a7b5be0bbe?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1634545803854-69aec0272dc7?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Si tu plan es mudarte de forma permanente, podemos ayudarte a encontrar la zona que mejor encaje con tu vida diaria, no solo con tus vacaciones."
 related:
   - /es/blog/cadaques-begur-llafranc-diferencias/
   - /es/blog/cuanto-cuesta-mantener-casa-costa-brava-al-ano/
   - /es/blog/golden-visa-espana-requisitos/
+image_inline: "https://images.unsplash.com/photo-1758818710855-b60cf3b74de6?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Olivas en la rama bajo el cielo azul"
 ---
 
 Hay una diferencia notable entre comprar una segunda residencia para pasar julio y agosto en la Costa Brava, y mudarse aquí de forma permanente. Cada año recibimos consultas de compradores en ambas situaciones, y las preguntas que importan cambian bastante de un caso al otro. Esta guía está pensada para quienes contemplan la segunda opción.

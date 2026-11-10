@@ -13,12 +13,14 @@ translations:
   en: /en/blog/spanish-bank-account-non-resident/
   nl: /nl/blog/spaanse-bankrekening-niet-ingezetene/
   fr: /fr/blog/compte-bancaire-espagne-non-resident/
-image: "https://images.unsplash.com/photo-1664463760781-f159dfe3af30?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1611125832047-1d7ad1e8e48f?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Te ponemos en contacto con entidades acostumbradas a trabajar con compradores extranjeros."
 related:
   - /es/blog/nie-para-comprar-casa-espana-paso-a-paso/
   - /es/blog/hipoteca-financiacion-extranjero-espana/
   - /es/blog/cuanto-cuesta-mantener-casa-costa-brava-al-ano/
+image_inline: "https://images.unsplash.com/photo-1763729625610-f356196f587a?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Notas y trámites junto al ordenador"
 ---
 
 Comprar una vivienda sin abrir una cuenta bancaria en España es posible, pero casi nadie lo hace: los recibos del IBI, la comunidad y los suministros se pagan mejor con una cuenta local. Esta guía explica cómo abrirla y qué conviene mirar.

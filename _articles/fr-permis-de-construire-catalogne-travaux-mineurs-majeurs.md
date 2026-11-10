@@ -13,12 +13,14 @@ translations:
   en: /en/blog/building-permit-catalonia-minor-major-works/
   nl: /nl/blog/bouwvergunning-catalonie-kleine-grote-werken/
   fr: /fr/blog/permis-de-construire-catalogne-travaux-mineurs-majeurs/
-image: "https://images.unsplash.com/photo-1763076470404-23554ef26747?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1762146828422-50a8bd416d3c?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Nous évaluons quel permis votre rénovation exige avant que vous n'achetiez le bien."
 related:
   - /fr/blog/cout-renovation-cote-catalane-guide/
   - /fr/blog/acheter-masia-emporda-renover-guide/
   - /fr/blog/certificat-habitabilite-catalogne/
+image_inline: "https://images.unsplash.com/photo-1608303588026-884930af2559?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Relecture des plans du projet"
 ---
 
 Une rénovation bien budgétée peut échouer pour une raison qui ne figure pas au budget : le permis. Savoir à l'avance quel permis vos travaux exigent, et combien de temps il faut, fait partie de la décision de savoir si un bien vous convient.

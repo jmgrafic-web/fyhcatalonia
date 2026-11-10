@@ -16,12 +16,14 @@ translations:
 pillar: true
 pillar_order: 3
 footer_label: "Belastingen en kosten"
-image: "https://images.unsplash.com/photo-1664463760781-f159dfe3af30?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1762427354397-854a52e0ded7?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Wij coördineren je gestor en belastingadviseur als onderdeel van het koopproces, zodat jij dit niet apart hoeft te regelen."
 related:
   - /nl/blog/hypotheek-financiering-buitenlanders-spanje/
   - /nl/blog/spaanse-bankrekening-niet-ingezetene/
   - /nl/blog/golden-visa-spanje-vereisten/
+image_inline: "https://images.unsplash.com/photo-1648201637025-1c77b9be3013?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Rekenmachine en pen op papieren"
 ---
 
 Een van de onderwerpen die de meeste onzekerheid oproept bij buitenlandse kopers is belasting: wat betaal je, wanneer, en welke verplichtingen blijven er na de overdracht bestaan. Deze gids behandelt de belangrijkste begrippen, zodat je goed voorbereid het gesprek met je belastingadviseur ingaat — het vervangt dat advies niet, want de exacte bedragen hangen af van de autonome regio, het type woning en jouw persoonlijke situatie, en moeten altijd bevestigd worden door een professional voordat je iets ondertekent.

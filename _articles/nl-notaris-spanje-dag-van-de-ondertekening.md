@@ -19,6 +19,8 @@ related:
   - /nl/blog/juridische-fouten-kopen-zonder-advocaat/
   - /nl/blog/nie-nummer-huis-kopen-spanje-stappenplan/
   - /nl/blog/bewoonbaarheidscertificaat-catalonie/
+image_inline: "https://images.unsplash.com/photo-1681505531034-8d67054e07f6?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Handdruk na de ondertekening"
 ---
 
 Voor veel buitenlandse kopers is de dag van de ondertekening het meest intimiderende moment van het hele proces: een taal die ze niet spreken, een lang document en veel geld dat op het spel staat. Het is een stuk eenvoudiger dan het lijkt, zolang je goed voorbereid komt.

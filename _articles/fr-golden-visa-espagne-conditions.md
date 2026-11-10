@@ -13,12 +13,14 @@ translations:
   en: /en/blog/golden-visa-spain-requirements/
   nl: /nl/blog/golden-visa-spanje-vereisten/
   fr: /fr/blog/golden-visa-espagne-conditions/
-image: "https://images.unsplash.com/photo-1763076470404-23554ef26747?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1723095136747-20a24afcee20?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Si la résidence fait partie de vos motivations d'achat, nous vous mettons en relation avec un avocat spécialisé dès la première conversation."
 related:
   - /fr/blog/nie-acheter-bien-espagne-etape-par-etape/
   - /fr/blog/impots-achat-immobilier-espagne-non-resident/
   - /fr/blog/vivre-toute-annee-costa-brava/
+image_inline: "https://images.unsplash.com/photo-1779729686198-117c1307894d?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Bureau avec documents, calculatrice et lunettes"
 ---
 
 Peu de sigles ont généré autant de confusion chez les acheteurs internationaux que "Golden Visa". Pendant des années, c'était la voie la plus connue vers la résidence espagnole via l'achat d'un bien immobilier. Mais le cadre réglementaire a changé, et mieux vaut aborder la conversation avec des informations à jour, pas celles qui circulaient sur les forums il y a deux ou trois ans.

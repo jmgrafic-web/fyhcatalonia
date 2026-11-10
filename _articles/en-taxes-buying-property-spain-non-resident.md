@@ -16,12 +16,14 @@ translations:
 pillar: true
 pillar_order: 3
 footer_label: "Taxes and costs"
-image: "https://images.unsplash.com/photo-1664463760781-f159dfe3af30?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1762427354397-854a52e0ded7?auto=format&fit=crop&w=1800&q=75"
 cta_body: "We coordinate your administrator and tax advisor as part of the buying process, so you don't have to manage it separately."
 related:
   - /en/blog/mortgage-financing-foreigners-spain/
   - /en/blog/spanish-bank-account-non-resident/
   - /en/blog/golden-visa-spain-requirements/
+image_inline: "https://images.unsplash.com/photo-1648201637025-1c77b9be3013?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Calculator and pen on paperwork"
 ---
 
 One of the areas that creates the most uncertainty for foreign buyers is tax: what you pay, when, and what obligations remain after completion. This guide covers the main concepts so you arrive at the conversation with your tax advisor with the right questions — it doesn't replace that advice, because exact figures depend on the autonomous region, the type of property and your personal situation, and should always be confirmed with a professional before you sign anything.

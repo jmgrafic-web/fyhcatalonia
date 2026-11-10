@@ -13,12 +13,14 @@ translations:
   en: /en/blog/sitges-or-costa-brava-comparison/
   nl: /nl/blog/sitges-of-costa-brava-vergelijking/
   fr: /fr/blog/sitges-ou-costa-brava-comparaison/
-image: "https://images.pexels.com/photos/30051052/pexels-photo-30051052/free-photo-of-charming-sitges-beachfront-on-a-summer-day.jpeg?auto=compress&cs=tinysrgb&w=1800"
+image: "https://images.unsplash.com/photo-1566736459432-a82bdacb0330?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Cuéntanos qué buscas y te ayudamos a decidir entre zonas con una selección de inmuebles real, no solo con opiniones."
 related:
   - /es/blog/sitges-guia-comprar-zona-cosmopolita/
   - /es/blog/comprar-casa-en-begur-guia/
   - /es/blog/maresme-alternativa-costa-brava/
+image_inline: "https://images.unsplash.com/photo-1719760907022-7e83e8181d50?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Roca sobre una playa de arena"
 ---
 
 Es una de las preguntas que más recibimos de compradores internacionales que todavía no conocen bien el territorio: ¿Sitges o Costa Brava? La respuesta correcta no depende del precio ni de las fotos de Instagram, sino de qué tipo de vida imaginas viviendo allí.

@@ -13,12 +13,14 @@ translations:
   en: /en/blog/living-year-round-costa-brava/
   nl: /nl/blog/het-hele-jaar-wonen-costa-brava/
   fr: /fr/blog/vivre-toute-annee-costa-brava/
-image: "https://images.unsplash.com/photo-1702655358646-12a7b5be0bbe?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1634545803854-69aec0272dc7?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Is permanent verhuizen je plan? Wij helpen je het gebied te vinden dat bij je dagelijks leven past, niet alleen bij je vakantie."
 related:
   - /nl/blog/cadaques-begur-llafranc-verschillen/
   - /nl/blog/kosten-onderhoud-tweede-woning-costa-brava-per-jaar/
   - /nl/blog/golden-visa-spanje-vereisten/
+image_inline: "https://images.unsplash.com/photo-1758818710855-b60cf3b74de6?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Olijven aan de tak onder een blauwe lucht"
 ---
 
 Er zit een groot verschil tussen een tweede woning kopen om juli en augustus aan de Costa Brava door te brengen, en er permanent gaan wonen. Elk jaar krijgen we vragen van kopers in beide situaties, en de vragen die er dan toe doen, verschillen behoorlijk. Deze gids is geschreven voor wie de tweede optie overweegt.

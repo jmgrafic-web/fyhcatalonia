@@ -13,12 +13,14 @@ translations:
   en: /en/blog/legal-mistakes-buying-without-lawyer/
   nl: /nl/blog/juridische-fouten-kopen-zonder-advocaat/
   fr: /fr/blog/erreurs-juridiques-achat-sans-avocat/
-image: "https://images.unsplash.com/photo-1664463760781-f159dfe3af30?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Nous coordonnons la révision juridique de votre opération avec un avocat spécialisé dans les acheteurs étrangers, dans le cadre du processus."
 related:
   - /fr/blog/notaire-espagne-jour-de-la-signature/
   - /fr/blog/certificat-habitabilite-catalogne/
   - /fr/blog/due-diligence-technique-immobiliere-explication/
+image_inline: "https://images.unsplash.com/photo-1562564055-71e051d33c19?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Relecture de documents avant la signature"
 ---
 
 "Le notaire vérifie déjà que tout est en ordre, un avocat est-il vraiment nécessaire en plus ?" C'est une question légitime, et la réponse est non : le notaire authentifie l'acte et vérifie certains aspects formels, mais ne défend pas les intérêts de l'acheteur face au vendeur, ne négocie pas en son nom, et ne détecte pas nécessairement tout ce qu'un acheteur aurait intérêt à savoir avant de signer. Cette fonction, c'est celle d'un avocat propre — et s'en passer est, de loin, l'économie la plus coûteuse que nous ayons vu tenter des acheteurs étrangers.

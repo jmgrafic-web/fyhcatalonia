@@ -13,12 +13,14 @@ translations:
   en: /en/blog/mortgage-financing-foreigners-spain/
   nl: /nl/blog/hypotheek-financiering-buitenlanders-spanje/
   fr: /fr/blog/hypotheque-financement-etrangers-espagne/
-image: "https://images.unsplash.com/photo-1664463760781-f159dfe3af30?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1626178793926-22b28830aa30?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Nous coordonnons la relation avec votre établissement financier dans le cadre naturel du processus d'achat."
 related:
   - /fr/blog/impots-achat-immobilier-espagne-non-resident/
   - /fr/blog/compte-bancaire-espagne-non-resident/
   - /fr/blog/erreurs-juridiques-achat-sans-avocat/
+image_inline: "https://images.unsplash.com/photo-1759429084833-334282cbd58d?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Maquettes de maisons à côté de billets"
 ---
 
 "Puis-je obtenir un prêt immobilier en Espagne en tant qu'étranger ?" est, de loin, la question financière que nous recevons le plus après une première visite. La réponse courte est oui. La réponse utile comporte quelques nuances à connaître avant de faire une offre.

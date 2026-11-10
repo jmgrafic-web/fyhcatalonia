@@ -13,12 +13,14 @@ translations:
   en: /en/blog/buying-farmhouse-emporda-renovate-guide/
   nl: /nl/blog/boerderij-kopen-emporda-renoveren-gids/
   fr: /fr/blog/acheter-masia-emporda-renover-guide/
-image: "https://images.unsplash.com/photo-1557393120-d3ee552f3736?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1653750934543-aebe598499f3?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Op zoek naar een boerderij met potentieel in de Empordà? Wij hebben off-market woningen die nooit op de portals verschijnen."
 related:
   - /nl/blog/boerderij-of-nieuwbouwvilla/
   - /nl/blog/bouwvergunning-catalonie-kleine-grote-werken/
   - /nl/blog/technische-due-diligence-vastgoed-uitgelegd/
+image_inline: "https://images.unsplash.com/photo-1768839725085-829e6ac7ac26?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Handen die een muur bepleisteren"
 ---
 
 De binnenlandse Empordà is niet de Costa Brava, ook al ligt het er maar een kwartiertje vandaan. Het is een heel ander soort plek: achttiende-eeuwse boerderijen, bijna ongerepte middeleeuwse dorpen, wijngaarden en olijfbomen zover het oog reikt, en een rust die de kustlijn niet meer kan bieden. Voor wie op zoek is naar een restauratieproject met echt karakter, is dit een van de weinige plekken in Europa waar dat nog tegen een redelijke prijs te vinden is.

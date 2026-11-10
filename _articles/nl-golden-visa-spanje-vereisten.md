@@ -13,12 +13,14 @@ translations:
   en: /en/blog/golden-visa-spain-requirements/
   nl: /nl/blog/golden-visa-spanje-vereisten/
   fr: /fr/blog/golden-visa-espagne-conditions/
-image: "https://images.unsplash.com/photo-1763076470404-23554ef26747?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1723095136747-20a24afcee20?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Als verblijfsrecht onderdeel is van je reden om te kopen, brengen we je vanaf het eerste gesprek in contact met een immigratieadvocaat."
 related:
   - /nl/blog/nie-nummer-huis-kopen-spanje-stappenplan/
   - /nl/blog/belastingen-huis-kopen-spanje-niet-ingezetene/
   - /nl/blog/het-hele-jaar-wonen-costa-brava/
+image_inline: "https://images.unsplash.com/photo-1779729686198-117c1307894d?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Bureau met documenten, rekenmachine en bril"
 ---
 
 Weinig termen hebben voor zoveel verwarring gezorgd onder internationale kopers als "Golden Visa". Jarenlang was het de bekendste route naar Spaans verblijfsrecht via het kopen van een woning. Maar het regelgevend kader is veranderd, en het is goed om met actuele informatie het gesprek in te gaan, niet met wat een paar jaar geleden op forums circuleerde.

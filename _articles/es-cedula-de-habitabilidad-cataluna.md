@@ -13,12 +13,14 @@ translations:
   en: /en/blog/habitability-certificate-catalonia/
   nl: /nl/blog/bewoonbaarheidscertificaat-catalonie/
   fr: /fr/blog/certificat-habitabilite-catalogne/
-image: "https://images.unsplash.com/photo-1768321902290-54497eeb9cf6?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1764737734436-7eb904d3a4ab?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Verificamos la cédula y el resto de la documentación antes de que firmes arras."
 related:
   - /es/blog/due-diligence-tecnica-inmobiliaria/
   - /es/blog/notaria-espana-dia-de-la-firma/
   - /es/blog/licencia-obras-cataluna-menor-mayor/
+image_inline: "https://images.unsplash.com/photo-1520587393050-c5298e1a8486?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Escalera interior de un edificio residencial"
 ---
 
 Entre los papeles de una compraventa en Cataluña hay uno que sorprende a casi todos los compradores extranjeros: la cédula de habitabilidad. No es un trámite menor: sin ella, hay compras que se complican el mismo día de la firma.

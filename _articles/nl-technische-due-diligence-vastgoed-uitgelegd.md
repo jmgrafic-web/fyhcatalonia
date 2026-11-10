@@ -16,13 +16,15 @@ translations:
 pillar: true
 pillar_order: 2
 footer_label: "Technische due diligence"
-image: "https://images.unsplash.com/photo-1763076470404-23554ef26747?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1772442198624-4fc4d7281e89?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Voordat je een reserveringscontract tekent voor een woning, bespreken we wat een technische inspectie erover kan onthullen."
 related:
   - /nl/blog/huis-kopen-costa-brava-buitenlander-gids/
   - /nl/blog/juridische-fouten-kopen-zonder-advocaat/
   - /nl/blog/bewoonbaarheidscertificaat-catalonie/
 start_here: true
+image_inline: "https://images.unsplash.com/photo-1444419988131-046ed4e5ffd6?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Kamer met vochtige muren en een beschadigde vloer"
 ---
 
 De meeste kopers behandelen de technische inspectie als een optionele stap — iets wat je doet "als er tijd voor is", of "als de verkoper het niet erg vindt". Het is waarschijnlijk de duurste fout die je kunt maken bij het kopen van een woning — zeker als je koopt vanuit een ander land, zonder directe kennis van de lokale bouwstandaarden.

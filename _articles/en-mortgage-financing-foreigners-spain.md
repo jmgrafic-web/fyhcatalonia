@@ -13,12 +13,14 @@ translations:
   en: /en/blog/mortgage-financing-foreigners-spain/
   nl: /nl/blog/hypotheek-financiering-buitenlanders-spanje/
   fr: /fr/blog/hypotheque-financement-etrangers-espagne/
-image: "https://images.unsplash.com/photo-1664463760781-f159dfe3af30?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1626178793926-22b28830aa30?auto=format&fit=crop&w=1800&q=75"
 cta_body: "We coordinate the relationship with your lender as a natural part of the buying process."
 related:
   - /en/blog/taxes-buying-property-spain-non-resident/
   - /en/blog/spanish-bank-account-non-resident/
   - /en/blog/legal-mistakes-buying-without-lawyer/
+image_inline: "https://images.unsplash.com/photo-1759429084833-334282cbd58d?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "House models next to banknotes"
 ---
 
 "Can I get a mortgage in Spain as a foreigner?" is, by some distance, the financial question we hear most after a first property viewing. The short answer is yes. The useful answer has a few nuances worth knowing before you make an offer.

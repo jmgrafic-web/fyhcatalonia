@@ -16,12 +16,14 @@ translations:
 pillar: true
 pillar_order: 5
 footer_label: "Vakantieverhuurvergunning"
-image: "https://images.pexels.com/photos/30051052/pexels-photo-30051052/free-photo-of-charming-sitges-beachfront-on-a-summer-day.jpeg?auto=compress&cs=tinysrgb&w=1800"
+image: "https://images.unsplash.com/photo-1613977257592-4871e5fcd7c4?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Overweeg je te kopen met verhuur in gedachten? Wij helpen de vergunningssituatie van de specifieke woning en gemeente te verifiëren."
 related:
   - /nl/blog/rendement-kopen-om-te-verhuren-catalaanse-kust/
   - /nl/blog/kosten-onderhoud-tweede-woning-costa-brava-per-jaar/
   - /nl/blog/belastingen-huis-kopen-spanje-niet-ingezetene/
+image_inline: "https://images.unsplash.com/photo-1629078691977-dc51747c0263?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Slaapkamer met wit beddengoed, klaar voor gasten"
 ---
 
 Een flink deel van de internationale kopers overweegt vanaf het begin om hun woning aan de Catalaanse kust te verhuren tijdens de periodes dat ze er zelf geen gebruik van maken. Dat is een redelijke verwachting — maar de Catalaanse regelgeving rond kortetermijnverhuur voor toeristisch gebruik is een van de specifiekste van Spanje, en het is goed deze te begrijpen vóórdat je koopt, niet erna.

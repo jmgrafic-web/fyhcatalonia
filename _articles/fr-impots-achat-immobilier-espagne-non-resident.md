@@ -16,12 +16,14 @@ translations:
 pillar: true
 pillar_order: 3
 footer_label: "Impôts et frais"
-image: "https://images.unsplash.com/photo-1664463760781-f159dfe3af30?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1762427354397-854a52e0ded7?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Nous coordonnons votre gestoria et votre conseiller fiscal dans le cadre du processus d'achat, pour que vous n'ayez pas à le gérer séparément."
 related:
   - /fr/blog/hypotheque-financement-etrangers-espagne/
   - /fr/blog/compte-bancaire-espagne-non-resident/
   - /fr/blog/golden-visa-espagne-conditions/
+image_inline: "https://images.unsplash.com/photo-1648201637025-1c77b9be3013?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Calculatrice et stylo sur des documents"
 ---
 
 La fiscalité est l'un des sujets qui génère le plus d'incertitude chez les acheteurs étrangers : que paie-t-on, quand, et quelles obligations subsistent après la signature. Ce guide passe en revue les principaux concepts pour que vous abordiez la conversation avec votre conseiller fiscal avec les bonnes questions — il ne remplace pas ce conseil, car les montants exacts dépendent de la région autonome, du type de bien et de votre situation personnelle, et doivent toujours être confirmés par un professionnel avant de signer quoi que ce soit.

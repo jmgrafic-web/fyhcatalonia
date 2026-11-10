@@ -13,12 +13,14 @@ translations:
   en: /en/blog/sitges-or-costa-brava-comparison/
   nl: /nl/blog/sitges-of-costa-brava-vergelijking/
   fr: /fr/blog/sitges-ou-costa-brava-comparaison/
-image: "https://images.pexels.com/photos/30051052/pexels-photo-30051052/free-photo-of-charming-sitges-beachfront-on-a-summer-day.jpeg?auto=compress&cs=tinysrgb&w=1800"
+image: "https://images.unsplash.com/photo-1566736459432-a82bdacb0330?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Vertel ons wat je zoekt en we helpen je gebieden te vergelijken met een echte selectie woningen, niet alleen meningen."
 related:
   - /nl/blog/sitges-koopgids-kosmopolitisch-gebied/
   - /nl/blog/huis-kopen-in-begur-gids/
   - /nl/blog/maresme-alternatief-costa-brava/
+image_inline: "https://images.unsplash.com/photo-1719760907022-7e83e8181d50?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Rots op een zandstrand"
 ---
 
 Het is een van de vragen die we het vaakst krijgen van internationale kopers die het gebied nog niet goed kennen: Sitges of Costa Brava? Het juiste antwoord hangt niet af van de prijs of hoe de foto's eruitzien, maar van het type leven dat je je daar voorstelt.

@@ -13,12 +13,14 @@ translations:
   en: /en/blog/buying-farmhouse-emporda-renovate-guide/
   nl: /nl/blog/boerderij-kopen-emporda-renoveren-gids/
   fr: /fr/blog/acheter-masia-emporda-renover-guide/
-image: "https://images.unsplash.com/photo-1557393120-d3ee552f3736?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1653750934543-aebe598499f3?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Si estás buscando una masía con potencial en el Empordà, contamos con propiedades off-market que no llegan a los portales."
 related:
   - /es/blog/masia-o-villa-obra-nueva/
   - /es/blog/licencia-obras-cataluna-menor-mayor/
   - /es/blog/due-diligence-tecnica-inmobiliaria/
+image_inline: "https://images.unsplash.com/photo-1768839725085-829e6ac7ac26?auto=format&fit=crop&w=1400&q=75"
+image_inline_alt: "Manos aplicando revoco sobre un muro"
 ---
 
 El Empordà interior no es la Costa Brava, aunque esté a quince minutos de ella. Es un territorio distinto: masías del siglo XVIII, pueblos medievales casi intactos, viñas y olivos hasta donde alcanza la vista, y una tranquilidad que la primera línea de mar ya no puede ofrecer. Para quien busca un proyecto de restauración con carácter propio, es uno de los pocos lugares de Europa donde todavía es posible encontrarlo a precios razonables.
