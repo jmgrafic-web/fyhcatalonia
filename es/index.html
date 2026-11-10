@@ -59,7 +59,6 @@ translations:
       <li class="flow-item"><div class="flow-top"><span class="flow-n">02.</span><i class="flow-arrow" aria-hidden="true"></i></div><h3>Find Your Haven</h3><p>Te orientamos y coordinamos el proceso con una mirada arquitectónica e inmobiliaria.</p></li>
       <li class="flow-item"><div class="flow-top"><span class="flow-n">03.</span></div><h3>Nuestros partners</h3><p>Colaboramos con profesionales seleccionados cuando cada proyecto lo necesita.</p></li>
     </ol>
-    <a class="text-link model-cta" href="#contacto">Hablemos de lo que tienes en mente <span aria-hidden="true">→</span></a>
   </div>
 </section>
 
@@ -175,51 +174,29 @@ translations:
   </div>
 </section>
 
-<section class="section partners" id="partners">
+<section class="partners" id="partners">
   <div class="wrap partners-grid">
     <div class="partners-copy reveal">
       <p class="eyebrow">Partners</p>
       <h2>¿Eres profesional en la costa? <em>Colaboremos.</em></h2>
-      <p>Trabajamos con una red seleccionada de agencias inmobiliarias, constructoras, arquitectos, abogados, interioristas y empresas de gestión y mantenimiento. Te presentamos clientes internacionales con un encargo claro y un presupuesto validado, y nos ocupamos de la comunicación con ellos.</p>
-      <ul class="partners-points">
-        <li><span class="n">01</span>Sin exclusividad</li>
-        <li><span class="n">02</span>Sin cuotas de entrada</li>
-        <li><span class="n">03</span>Clientes cualificados</li>
-      </ul>
+      <p>Agencias, constructoras, arquitectos, abogados e interioristas: te presentamos clientes internacionales con un encargo claro. Sin exclusividad ni cuotas.</p>
     </div>
     <div class="partners-box reveal">
-      <form class="contact-form partners-form" action="https://formspree.io/f/TU_ID_FORMSPREE" method="POST" data-contact-form data-error-msg="No hemos podido enviar la solicitud. Inténtalo de nuevo o escríbenos a hello@findyourhaven.com.">
+      <form class="contact-form partners-form" action="https://formspree.io/f/TU_ID_FORMSPREE" method="POST" data-contact-form data-error-msg="No se ha podido enviar. Escríbenos a hello@findyourhaven.com.">
         <input type="hidden" name="_subject" value="Nueva solicitud de partner (ES)">
         <input type="hidden" name="Idioma" value="ES">
         <input type="hidden" name="Tipo" value="Partner">
         <div class="hp-field" aria-hidden="true"><label>No rellenar <input type="text" name="_gotcha" tabindex="-1" autocomplete="off"></label></div>
         <div class="field"><label for="p-name">Nombre</label><input id="p-name" type="text" name="Nombre" autocomplete="name" required></div>
-        <div class="field"><label for="p-company">Empresa o estudio</label><input id="p-company" type="text" name="Empresa" autocomplete="organization" required></div>
-        <div class="field"><label for="p-email">Correo electrónico</label><input id="p-email" type="email" name="Email" autocomplete="email" required></div>
+        <div class="field"><label for="p-email">Email</label><input id="p-email" type="email" name="Email" autocomplete="email" required></div>
         <div class="field"><label for="p-spec">Especialidad</label>
-          <select id="p-spec" name="Especialidad" required>
-            <option value="" selected disabled>Elige una opción</option>
-            <option>Agencia inmobiliaria</option>
-            <option>Construcción y reforma</option>
-            <option>Arquitectura y aparejadores</option>
-            <option>Asesoría legal y gestoría</option>
-            <option>Interiorismo</option>
-            <option>Gestión de alquiler vacacional</option>
-            <option>Mantenimiento</option>
-            <option>Otra especialidad</option>
-          </select>
+          <select id="p-spec" name="Especialidad" required><option value="" selected disabled>Elige una opción</option><option>Agencia inmobiliaria</option><option>Construcción y reforma</option><option>Arquitectura</option><option>Legal y gestoría</option><option>Interiorismo</option><option>Gestión y mantenimiento</option><option>Otra</option></select>
         </div>
-        <div class="field field--full"><label for="p-msg">Cuéntanos brevemente sobre tu trabajo <small>(opcional)</small></label><textarea id="p-msg" name="Mensaje" rows="3"></textarea></div>
-        <p class="form-consent">Al enviar este formulario, aceptas que contactemos contigo para hablar de una posible colaboración. Consulta nuestra <a href="{{ '/es/privacidad/' | relative_url }}">Política de privacidad</a>.</p>
-        <div class="form-actions">
-          <button class="btn btn-dark" type="submit" data-sending-label="Enviando…">Quiero ser partner <span class="arr" aria-hidden="true">→</span></button>
-          <p class="form-error" role="alert" hidden></p>
-        </div>
+        <button class="btn btn-accent" type="submit" data-sending-label="Enviando…">Quiero colaborar <span class="arr" aria-hidden="true">→</span></button>
+        <p class="form-consent">Al enviar aceptas que te contactemos. <a href="{{ '/es/privacidad/' | relative_url }}">Privacidad</a></p>
+        <p class="form-error" role="alert" hidden></p>
       </form>
-      <div class="form-success" role="status" tabindex="-1" hidden>
-        <h3>Gracias por tu interés.</h3>
-        <p>Hemos recibido tu solicitud. Te escribiremos para contarte cómo funciona la colaboración.</p>
-      </div>
+      <div class="form-success" role="status" tabindex="-1" hidden><p>Gracias. Te escribiremos pronto para contarte cómo colaborar.</p></div>
     </div>
   </div>
 </section>

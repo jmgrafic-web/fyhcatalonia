@@ -59,7 +59,6 @@ translations:
       <li class="flow-item"><div class="flow-top"><span class="flow-n">02.</span><i class="flow-arrow" aria-hidden="true"></i></div><h3>Find Your Haven</h3><p>We geven je richting en coördineren het proces met een architectonische én vastgoedblik.</p></li>
       <li class="flow-item"><div class="flow-top"><span class="flow-n">03.</span></div><h3>Onze partners</h3><p>We werken samen met geselecteerde professionals wanneer een project daarom vraagt.</p></li>
     </ol>
-    <a class="text-link model-cta" href="#contact">Laten we praten over wat je voor ogen hebt <span aria-hidden="true">→</span></a>
   </div>
 </section>
 
@@ -175,51 +174,29 @@ translations:
   </div>
 </section>
 
-<section class="section partners" id="partners">
+<section class="partners" id="partners">
   <div class="wrap partners-grid">
     <div class="partners-copy reveal">
       <p class="eyebrow">Partners</p>
       <h2>Professional aan de kust? <em>Laten we samenwerken.</em></h2>
-      <p>We werken met een geselecteerd netwerk van makelaars, aannemers, architecten, advocaten, interieurontwerpers en bedrijven voor beheer en onderhoud. We stellen je voor aan internationale klanten met een duidelijke opdracht en een gevalideerd budget, en wij verzorgen de communicatie met hen.</p>
-      <ul class="partners-points">
-        <li><span class="n">01</span>Geen exclusiviteit</li>
-        <li><span class="n">02</span>Geen instapkosten</li>
-        <li><span class="n">03</span>Gekwalificeerde klanten</li>
-      </ul>
+      <p>Makelaars, aannemers, architecten, advocaten en interieurontwerpers: we stellen je voor aan internationale klanten met een duidelijke opdracht. Geen exclusiviteit, geen kosten.</p>
     </div>
     <div class="partners-box reveal">
-      <form class="contact-form partners-form" action="https://formspree.io/f/YOUR_FORMSPREE_ID" method="POST" data-contact-form data-error-msg="Je aanvraag kon niet worden verzonden. Probeer het opnieuw of mail ons op hello@findyourhaven.com.">
+      <form class="contact-form partners-form" action="https://formspree.io/f/YOUR_FORMSPREE_ID" method="POST" data-contact-form data-error-msg="Verzenden is mislukt. Mail ons op hello@findyourhaven.com.">
         <input type="hidden" name="_subject" value="Nieuwe partneraanvraag (NL)">
         <input type="hidden" name="Idioma" value="NL">
         <input type="hidden" name="Tipo" value="Partner">
         <div class="hp-field" aria-hidden="true"><label>Niet invullen <input type="text" name="_gotcha" tabindex="-1" autocomplete="off"></label></div>
         <div class="field"><label for="p-name">Naam</label><input id="p-name" type="text" name="Nombre" autocomplete="name" required></div>
-        <div class="field"><label for="p-company">Bedrijf of bureau</label><input id="p-company" type="text" name="Empresa" autocomplete="organization" required></div>
-        <div class="field"><label for="p-email">E-mailadres</label><input id="p-email" type="email" name="Email" autocomplete="email" required></div>
+        <div class="field"><label for="p-email">E-mail</label><input id="p-email" type="email" name="Email" autocomplete="email" required></div>
         <div class="field"><label for="p-spec">Vakgebied</label>
-          <select id="p-spec" name="Especialidad" required>
-            <option value="" selected disabled>Kies een optie</option>
-            <option>Makelaardij</option>
-            <option>Bouw &amp; renovatie</option>
-            <option>Architecten &amp; bouwkundigen</option>
-            <option>Juridisch &amp; administratief advies</option>
-            <option>Interieurontwerp</option>
-            <option>Beheer vakantieverhuur</option>
-            <option>Onderhoud</option>
-            <option>Anders</option>
-          </select>
+          <select id="p-spec" name="Especialidad" required><option value="" selected disabled>Kies een optie</option><option>Makelaardij</option><option>Bouw &amp; renovatie</option><option>Architectuur</option><option>Juridisch &amp; administratie</option><option>Interieurontwerp</option><option>Beheer &amp; onderhoud</option><option>Anders</option></select>
         </div>
-        <div class="field field--full"><label for="p-msg">Vertel ons kort over je werk <small>(optioneel)</small></label><textarea id="p-msg" name="Mensaje" rows="3"></textarea></div>
-        <p class="form-consent">Door dit formulier te verzenden, ga je ermee akkoord dat we contact met je opnemen over een mogelijke samenwerking. Lees ons <a href="{{ '/nl/privacy/' | relative_url }}">privacybeleid</a>.</p>
-        <div class="form-actions">
-          <button class="btn btn-dark" type="submit" data-sending-label="Verzenden…">Word partner <span class="arr" aria-hidden="true">→</span></button>
-          <p class="form-error" role="alert" hidden></p>
-        </div>
+        <button class="btn btn-accent" type="submit" data-sending-label="Verzenden…">Word partner <span class="arr" aria-hidden="true">→</span></button>
+        <p class="form-consent">Door te verzenden ga je akkoord dat we contact met je opnemen. <a href="{{ '/nl/privacy/' | relative_url }}">Privacy</a></p>
+        <p class="form-error" role="alert" hidden></p>
       </form>
-      <div class="form-success" role="status" tabindex="-1" hidden>
-        <h3>Bedankt voor je interesse.</h3>
-        <p>We hebben je aanvraag ontvangen en laten je weten hoe de samenwerking werkt.</p>
-      </div>
+      <div class="form-success" role="status" tabindex="-1" hidden><p>Bedankt. We nemen snel contact met je op over de samenwerking.</p></div>
     </div>
   </div>
 </section>

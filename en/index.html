@@ -59,7 +59,6 @@ translations:
       <li class="flow-item"><div class="flow-top"><span class="flow-n">02.</span><i class="flow-arrow" aria-hidden="true"></i></div><h3>Find Your Haven</h3><p>We guide you and coordinate the process with both an architectural and a property perspective.</p></li>
       <li class="flow-item"><div class="flow-top"><span class="flow-n">03.</span></div><h3>Our partners</h3><p>We work with selected professionals whenever a project calls for it.</p></li>
     </ol>
-    <a class="text-link model-cta" href="#contact">Let's talk about what you have in mind <span aria-hidden="true">→</span></a>
   </div>
 </section>
 
@@ -175,51 +174,29 @@ translations:
   </div>
 </section>
 
-<section class="section partners" id="partners">
+<section class="partners" id="partners">
   <div class="wrap partners-grid">
     <div class="partners-copy reveal">
       <p class="eyebrow">Partners</p>
       <h2>A professional on the coast? <em>Let’s work together.</em></h2>
-      <p>We work with a selected network of estate agencies, builders, architects, lawyers, interior designers and property management and maintenance companies. We introduce you to international clients with a clear brief and a validated budget, and we handle the communication with them.</p>
-      <ul class="partners-points">
-        <li><span class="n">01</span>No exclusivity</li>
-        <li><span class="n">02</span>No joining fees</li>
-        <li><span class="n">03</span>Qualified clients</li>
-      </ul>
+      <p>Estate agencies, builders, architects, lawyers and interior designers: we introduce you to international clients with a clear brief. No exclusivity, no fees.</p>
     </div>
     <div class="partners-box reveal">
-      <form class="contact-form partners-form" action="https://formspree.io/f/YOUR_FORMSPREE_ID" method="POST" data-contact-form data-error-msg="We couldn’t send your application. Please try again, or email us at hello@findyourhaven.com.">
+      <form class="contact-form partners-form" action="https://formspree.io/f/YOUR_FORMSPREE_ID" method="POST" data-contact-form data-error-msg="We couldn’t send it. Email us at hello@findyourhaven.com.">
         <input type="hidden" name="_subject" value="New partner application (EN)">
         <input type="hidden" name="Idioma" value="EN">
         <input type="hidden" name="Tipo" value="Partner">
         <div class="hp-field" aria-hidden="true"><label>Leave empty <input type="text" name="_gotcha" tabindex="-1" autocomplete="off"></label></div>
         <div class="field"><label for="p-name">Name</label><input id="p-name" type="text" name="Nombre" autocomplete="name" required></div>
-        <div class="field"><label for="p-company">Company or studio</label><input id="p-company" type="text" name="Empresa" autocomplete="organization" required></div>
-        <div class="field"><label for="p-email">Email address</label><input id="p-email" type="email" name="Email" autocomplete="email" required></div>
+        <div class="field"><label for="p-email">Email</label><input id="p-email" type="email" name="Email" autocomplete="email" required></div>
         <div class="field"><label for="p-spec">Field</label>
-          <select id="p-spec" name="Especialidad" required>
-            <option value="" selected disabled>Choose an option</option>
-            <option>Estate agency</option>
-            <option>Construction &amp; renovation</option>
-            <option>Architects &amp; surveyors</option>
-            <option>Legal &amp; administrative advice</option>
-            <option>Interior design</option>
-            <option>Holiday rental management</option>
-            <option>Maintenance</option>
-            <option>Other</option>
-          </select>
+          <select id="p-spec" name="Especialidad" required><option value="" selected disabled>Choose an option</option><option>Estate agency</option><option>Construction &amp; renovation</option><option>Architecture</option><option>Legal &amp; admin</option><option>Interior design</option><option>Management &amp; maintenance</option><option>Other</option></select>
         </div>
-        <div class="field field--full"><label for="p-msg">Tell us briefly about your work <small>(optional)</small></label><textarea id="p-msg" name="Mensaje" rows="3"></textarea></div>
-        <p class="form-consent">By submitting this form, you agree that we may contact you to discuss a possible collaboration. See our <a href="{{ '/en/privacy/' | relative_url }}">Privacy policy</a>.</p>
-        <div class="form-actions">
-          <button class="btn btn-dark" type="submit" data-sending-label="Sending…">Become a partner <span class="arr" aria-hidden="true">→</span></button>
-          <p class="form-error" role="alert" hidden></p>
-        </div>
+        <button class="btn btn-accent" type="submit" data-sending-label="Sending…">Become a partner <span class="arr" aria-hidden="true">→</span></button>
+        <p class="form-consent">By sending, you agree that we may contact you. <a href="{{ '/en/privacy/' | relative_url }}">Privacy</a></p>
+        <p class="form-error" role="alert" hidden></p>
       </form>
-      <div class="form-success" role="status" tabindex="-1" hidden>
-        <h3>Thank you for your interest.</h3>
-        <p>We have received your application and will write to you to explain how the collaboration works.</p>
-      </div>
+      <div class="form-success" role="status" tabindex="-1" hidden><p>Thank you. We’ll be in touch soon to explain how we work together.</p></div>
     </div>
   </div>
 </section>

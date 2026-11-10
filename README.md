@@ -19,21 +19,21 @@ index.html            página raíz: selector de idioma + redirección automáti
 ARTICLES-GUIA.md      cómo añadir un artículo nuevo — léelo antes de publicar el primero
 ```
 
-## Identidad visual (colores y tipografía) — v6
-
-Sigue el documento «Presentación visual de la web». Todo está en `assets/css/main.css`, al principio (`:root`):
+## Identidad visual (colores y tipografía) — v12
 
 | Color | Uso | Valor | Variable |
 |---|---|---|---|
-| Marfil cálido | Fondos principales | `#F5F1E8` | `--ivory` |
-| Azul pizarra | Titulares, navegación y botones | `#20384A` | `--ink` / `--med` |
-| Terracota | CTA secundarios, numeración y detalles | `#B85F42` | `--accent` |
-| Gris piedra | Texto secundario y separadores | `#65717A` | `--stone` |
+| Marfil | Fondos principales | `#F5F1E8` | `--ivory` |
+| Arena | Fondos alternos (Servicios, Revista) | `#EEE7DA` | `--sand` |
+| Verde bosque | Titulares, navegación, botones, sección «Cómo trabajamos» | `#1F3B30` | `--ink` / `--med` |
+| Verde profundo | Pie | `#152A21` | `--med-deep` |
+| Terracota | Numeración, CTA y detalles | `#B85F42` | `--accent` |
+| Gris piedra | Texto secundario | `#66706A` | `--stone` |
 
-- Tipografía: Cormorant Garamond (titulares, serif) y DM Sans (lectura e interfaz).
-- Cabecera siempre clara (marfil) con el botón «Contacto» en azul pizarra, en todas las páginas.
-- Sin iconos decorativos ni tarjetas en arco: numeración en terracota, separadores finos y fotografía.
-- Los valores de la v5 quedan anotados en un comentario en `:root`, por si hay que volver atrás.
+- Tipografía: DM Sans en todo (titulares en semibold, segunda línea de los titulares en regular y verde grisáceo).
+- Las secciones de la portada alternan fondo: marfil → arena → verde → arena → marfil → negro (Partners).
+- El imagotipo de la cabecera usa una versión verde (`assets/img/brand/fyh-mark-green*.png`); la azul original sigue en la carpeta.
+- Los valores de la v11 (azul pizarra) quedan anotados en un comentario en `:root`.
 - La **página raíz** (`index.html`, selector de idioma) usa ahora la misma foto, imagotipo y tipografías que la web.
   El navegador entra directo al primer idioma preferido del usuario que esté disponible (EN, ES, NL, FR).
 - **Página 404** de marca (`404.html`), en los 4 idiomas y marcada como `noindex`.
@@ -63,6 +63,13 @@ navegador elige solo:
 Cada encuadre está en WebP y JPG. Para cambiar la foto, sustituye los tres archivos manteniendo los
 nombres. El carrusel sigue disponible: si añades otro bloque `<div class="hero-slide">…</div>`
 dentro de `.hero-bg` en los 4 `index.html`, aparecen solas las flechas y los indicadores.
+
+## Imágenes de los artículos
+
+Cada artículo tiene su propia portada (`image:`) y una imagen interior (`image_inline:` + `image_inline_alt:`),
+todas de Unsplash y **sin repetir ninguna** entre artículos (las 4 traducciones de un mismo artículo
+comparten las suyas). La imagen interior se coloca sola antes del segundo apartado del texto
+(`_layouts/article.html`), con su pie de foto.
 
 ## SEO: cómo está montado
 
