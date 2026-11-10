@@ -16,7 +16,7 @@ translations:
 pillar: true
 pillar_order: 3
 footer_label: "Taxes and costs"
-image: "https://images.unsplash.com/photo-1747405415026-f74f7e075090?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1664463760781-f159dfe3af30?auto=format&fit=crop&w=1800&q=75"
 cta_body: "We coordinate your administrator and tax advisor as part of the buying process, so you don't have to manage it separately."
 related:
   - /en/blog/mortgage-financing-foreigners-spain/

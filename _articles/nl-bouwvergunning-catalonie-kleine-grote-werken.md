@@ -13,7 +13,7 @@ translations:
   en: /en/blog/building-permit-catalonia-minor-major-works/
   nl: /nl/blog/bouwvergunning-catalonie-kleine-grote-werken/
   fr: /fr/blog/permis-de-construire-catalogne-travaux-mineurs-majeurs/
-image: "https://images.unsplash.com/photo-1721244653627-90b840127a7a?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1763076470404-23554ef26747?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Wij beoordelen welke vergunning je renovatie nodig heeft voordat je het pand koopt."
 related:
   - /nl/blog/renovatiekosten-catalaanse-kust-gids/

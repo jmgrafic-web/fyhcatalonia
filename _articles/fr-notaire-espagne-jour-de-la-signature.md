@@ -13,7 +13,7 @@ translations:
   en: /en/blog/spanish-notary-completion-day/
   nl: /nl/blog/notaris-spanje-dag-van-de-ondertekening/
   fr: /fr/blog/notaire-espagne-jour-de-la-signature/
-image: "https://images.unsplash.com/photo-1747405415026-f74f7e075090?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1664463760781-f159dfe3af30?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Nous coordonnons avec vous, votre avocat et le notaire pour que le jour de la signature n'ait aucune surprise."
 related:
   - /fr/blog/erreurs-juridiques-achat-sans-avocat/

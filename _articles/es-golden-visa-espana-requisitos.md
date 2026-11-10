@@ -13,7 +13,7 @@ translations:
   en: /en/blog/golden-visa-spain-requirements/
   nl: /nl/blog/golden-visa-spanje-vereisten/
   fr: /fr/blog/golden-visa-espagne-conditions/
-image: "https://images.unsplash.com/photo-1721244653627-90b840127a7a?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1763076470404-23554ef26747?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Si tu interés en comprar está ligado a la residencia, te ponemos en contacto con un abogado de extranjería desde la primera conversación."
 related:
   - /es/blog/nie-para-comprar-casa-espana-paso-a-paso/

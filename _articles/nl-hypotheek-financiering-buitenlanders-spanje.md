@@ -13,7 +13,7 @@ translations:
   en: /en/blog/mortgage-financing-foreigners-spain/
   nl: /nl/blog/hypotheek-financiering-buitenlanders-spanje/
   fr: /fr/blog/hypotheque-financement-etrangers-espagne/
-image: "https://images.unsplash.com/photo-1747405415026-f74f7e075090?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1664463760781-f159dfe3af30?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Wij coördineren het contact met je financiële instelling als vanzelfsprekend onderdeel van het koopproces."
 related:
   - /nl/blog/belastingen-huis-kopen-spanje-niet-ingezetene/

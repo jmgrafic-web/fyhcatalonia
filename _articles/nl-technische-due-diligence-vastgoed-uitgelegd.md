@@ -16,7 +16,7 @@ translations:
 pillar: true
 pillar_order: 2
 footer_label: "Technische due diligence"
-image: "https://images.unsplash.com/photo-1721244653627-90b840127a7a?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1763076470404-23554ef26747?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Voordat je een reserveringscontract tekent voor een woning, bespreken we wat een technische inspectie erover kan onthullen."
 related:
   - /nl/blog/huis-kopen-costa-brava-buitenlander-gids/

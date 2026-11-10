@@ -13,7 +13,7 @@ translations:
   en: /en/blog/legal-mistakes-buying-without-lawyer/
   nl: /nl/blog/juridische-fouten-kopen-zonder-advocaat/
   fr: /fr/blog/erreurs-juridiques-achat-sans-avocat/
-image: "https://images.unsplash.com/photo-1747405415026-f74f7e075090?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1664463760781-f159dfe3af30?auto=format&fit=crop&w=1800&q=75"
 cta_body: "We coordinate the legal review of your purchase with a lawyer who specialises in foreign buyers, as part of the process."
 related:
   - /en/blog/spanish-notary-completion-day/

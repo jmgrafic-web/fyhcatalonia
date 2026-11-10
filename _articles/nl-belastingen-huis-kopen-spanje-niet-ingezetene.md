@@ -16,7 +16,7 @@ translations:
 pillar: true
 pillar_order: 3
 footer_label: "Belastingen en kosten"
-image: "https://images.unsplash.com/photo-1747405415026-f74f7e075090?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1664463760781-f159dfe3af30?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Wij coördineren je gestor en belastingadviseur als onderdeel van het koopproces, zodat jij dit niet apart hoeft te regelen."
 related:
   - /nl/blog/hypotheek-financiering-buitenlanders-spanje/

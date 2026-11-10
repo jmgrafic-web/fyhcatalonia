@@ -16,7 +16,7 @@ translations:
 pillar: true
 pillar_order: 2
 footer_label: "Due diligence técnica"
-image: "https://images.unsplash.com/photo-1721244653627-90b840127a7a?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1763076470404-23554ef26747?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Antes de firmar arras por cualquier inmueble, hablemos de lo que una inspección técnica puede revelar sobre él."
 related:
   - /es/blog/comprar-vivienda-costa-brava-extranjero/

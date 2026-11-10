@@ -13,7 +13,7 @@ translations:
   en: /en/blog/spanish-bank-account-non-resident/
   nl: /nl/blog/spaanse-bankrekening-niet-ingezetene/
   fr: /fr/blog/compte-bancaire-espagne-non-resident/
-image: "https://images.unsplash.com/photo-1747405415026-f74f7e075090?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1664463760781-f159dfe3af30?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Wij brengen je in contact met banken die gewend zijn aan buitenlandse kopers."
 related:
   - /nl/blog/nie-nummer-huis-kopen-spanje-stappenplan/

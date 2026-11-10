@@ -16,7 +16,7 @@ translations:
 pillar: true
 pillar_order: 3
 footer_label: "Impuestos y gastos"
-image: "https://images.unsplash.com/photo-1747405415026-f74f7e075090?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1664463760781-f159dfe3af30?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Coordinamos a tu gestor y asesor fiscal como parte del proceso de compra, para que no tengas que gestionarlo por separado."
 related:
   - /es/blog/hipoteca-financiacion-extranjero-espana/

@@ -13,7 +13,7 @@ translations:
   en: /en/blog/nie-number-buying-property-spain-step-by-step/
   nl: /nl/blog/nie-nummer-huis-kopen-spanje-stappenplan/
   fr: /fr/blog/nie-acheter-bien-espagne-etape-par-etape/
-image: "https://images.unsplash.com/photo-1747405415026-f74f7e075090?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1664463760781-f159dfe3af30?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Nous coordonnons votre NIE avec votre avocat ou votre gestor pour qu'il ne retarde pas votre achat."
 related:
   - /fr/blog/compte-bancaire-espagne-non-resident/
