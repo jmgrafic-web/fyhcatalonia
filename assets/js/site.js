@@ -48,6 +48,13 @@ document.addEventListener('DOMContentLoaded', function () {
     document.querySelectorAll('.reveal').forEach(function (el) { el.classList.add('is-visible'); });
   }
 
+  /* ---------- Parallax editorial en fotografías existentes ---------- */
+  if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+    document.querySelectorAll('.hero-bg, .model-photo, .svc-photo, .step-img, .contact-photo, .mcard-img').forEach(function (frame) {
+      frame.setAttribute('data-parallax', '');
+    });
+  }
+
   /* ---------- Parallax suave en imágenes de fondo ---------- */
   var parallaxEls = Array.prototype.slice.call(document.querySelectorAll('[data-parallax] img'));
   if (parallaxEls.length && !window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
