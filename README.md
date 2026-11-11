@@ -19,21 +19,23 @@ index.html            página raíz: selector de idioma + redirección automáti
 ARTICLES-GUIA.md      cómo añadir un artículo nuevo — léelo antes de publicar el primero
 ```
 
-## Identidad visual (colores y tipografía) — v12
+## Identidad visual (colores y tipografía) — v14
 
 | Color | Uso | Valor | Variable |
 |---|---|---|---|
-| Marfil | Fondos principales | `#F5F1E8` | `--ivory` |
-| Arena | Fondos alternos (Servicios, Revista) | `#EEE7DA` | `--sand` |
-| Verde bosque | Titulares, navegación, botones, sección «Cómo trabajamos» | `#1F3B30` | `--ink` / `--med` |
-| Verde profundo | Pie | `#152A21` | `--med-deep` |
-| Terracota | Numeración, CTA y detalles | `#B85F42` | `--accent` |
-| Gris piedra | Texto secundario | `#66706A` | `--stone` |
+| Ivory | Fondos claros | `#EDE7DC` | `--ivory` |
+| Sand | Fondos de contraste medio | `#C8B99F` | `--sand` |
+| Olive | Fondo de Partners, segunda línea de titulares | `#62664C` | `--olive` / `--med-light` |
+| Terracotta | Numeración, CTA y detalles | `#A9674D` | `--accent` |
+| Carbón | Titulares, botones, Servicios y pie | `#292A25` | `--ink` |
 
-- Tipografía: DM Sans en todo (titulares en semibold, segunda línea de los titulares en regular y verde grisáceo).
-- Las secciones de la portada alternan fondo: marfil → arena → verde → arena → marfil → negro (Partners).
-- El imagotipo de la cabecera usa una versión verde (`assets/img/brand/fyh-mark-green*.png`); la azul original sigue en la carpeta.
-- Los valores de la v11 (azul pizarra) quedan anotados en un comentario en `:root`.
+- Secuencia de fondos de la portada (cada apartado contrasta con el siguiente):
+  franja de argumentos (olive) → Nuestro modelo (ivory) → Servicios (carbón, texto claro)
+  → Cómo trabajamos (olive, texto claro) → Revista (ivory) → Contacto (sand) → Partners (olive) → pie (carbón).
+- El oliva también es el color de los botones sobre fondos claros (Contacto de la cabecera, Enviar
+  consulta, Recibir la guía) y de los detalles del bloque «Tú → Find Your Haven → Nuestros partners».
+- Tipografía: Cormorant Garamond (titulares) y DM Sans (lectura e interfaz).
+- Los valores de la v11 quedan anotados en un comentario en `:root`.
 - La **página raíz** (`index.html`, selector de idioma) usa ahora la misma foto, imagotipo y tipografías que la web.
   El navegador entra directo al primer idioma preferido del usuario que esté disponible (EN, ES, NL, FR).
 - **Página 404** de marca (`404.html`), en los 4 idiomas y marcada como `noindex`.
