@@ -184,13 +184,17 @@ p{ margin:0; }
 .hero-slide::after{ content:""; position:absolute; inset:0; background: rgba(31,32,28,.38); }
 /* móvil y tablet en vertical: la foto arriba (encuadre casa + mar, archivos hero-terraza-mobile/-tablet)
    y el texto debajo sobre marfil */
+/* móvil y tablet en vertical: texto integrado sobre la foto (encuadre casa + mar), en blanco sobre un velo uniforme */
 @media (max-width: 760px), (max-width: 1100px) and (orientation: portrait){
-  .hero{ display:block; height:auto; overflow:visible; }
-  .hero-bg{ position:relative; inset:auto; height: min(50vh, 112vw); height: min(50svh, 112vw); }
-  .hero-bg img{ object-position: 50% 45%; }
-  .hero-slide::after{ display:none; }
-  .hero .wrap{ padding-block: 1.6rem 2.8rem; }
+  .hero{ display:flex; align-items:flex-end; height:auto; min-height: calc(100vh - var(--header-h)); min-height: calc(100svh - var(--header-h)); }
+  .hero-bg img{ object-position: 50% 40%; }
+  .hero-slide::after{ background: rgba(31,32,28,.5); }
+  .hero .wrap{ padding-block: 28vh 2.6rem; }
   .hero-cta{ margin-top:1.8em; }
+  .hero h1{ color:#FFFFFF; text-shadow: 0 2px 20px rgba(0,0,0,.2); }
+  .hero-sub{ color: rgba(255,255,255,.92); }
+  .hero-text{ color: rgba(255,255,255,.9); }
+  .hero-cta .text-link{ color:#FFFFFF; border-bottom-color: rgba(255,255,255,.55); }
 }
 @media (max-width: 760px){ .hero-cta .btn{ width:100%; } .hero-cta .text-link{ margin-inline:auto; } }
 
@@ -654,11 +658,6 @@ h1,h2,.sec-head p{ text-wrap: balance; }
 .partners .form-success{ background: rgba(41,42,37,.22); }
 
 /* ---- Más oliva: franja bajo la portada, botones y detalles sobre fondos claros ---- */
-.hero-points{ background: var(--olive); border-bottom:none; }
-.hero-points li{ color: var(--white); }
-.hero-points li + li{ border-left-color: rgba(246,242,234,.22); }
-.hero-points .n{ color: #F0CDBD; }
-@media (max-width: 760px){ .hero-points li + li{ border-top-color: rgba(246,242,234,.22); } }
 .main-nav a.btn-dark, .btn-dark{ background: var(--olive); border-color: var(--olive); }
 .main-nav a.btn-dark:hover, .btn-dark:hover{ background: #4E523C; border-color: #4E523C; }
 .btn-outline{ color: var(--olive); border-color: rgba(98,102,76,.6); }
