@@ -13,7 +13,7 @@ translations:
   en: /en/blog/running-costs-holiday-home-costa-brava/
   nl: /nl/blog/kosten-onderhoud-tweede-woning-costa-brava-per-jaar/
   fr: /fr/blog/cout-annuel-entretien-maison-costa-brava/
-image: "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1732020283419-38e938352c3c?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Nous vous aidons à calculer le coût annuel réel du bien que vous envisagez avant de faire une offre."
 related:
   - /fr/blog/location-vacances-catalogne-licence/

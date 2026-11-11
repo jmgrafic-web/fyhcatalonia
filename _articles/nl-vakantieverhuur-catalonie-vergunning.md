@@ -16,7 +16,7 @@ translations:
 pillar: true
 pillar_order: 5
 footer_label: "Vakantieverhuurvergunning"
-image: "https://images.unsplash.com/photo-1613977257592-4871e5fcd7c4?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1767045572576-4e550983b89b?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Overweeg je te kopen met verhuur in gedachten? Wij helpen de vergunningssituatie van de specifieke woning en gemeente te verifiëren."
 related:
   - /nl/blog/rendement-kopen-om-te-verhuren-catalaanse-kust/

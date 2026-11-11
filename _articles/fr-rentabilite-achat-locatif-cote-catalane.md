@@ -13,7 +13,7 @@ translations:
   en: /en/blog/buy-to-let-profitability-catalan-coast/
   nl: /nl/blog/rendement-kopen-om-te-verhuren-catalaanse-kust/
   fr: /fr/blog/rentabilite-achat-locatif-cote-catalane/
-image: "https://images.unsplash.com/photo-1564501049412-61c2a3083791?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1673016817924-f212128e305e?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Avant d'acheter à des fins d'investissement, nous pouvons vous aider à calculer une rentabilité réaliste pour le bien envisagé."
 related:
   - /fr/blog/location-vacances-catalogne-licence/

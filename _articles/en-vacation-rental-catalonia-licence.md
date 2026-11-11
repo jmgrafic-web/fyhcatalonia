@@ -16,7 +16,7 @@ translations:
 pillar: true
 pillar_order: 5
 footer_label: "Holiday-let licence"
-image: "https://images.unsplash.com/photo-1613977257592-4871e5fcd7c4?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1767045572576-4e550983b89b?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Before buying with letting in mind, we can help verify the licensing situation for the specific property and municipality."
 related:
   - /en/blog/buy-to-let-profitability-catalan-coast/

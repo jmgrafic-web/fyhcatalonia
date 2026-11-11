@@ -16,7 +16,7 @@ translations:
 pillar: true
 pillar_order: 5
 footer_label: "Licencia de alquiler turístico"
-image: "https://images.unsplash.com/photo-1613977257592-4871e5fcd7c4?auto=format&fit=crop&w=1800&q=75"
+image: "https://images.unsplash.com/photo-1767045572576-4e550983b89b?auto=format&fit=crop&w=1800&q=75"
 cta_body: "Antes de comprar pensando en alquilar, podemos ayudarte a verificar la situación de licencias del inmueble y del municipio concreto."
 related:
   - /es/blog/rentabilidad-comprar-para-alquilar-costa-catalana/
