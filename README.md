@@ -19,7 +19,7 @@ index.html            página raíz: selector de idioma + redirección automáti
 ARTICLES-GUIA.md      cómo añadir un artículo nuevo — léelo antes de publicar el primero
 ```
 
-## Identidad visual (colores y tipografía) — v14
+## Identidad visual (colores y tipografía) — v15
 
 | Color | Uso | Valor | Variable |
 |---|---|---|---|
@@ -30,7 +30,7 @@ ARTICLES-GUIA.md      cómo añadir un artículo nuevo — léelo antes de publi
 | Carbón | Titulares, botones, Servicios y pie | `#292A25` | `--ink` |
 
 - Secuencia de fondos de la portada (cada apartado contrasta con el siguiente):
-  franja de argumentos (olive) → Nuestro modelo (ivory) → Servicios (carbón, texto claro)
+  franja de argumentos (ivory) → Nuestro modelo (ivory) → Servicios (carbón, texto claro)
   → Cómo trabajamos (olive, texto claro) → Revista (ivory) → Contacto (sand) → Partners (olive) → pie (carbón).
 - El oliva también es el color de los botones sobre fondos claros (Contacto de la cabecera, Enviar
   consulta, Recibir la guía) y de los detalles del bloque «Tú → Find Your Haven → Nuestros partners».
@@ -59,8 +59,8 @@ navegador elige solo:
 - **Escritorio** (`hero-terraza-desktop`, 16:9): foto a todo el ancho; el texto va a la izquierda
   sobre un velo marfil, en azul pizarra.
 - **Tablet en vertical** (`hero-terraza-tablet`, 3:4) y **móvil** (`hero-terraza-mobile`, 4:5):
-  encuadre centrado en la casa y el mar (columna de piedra, piscina, cala). La foto va arriba y el
-  texto debajo, sobre marfil, para que la imagen se vea entera y el texto se lea bien.
+  encuadre centrado en la casa y el mar. El texto va integrado sobre la foto, en blanco, con un velo
+  oscuro uniforme (sin degradado) para que se lea bien.
 
 Cada encuadre está en WebP y JPG. Para cambiar la foto, sustituye los tres archivos manteniendo los
 nombres. El carrusel sigue disponible: si añades otro bloque `<div class="hero-slide">…</div>`
